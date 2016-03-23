@@ -1,0 +1,43 @@
+div#abgne_marquee {
+    font-size:17px;
+    position: relative;
+    overflow: hidden;    /* �W�X�d�򪺳����n���� */
+    width: 865px;
+    height: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    /*border: 1px solid #ccc;
+    text-align:right;*/
+}
+div#abgne_marquee ul, div#abgne_marquee li {
+    margin: 0 0 0 0;
+    padding: 0;
+    list-style: none;        
+    padding-bottom:4px;
+    padding-top:1px;
+    margin-bottom:4px;        
+}
+div#abgne_marquee ul {
+    position: absolute;
+   /* left: 30px;        */    /* �������� 30px */
+}
+div#abgne_marquee ul li span{
+    display: block;
+    overflow: hidden;    /* �W�X�d�򪺳����n���� */
+    font-size:15px;
+    height: 25px;
+    line-height: 25px;
+    text-decoration: none;
+     /*color:Blue;
+    width: 360px;*/
+}
+div#abgne_marquee div.marquee_btn {
+position: absolute;
+cursor: pointer;
+}
+div#abgne_marquee div#marquee_next_btn {
+    left: 5px;
+}
+div#abgne_marquee div#marquee_prev_btn {
+    right: 5px;
+}

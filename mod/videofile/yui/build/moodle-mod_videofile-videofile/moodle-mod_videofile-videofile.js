@@ -1,0 +1,439 @@
+YUI.add('moodle-mod_videofile-videofile', function (Y, NAME) {
+
+//
+// Author: Brian Kelley
+// Description: Creates a "share" menu in the control bar.  See the readme on github.
+// 				https://github.com/brianpkelley/video-js-4-plugins/blob/master/addThis/README.md
+//
+
+(function() {
+	
+	// AddThis optional parameters
+	var pubid = false;
+	var ct = false;
+	var email_template = false;
+	var share_url = false;
+	var website_url = false;
+	/***********************************************
+	 * Social Item
+	 ***********************************************/
+	videojs.SocialItem = videojs.MenuItem.extend({
+		init: function(player, options){
+			
+			videojs.MenuItem.call(this, player, options);
+			if ( "embed" == options.kind ) { 
+				this.embedEl_ = new videojs.EmbedWindow(this.player(), {});
+				this.player().el().appendChild( this.embedEl_.el() );
+			}
+		}
+	});
+	
+	videojs.SocialItem.prototype.createEl = function(type, props) {
+		return vjs.Button.prototype.createEl.call(this, 'li', vjs.obj.merge({
+			className: 'vjs-menu-item',
+			innerHTML: '<span class="icon-'+this.options_['iconClass']+'"></span>'
+		}, props));
+	};
+	
+	videojs.SocialItem.prototype.onClick = function() {
+		var serialize = function(obj) {
+			var str = [];
+			for(var p in obj) {
+				str.push(encodeURIComponent(p) + "=" + encodeURIComponent(obj[p]));
+			}
+			return str.join("&");
+		}
+
+	
+		// Send this to AddThis.com
+		// Available Services - http://www.addthis.com/services/list
+		// http://support.addthis.com/customer/portal/articles/381265-addthis-sharing-endpoints
+		// URL - http://api.addthis.com/oexchange/0.8/forward/SERVICE_TAG/offer?OPTIONS
+		// Name	 						Description	 																			Type	 		Required?		 			Example
+		// url	 							URL of the page being shared.				 											string			yes	 						http://addthis.com
+		// title	 						Title of the page being shared.				 											string			no	 						AddThis Home Page
+		// description						Short description of the page being shared.												string			no	 						AddThis: One button. Your content everywhere.
+		// pubid	 						Your publisher profile ID (analytics).	 												string			no	 						addthis
+		// email_template					Email template to use for email sharing (requires pubid param)							string			no	 						my_template
+		// ct	 							Enable click tracking (shared page must have AddThis client code to measure clicks)	 	string			no							ct=1
+		
+		var send = {
+			'url': share_url || document.location.href,
+			'title': document.title,
+			'description': 'Check out this cool video at '+document.location.href,
+			'pubid': pubid || null,
+			'email_template': email_template || null,
+			'ct': ct || null
+		};
+		var width;
+		var height;
+		var kind = this.options().kind;
+		
+		var deserialize = function (s) {
+			var query = {};
+			
+			s.replace(/\b([^&=]*)=([^&=]*)\b/g, function (m, a, d) {
+				if (typeof query[a] != 'undefined') {
+					query[a] += ',' + d;
+				} else {
+					query[a] = d;
+				}
+			});
+			
+			return query;
+		}
+		
+		var src = this.player().currentSrc();
+		
+		
+		switch ( kind ) {
+			// Special Cases
+			/////////////////////////////
+			case 'embed':
+				
+				// Get current theme
+				
+				var pluginObj = this.player().options().plugins;
+				var pluginStr = JSON.stringify( pluginObj );
+				
+				// Change this code to suit your needs
+				var embedCode = [
+									'<link href="http://vjs.zencdn.net/4.1/video-js.css" rel="stylesheet">',
+									'<script src="http://vjs.zencdn.net/4.1/video.js"></script>',
+									'<video id="videojsplayer" class="video-js vjs-default-skin" controls preload="auto" width="640" height="360" poster="'+ (this.player().poster() || '' ) +'" data-setup=\'{"plugins":'+pluginStr+'}\'>',
+									'\t<source src="'+src+'" type="video/mp4" />',
+									'\t<p>Video Playback Not Supported</p>',
+									'</video>'
+								].join('\n');
+				// Create Elements
+				this.embedEl_.setEmbedCode( embedCode );
+				this.embedEl_.show();
+				
+				[].slice.call( this.embedEl_.el().getElementsByTagName('textarea') )[0].select();
+				
+				break;
+			case 'link':
+				if ( website_url ) {
+					window.open(website_url, 'Website');
+				}
+				break;
+			case 'more': 
+				width = width || 550;
+				height = height || 450;
+				window.open('http://api.addthis.com/oexchange/0.8/offer??'+serialize(send), 'AddThis', 'height='+height+',width='+width+',modal=yes,alwaysRaised=yes');
+				break;
+			
+			
+			
+			
+			// AddThis.com Forward Share API
+			////////////////////////////////////////
+			
+			case 'facebook':
+				width = width || 550;
+				height = height || 270;
+				// Fall through
+			case 'twitter':
+				width = width || 550;
+				height = height || 260;
+				send.text = send.description.replace(/\shttp\:\/\/.*$/gi, '');
+				// Fall through
+			case 'email':
+				width = width || 550;
+				height = height || 700;
+				// Fall through
+			default:
+				width = width || 550;
+				height = height || 450;
+				window.open('http://api.addthis.com/oexchange/0.8/forward/'+kind+'/offer?'+serialize(send), 'AddThis', 'height='+height+',width='+width+',modal=yes,alwaysRaised=yes');
+				// http://support.addthis.com/customer/portal/articles/381265-addthis-sharing-endpoints
+				// http://www.addthis.com/services/list
+		}
+		
+		// This can be and is caught in the googleAnalytics Plugin
+		videojs.trigger(this.player().el(),{type: 'socialclick', target: this.player().el(), kind: kind});
+		
+	};
+	
+	/***********************************************
+	 * Social Menu Button
+	 ***********************************************/
+		videojs.SocialButton = videojs.MenuButton.extend({
+		init: function(player, options){
+			videojs.MenuButton.call(this, player, options);
+
+			if ( this.items.length > 4 ) {
+				this.menu.contentEl().style.width = "15em";
+				this.menu.contentEl().style.left = "-7.5em";
+			}
+
+
+			this.on('click', this.onClick);
+		}
+	});
+
+
+	videojs.SocialButton.prototype.options_ = {
+		facebook: true,
+		twitter: true,
+		googleplus: true,
+		linkedin: true,
+		pinterest: true,
+		delicious: false,
+		reddit: false,
+		email: true,
+		embed: false,
+		//link: false,
+		more: true
+	};
+
+	videojs.SocialButton.prototype.available = {
+		facebook: {
+			'label': 'Facebook',
+			'kind': 'facebook',
+			'iconClass': 'facebook'
+		},
+		twitter: {
+			'label': 'Twitter',
+			'kind': 'twitter',
+			'iconClass': 'twitter'
+		},
+		googleplus: {
+			'label': 'Google+',
+			'kind': 'google_plusone_share',
+			'iconClass': 'google-plus'
+		},
+		linkedin: {
+			'label': 'LinkedIn+',
+			'kind': 'linkedin',
+			'iconClass': 'linkedin'
+		},
+		pinterest: {
+			'label': 'Pinterest+',
+			'kind': 'pinterest',
+			'iconClass': 'pinterest'
+		},
+		delicious: {
+			'label': 'Delicious',
+			'kind': 'delicious',
+			'iconClass': 'delicious'
+		},
+		reddit: {
+			'label': 'Reddit',
+			'kind': 'reddit',
+			'iconClass': 'reddit'
+		},
+		more: {
+			'label': 'More Services',
+			'kind': 'more',
+			'iconClass': 'plus'
+		},
+		email: {
+			'label': 'Email',
+			'kind': 'email',
+			'iconClass': 'envelope'
+		},
+		embed: {
+			'label': 'Embed',
+			'kind': 'embed',
+			'iconClass': 'code'
+		},
+		website_url: {
+			'label': 'Link',
+			'kind': 'link',
+			'iconClass': 'globe'
+		},
+	};
+
+	videojs.SocialButton.prototype.buttonText = 'Social';
+	/*videojs.SocialButton.prototype.createEl = function( props ) {
+		return videojs.Component.prototype.createEl('div', {
+			//className: 'vjs-social-button vjs-control vjs-menu-button '',
+			//innerHTML: '<div class="vjs-control-content"><span class="vjs-control-text">' + ('Social') + '</span></div>',
+			role: 'button',
+			'aria-live': 'polite', // let the screen reader user know that the text of the button may change
+			tabIndex: 0
+		});
+	};*/
+	vjs.SocialButton.prototype.buildCSSClass = function(){
+		return 'vjs-social-button vjs-control icon-share ' + vjs.MenuButton.prototype.buildCSSClass.call(this);
+	};
+	
+
+	/**
+	 * Override default
+	 */
+	videojs.SocialButton.prototype.onClick = function() {};
+
+	/**
+	 * Responsible for creating the vjs.SocialItems to add to the menu
+	 */
+	videojs.SocialButton.prototype.createItems = function(){
+		var items = [], track;
+		var options = this.options();
+
+		for ( var item in this.available ) {
+			if ( this.available.hasOwnProperty( item ) && options[item] ) {
+				items.push(new videojs.SocialItem(this.player_, this.available[item] ));
+			}
+		}
+
+		return items;
+	};
+	
+	
+	/***********************************************
+	 * Embed window to grab the code
+	 ***********************************************/
+	videojs.EmbedWindow = videojs.Component.extend({
+		/** @constructor */
+		init: function(player, options){
+			videojs.Component.call(this, player, options);
+			this.hide();
+			
+			this.exitEl_ = new videojs.ExitButton(player,{});
+			this.exitEl_.on('click', videojs.bind(this, function() {
+				this.hide();
+			}));
+			this.el_.appendChild( this.exitEl_.el() );
+			
+			this.textAreaEl_ = document.createElement('textarea');
+			this.textAreaEl_.style.fontSize = "10px";
+			if ( options.embedCode ) {
+				this.setEmbedCode( options.embedCode );
+			}
+			
+			this.el_.appendChild( this.textAreaEl_ );
+		},
+		
+		setEmbedCode: function(embedCode) {
+			this.textAreaEl_.value = embedCode || "";
+		}
+	});
+	
+	videojs.EmbedWindow.prototype.createEl = function(player,options) {
+		return videojs.Component.prototype.createEl(player, {
+			className: 'vjs-embed-window ',
+			innerHTML: '<h4 class="vjs-embed-title"><span class="icon-code"></span>  Embed Code</h4>',
+			'aria-live': 'polite', // let the screen reader user know that the text of the button may change
+			tabIndex: 0
+		});
+	}
+	
+	videojs.ExitButton = videojs.Button.extend({
+		/** @constructor */
+		init: function(player, options){
+			videojs.Component.call(this, player, options);
+		}		
+	});
+	
+	videojs.ExitButton.prototype.createEl = function(player,options) {
+		return videojs.Component.prototype.createEl(player,{
+			className: 'vjs-button icon-remove-sign',
+			innerHTML: '',
+			role: 'button',
+			'aria-live': 'polite', // let the screen reader user know that the text of the button may change
+			tabIndex: 0,
+			style: 'font-size: 10px'
+		});
+	}
+	videojs.ExitButton.prototype.onClick = function() {};
+	
+	
+	
+	
+	
+	// Note that we're not doing this in prototype.createEl() because
+	// it won't be called by Component.init (due to name obfuscation).
+	var createSocialButton = function(options) {
+	  var props = {
+		  className: 'vjs-social-button vjs-control vjs-menu-button icon-share',
+		  innerHTML: '<div class="vjs-control-content"><span class="vjs-control-text">' + ('Social') + '</span></div>',
+		  role: 'button',
+		  'aria-live': 'polite', // let the screen reader user know that the text of the button may change
+		  tabIndex: 0
+		};
+	  return videojs.Component.prototype.createEl(null, props);
+	};
+	
+	var social;
+	videojs.plugin('addThis', function(options) {
+		options = options || {};
+		
+		if ( options.includeFontAwesome || options.includeFontAwesome === undefined ) {
+			var tempLink = document.createElement('link');
+			tempLink.href = '//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css';
+			tempLink.rel = 'stylesheet';
+			document.getElementsByTagName('head')[0].appendChild( tempLink );
+		}
+		
+		if ( options.pubid ) {
+			pubid = options.pubid;
+		}
+		if ( options.ct ) {
+			ct = options.ct;
+		}
+		if ( options.email_template ) {
+			email_template = options.email_template;
+		}
+		if ( options.share_url ) {
+			share_url = options.share_url;
+		}
+		if ( options.website_url && options.website_url != /http(s)?:\/\//.test(options.website_url) && options.website_url != "") {
+			website_url = options.website_url;
+		} else {
+			delete options.website_url;
+		}
+		
+		var optionsClone = JSON.parse(JSON.stringify(options));
+		optionsClone.el = createSocialButton(options);
+		
+		
+		social = this.controlBar.addChild( 'socialButton', options );
+	});
+})();M.mod_videofile = M.mod_videofile || {};
+
+
+M.mod_videofile.videofile = {
+    
+  init: function (videoId, swfPath) {
+
+    videojs('videofile-' + videoId).addThis({
+        reddit: false,
+        delecious: false,
+        website_url: "http://www.google.com"
+    });
+      
+  },
+  enableResize: function (videoId, swfPath, prefWidth, prefHeight, limitDimensions) {
+
+    //var myPlayer = videojs('videofile-' + videoId);
+    var myPlayer = videojs('videofile-' + videoId, {"nativeControlsForTouch": false, "customControlsOnMobile": true});
+    
+    var playerElement = document.getElementById(myPlayer.id());
+    var playerParent = playerElement.parentElement;
+    var aspectRatio = prefHeight / prefWidth;
+
+    if (limitDimensions) {
+      // The max and min limit is overriden using styles.css in full
+      // screen mode.
+      playerElement.style.maxWidth = prefWidth + 'px';
+      playerElement.style.maxHeight = prefHeight + 'px';
+    }
+
+    function resizeVideoJS() {
+      // Get the parent element's actual width.
+      var parentWidth = playerParent.offsetWidth;
+
+      // Set width to fill parent element, set height proportionally.
+      myPlayer.width(parentWidth).height(parentWidth * aspectRatio);
+    }
+
+    resizeVideoJS();
+    window.onresize = resizeVideoJS;
+  }
+  
+};
+
+
+}, '@VERSION@', {"requires": ["base", "node", "event"]});
