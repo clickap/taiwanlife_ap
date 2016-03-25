@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl
+END
+file_xml_database_exporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/file_xml_database_exporter.php
+END
+string_xml_database_importer.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/string_xml_database_importer.php
+END
+database_exporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/database_exporter.php
+END
+database_mover.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/database_mover.php
+END
+xml_database_exporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/xml_database_exporter.php
+END
+string_xml_database_exporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/string_xml_database_exporter.php
+END
+file_xml_database_importer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/file_xml_database_importer.php
+END
+database_importer.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/database_importer.php
+END
+xml_database_importer.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/xml_database_importer.php
+END
+dbdata.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dtl/dbdata.xsd
+END

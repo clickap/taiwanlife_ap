@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class
+END
+pScatter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pScatter.class.php
+END
+pData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pData.class.php
+END
+pBarcode39.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pBarcode39.class.php
+END
+pIndicator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pIndicator.class.php
+END
+pPie.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pPie.class.php
+END
+pImage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pImage.class.php
+END
+pStock.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pStock.class.php
+END
+pSurface.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pSurface.class.php
+END
+pRadar.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pRadar.class.php
+END
+pBarcode128.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pBarcode128.class.php
+END
+pSplit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pSplit.class.php
+END
+pBubble.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pBubble.class.php
+END
+pDraw.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pDraw.class.php
+END
+pSpring.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pSpring.class.php
+END
+pCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/lib/pChart2/class/pCache.class.php
+END

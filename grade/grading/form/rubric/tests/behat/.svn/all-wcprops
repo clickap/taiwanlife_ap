@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/tests/behat
+END
+publish_rubric_templates.feature
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/tests/behat/publish_rubric_templates.feature
+END
+edit_rubric.feature
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/tests/behat/edit_rubric.feature
+END
+reuse_own_rubrics.feature
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/tests/behat/reuse_own_rubrics.feature
+END
+behat_gradingform_rubric.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/tests/behat/behat_gradingform_rubric.php
+END

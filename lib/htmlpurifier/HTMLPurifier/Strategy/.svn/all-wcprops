@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy
+END
+FixNesting.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy/FixNesting.php
+END
+MakeWellFormed.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy/MakeWellFormed.php
+END
+ValidateAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy/ValidateAttributes.php
+END
+Composite.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy/Composite.php
+END
+RemoveForeignElements.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy/RemoveForeignElements.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Strategy/Core.php
+END

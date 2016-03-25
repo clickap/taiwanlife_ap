@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/install/lang/ca_valencia
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/install/lang/ca_valencia/error.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/install/lang/ca_valencia/install.php
+END
+langconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/install/lang/ca_valencia/langconfig.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/install/lang/ca_valencia/admin.php
+END

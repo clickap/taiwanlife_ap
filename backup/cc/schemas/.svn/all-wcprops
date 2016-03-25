@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas
+END
+imscp_v1p2_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/imscp_v1p2_localised.xsd
+END
+imscp_v1p2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/imscp_v1p2.xsd
+END
+cclibxml2validator.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/cclibxml2validator.xsd
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/config.xml
+END
+imscc_c1p2maeV0p15_definition.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/imscc_c1p2maeV0p15_definition.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/xml.xsd
+END
+imscp_v1p2_constraintsDocument.scmt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/imscp_v1p2_constraintsDocument.scmt
+END

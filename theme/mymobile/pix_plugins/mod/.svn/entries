@@ -1,0 +1,85 @@
+10
+
+dir
+3
+http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/theme/mymobile/pix_plugins/mod
+http://192.168.1.169:18080/svn/TaiwanLIFEap2
+
+
+
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11953e39-5639-46ae-961e-90a9029f87ac
+
+label
+dir
+
+chat
+dir
+
+mail
+dir
+
+scorm
+dir
+
+feedback
+dir
+
+resource
+dir
+
+quiz
+dir
+
+forum
+dir
+
+choice
+dir
+
+book
+dir
+
+lams
+dir
+
+survey
+dir
+
+lesson
+dir
+
+glossary
+dir
+
+wiki
+dir
+
+assignment
+dir
+
+data
+dir
+
+folder
+dir
+
+page
+dir
+

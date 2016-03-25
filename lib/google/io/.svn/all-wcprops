@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io
+END
+Google_CurlIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io/Google_CurlIO.php
+END
+Google_REST.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io/Google_REST.php
+END
+Google_CacheParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io/Google_CacheParser.php
+END
+cacerts.pem
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io/cacerts.pem
+END
+Google_IO.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io/Google_IO.php
+END
+Google_HttpRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/io/Google_HttpRequest.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes
+END
+loaders.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/loaders.php
+END
+store.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/store.php
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/helper.php
+END
+interfaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/interfaces.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/config.php
+END
+factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/factory.php
+END
+definition.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/definition.php
+END
+dummystore.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/cache/classes/dummystore.php
+END

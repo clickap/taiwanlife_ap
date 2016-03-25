@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin
+END
+timezone.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/timezone.php
+END
+mailout-debugger.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/mailout-debugger.php
+END
+localplugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/localplugins.php
+END
+courseformats.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/courseformats.php
+END
+reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/reports.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/settings.php
+END
+tools.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tools.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/auth.php
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/phpinfo.php
+END
+resetemoticons.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/resetemoticons.php
+END
+environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/environment.php
+END
+repositoryinstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/repositoryinstance.php
+END
+licenses.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/licenses.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/search.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/renderer.php
+END
+oacleanup.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/oacleanup.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/filters.php
+END
+modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/modules.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/category.php
+END
+plugins.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/plugins.php
+END
+handlevirus.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/handlevirus.php
+END
+auth_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/auth_config.php
+END
+purgecaches.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/purgecaches.php
+END
+block.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/block.php
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/cron.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/index.php
+END
+upgradesettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/upgradesettings.php
+END
+editors.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/editors.php
+END
+environment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/environment.xml
+END
+blocks.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/blocks.php
+END
+portfolio.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/portfolio.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/user.php
+END
+oauth2callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/oauth2callback.php
+END
+enrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/enrol.php
+END
+repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/repository.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/message.php
+END
+qtypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/qtypes.php
+END
+process_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/process_email.php
+END
+qbehaviours.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/qbehaviours.php
+END
+plagiarism.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/plagiarism.php
+END

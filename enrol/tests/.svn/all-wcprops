@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/tests
+END
+enrollib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/tests/enrollib_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/tests/externallib_test.php
+END

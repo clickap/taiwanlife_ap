@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat
+END
+groups_import.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/groups_import.feature
+END
+id_uniqueness.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/id_uniqueness.feature
+END
+auto_creation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/auto_creation.feature
+END
+behat_groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/behat_groups.php
+END
+delete_groups.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/delete_groups.feature
+END
+update_groups.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/update_groups.feature
+END
+create_groups.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tests/behat/create_groups.feature
+END

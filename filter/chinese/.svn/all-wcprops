@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese
+END
+big5.map
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese/big5.map
+END
+gb.map
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese/gb.map
+END
+ccode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese/ccode.class.php
+END
+filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese/filter.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese/version.php
+END
+filtersettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/chinese/filtersettings.php
+END

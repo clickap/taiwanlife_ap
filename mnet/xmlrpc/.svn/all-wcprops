@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mnet/xmlrpc
+END
+serverlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mnet/xmlrpc/serverlib.php
+END
+xmlparser.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mnet/xmlrpc/xmlparser.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mnet/xmlrpc/client.php
+END
+server.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mnet/xmlrpc/server.php
+END

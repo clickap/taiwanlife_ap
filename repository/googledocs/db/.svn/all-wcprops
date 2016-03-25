@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/repository/googledocs/db
+END
+upgradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/repository/googledocs/db/upgradelib.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/repository/googledocs/db/access.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/repository/googledocs/db/upgrade.php
+END

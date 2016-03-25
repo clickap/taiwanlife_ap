@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/completion/tests/behat
+END
+enable_manual_complete_mark.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/completion/tests/behat/enable_manual_complete_mark.feature
+END
+restrict_activity_by_grade.feature
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/completion/tests/behat/restrict_activity_by_grade.feature
+END
+behat_completion.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/completion/tests/behat/behat_completion.php
+END
+restrict_section_availability.feature
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/completion/tests/behat/restrict_section_availability.feature
+END
+restrict_activity_by_date.feature
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/completion/tests/behat/restrict_activity_by_date.feature
+END

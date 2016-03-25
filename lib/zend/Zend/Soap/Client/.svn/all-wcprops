@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Soap/Client
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Soap/Client/Local.php
+END
+DotNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Soap/Client/DotNet.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Soap/Client/Exception.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Soap/Client/Common.php
+END

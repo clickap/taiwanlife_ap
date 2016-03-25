@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes
+END
+make_testplan_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes/make_testplan_form.php
+END
+site_backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes/site_backend.php
+END
+make_course_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes/make_course_form.php
+END
+testplan_backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes/testplan_backend.php
+END
+backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes/backend.php
+END
+course_backend.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/generator/classes/course_backend.php
+END

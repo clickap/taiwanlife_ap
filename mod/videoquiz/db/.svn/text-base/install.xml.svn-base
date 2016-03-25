@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="mod/videoquiz/db" VERSION="20130717" COMMENT="XMLDB file for Moodle mod/videoquiz"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="videoquiz" COMMENT="Default comment for videoquiz, store the quiz in video configration">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true" NEXT="course"/>
+        <FIELD NAME="course" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="Course videoquiz activity belongs to" PREVIOUS="id" NEXT="name"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="name field for moodle instances" PREVIOUS="course" NEXT="intro"/>
+        <FIELD NAME="intro" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="General introduction of the videoquiz activity" PREVIOUS="name" NEXT="introformat"/>
+        <FIELD NAME="introformat" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Format of the intro field (MOODLE, HTML, MARKDOWN...)" PREVIOUS="intro" NEXT="videotype"/>
+        <FIELD NAME="videotype" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="video type(streaming url or file)" PREVIOUS="introformat" NEXT="streamingurl"/>
+        <FIELD NAME="streamingurl" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false" COMMENT="video url field for Taiwan" PREVIOUS="videotype" NEXT="width"/>
+        <FIELD NAME="width" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="800" SEQUENCE="false" COMMENT="Width of the video in pixels" PREVIOUS="streamingurl" NEXT="height"/>
+        <FIELD NAME="height" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="500" SEQUENCE="false" COMMENT="Height of the video in pixels" PREVIOUS="width" NEXT="responsive"/>
+        <FIELD NAME="responsive" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Nonzero if video should adapt to window size with width and height used as a proportions" PREVIOUS="height" NEXT="questions"/>
+        
+        <FIELD NAME="questions" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="Comma-separated list of question ids, with 0s for page breaks." PREVIOUS="responsive" NEXT="grade"/>
+        
+        <FIELD NAME="grade" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="The maximum grade for this videoquiz. Can be negative to indicate the use of a scale." PREVIOUS="questions" NEXT="gradecat"/>
+        <FIELD NAME="gradecat" TYPE="number" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="grade" NEXT="timecreated"/>
+        
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="responsive" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="timecreated"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="course" UNIQUE="false" FIELDS="course"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="videoquiz_question" COMMENT="store the question in videoquiz configration">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true" NEXT="video"/>
+        <FIELD NAME="video" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="name"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="name field for quiz instances" PREVIOUS="video" NEXT="cuetime"/>
+        <FIELD NAME="cuetime" TYPE="number" LENGTH="10" DECIMALS="2" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Nonzero it question show up time " PREVIOUS="name" NEXT="timecreated"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="cuetime" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="timecreated"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="videoquiz" UNIQUE="false" FIELDS="video"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="videoquiz_option" COMMENT="store the quiz's questions in video configration">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true" NEXT="question"/>
+        <FIELD NAME="question" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="name"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="name field for option instances" PREVIOUS="question" NEXT="isanswer"/>
+        <FIELD NAME="isanswer" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="it is correct answer " PREVIOUS="name" NEXT="timecreated"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="isanswer" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="timecreated"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="question" UNIQUE="false" FIELDS="question"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="vq_question_attempts" COMMENT="Each row here corresponds to an attempt at one vq-question, as part of a videoquiz.">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="question" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="Foreign key, references videoquiz_question.id"/>
+        <!--FIELD NAME="variant" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="1" SEQUENCE="false" COMMENT="The variant of the qusetion being used."/-->
+        <!--FIELD NAME="maxmark" TYPE="number" LENGTH="12" NOTNULL="true" SEQUENCE="false" DECIMALS="7" COMMENT="The grade this question is marked out of in this attempt."/-->
+        <!--FIELD NAME="minfraction" TYPE="number" LENGTH="12" NOTNULL="true" SEQUENCE="false" DECIMALS="7" COMMENT="Some questions can award negative marks. This indicates the most negative mark that can be awarded, on the faction scale where the maximum positive mark is 1."/-->
+        <FIELD NAME="flagged" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Whether this question has been flagged within the attempt."/>
+        <FIELD NAME="questionsummary" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="If this question uses randomisation, it should set this field to summarise what random version the student actually saw. This is a human-readable textual summary of the student's response which might, for example, be used in a report."/>
+        <FIELD NAME="rightanswer" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="This is a human-readable textual summary of the right answer to this question. Might be used, for example on the quiz preview, to help people who are testing the question. Or might be used in reports."/>
+        <FIELD NAME="responsesummary" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="This is a textual summary of the student's response (basically what you would expect to in the Quiz responses report)."/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="The time this record was last changed."/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="questionid" TYPE="foreign" FIELDS="question" REFTABLE="videoquiz_question" REFFIELDS="id"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+  
+</XMLDB>

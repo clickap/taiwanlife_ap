@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures
+END
+events.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/events.php
+END
+upload_users.csv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/upload_users.csv
+END
+upload_users_cohorts.csv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/upload_users_cohorts.csv
+END
+tabfile.csv
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/tabfile.csv
+END
+statslib-test00.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test00.xml
+END
+statslib-test01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test01.xml
+END
+statslib-test10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test10.xml
+END
+statslib-test02.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test02.xml
+END
+statslib-test03.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test03.xml
+END
+statslib-test04.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test04.xml
+END
+statslib-test05.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test05.xml
+END
+statslib-test06.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test06.xml
+END
+statslib-test07.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test07.xml
+END
+statslib-test08.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test08.xml
+END
+statslib-test09.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test09.xml
+END
+empty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/empty.txt
+END

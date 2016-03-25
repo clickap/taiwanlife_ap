@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule
+END
+NonXMLCommonAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/NonXMLCommonAttributes.php
+END
+Hypertext.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Hypertext.php
+END
+TargetBlank.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/TargetBlank.php
+END
+CommonAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/CommonAttributes.php
+END
+Nofollow.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Nofollow.php
+END
+SafeScripting.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/SafeScripting.php
+END
+Scripting.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Scripting.php
+END
+Iframe.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Iframe.php
+END
+Bdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Bdo.php
+END
+Legacy.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Legacy.php
+END
+SafeObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/SafeObject.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Object.php
+END
+Tidy.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy.php
+END
+Tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tables.php
+END
+List.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/List.php
+END
+Presentation.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Presentation.php
+END
+SafeEmbed.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/SafeEmbed.php
+END
+Proprietary.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Proprietary.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Name.php
+END
+XMLCommonAttributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/XMLCommonAttributes.php
+END
+Ruby.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Ruby.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Image.php
+END
+StyleAttribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/StyleAttribute.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Text.php
+END
+Edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Edit.php
+END
+Forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Forms.php
+END
+Target.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Target.php
+END

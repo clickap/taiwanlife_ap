@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports
+END
+tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/tabs.php
+END
+import_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/import_form.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/settings.php
+END
+plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/plugin.class.php
+END
+editplugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/editplugin.php
+END
+editreport_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/editreport_form.php
+END
+editcomp.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/editcomp.php
+END
+viewreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/viewreport.php
+END
+component.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/component.class.php
+END
+filter_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/filter_form.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/edit_form.php
+END
+list_reports_in_category.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/list_reports_in_category.php
+END
+repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/repository.php
+END
+report.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/report.class.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/locallib.php
+END
+editreport.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/editreport.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/export.php
+END
+send_emails.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/send_emails.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/styles.css
+END
+managereport.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/managereport.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/version.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/README.txt
+END
+get_remote_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/get_remote_report.php
+END
+block_configurable_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/block_configurable_reports.php
+END

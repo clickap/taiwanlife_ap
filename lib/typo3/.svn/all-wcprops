@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3
+END
+class.t3lib_l10n_locales.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/class.t3lib_l10n_locales.php
+END
+interface.t3lib_singleton.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/interface.t3lib_singleton.php
+END
+class.t3lib_div.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/class.t3lib_div.php
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/readme_moodle.txt
+END
+class.t3lib_cs.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/class.t3lib_cs.php
+END

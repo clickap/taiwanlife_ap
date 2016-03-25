@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/institutions/db" VERSION="20130328" COMMENT="XMLDB file for Moodle local/institutions"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="local_school" COMMENT="Default comment for local_school, please edit me">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="fullname"/>
+        <FIELD NAME="fullname" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="cnfullname"/>  <!-- mary 簡體名稱-->   
+        <FIELD NAME="cnfullname" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="fullname" NEXT="shortname"/>      <!-- mary 英文名稱-->   
+        <FIELD NAME="shortname" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="cnfullname" NEXT="description"/>
+        <FIELD NAME="description" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="shortname" NEXT="address"/>
+        <FIELD NAME="address" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false" PREVIOUS="description" NEXT="phone"/>
+        <FIELD NAME="phone" TYPE="char" LENGTH="50" NOTNULL="false" SEQUENCE="false" PREVIOUS="address" NEXT="url"/>
+        <FIELD NAME="url" TYPE="char" LENGTH="1333" NOTNULL="true" SEQUENCE="false" PREVIOUS="phone" NEXT="icon"/>
+        <FIELD NAME="icon" TYPE="char" LENGTH="1333" NOTNULL="true" SEQUENCE="false" PREVIOUS="url" NEXT="coursesurl"/>
+        <FIELD NAME="coursesurl" TYPE="char" LENGTH="1333" NOTNULL="true" SEQUENCE="false" PREVIOUS="icon" NEXT="programsurl"/>  <!-- mary 課程連結-->   
+        <FIELD NAME="programsurl" TYPE="char" LENGTH="1333" NOTNULL="true" SEQUENCE="false" PREVIOUS="url"/>      <!-- mary 學程連結-->   
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>

@@ -1,0 +1,85 @@
+.favoritebox {
+	width: 100%;
+	padding-top: 1em;
+	margin-top: 15px;
+	border-top: 1px solid #DDD;
+}
+
+.favoritebox .info {
+	float: left;
+	width: 45%;
+	text-align:left;
+}
+
+.favoritebox .summary {
+	float: left;
+	width: 60%;
+	margin-top: 1.2em;
+	text-align:justify;
+}
+
+.favoritebox .functionbutton {
+    float: left;
+    width: 20%;
+    margin-top: 1.2em;
+    text-align:justify;
+}
+
+
+.favoritebox .options {
+	float: right;
+	width: 5%;
+	text-align:justify;
+}
+
+.favoritebox .name {
+	font-size: 1.2em;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+.favoritebox .address,
+.favoritebox .phone,
+.favoritebox .icon {
+	margin-left: 10px;
+}
+
+.favoritebox .icon {
+	display:block;
+}
+
+.favoritebox .icon img {
+	max-width: 90%;
+	max-height: 100px;
+}
+
+.favoritebox .summary p {
+	margin: 0;
+}
+
+.favoritebox .options a {
+	margin-bottom: 10px;
+	text-align: center;
+	display: block;
+}
+
+.favoritebox .options a img {
+	width: 16px;
+	height: 16px;
+}
+
+#page-local-favorite-view {
+	overflow: hidden;
+}
+
+#page-local-favorite-view,
+#page-local-favorite-view .region-content,
+#page-local-favorite-view iframe {
+	height: 100%;
+}
+
+#page-local-favorite-view iframe {
+	width: 100%;
+	margin: 0 auto;
+	border: 0;
+}

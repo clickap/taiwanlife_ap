@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify
+END
+Lines.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/Lines.php
+END
+ImportProcessor.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/ImportProcessor.php
+END
+Build.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/Build.php
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/Logger.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/Source.php
+END
+CommentPreserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/CommentPreserver.php
+END
+DebugDetector.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/DebugDetector.php
+END
+YUICompressor.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/YUICompressor.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/HTML.php
+END
+Packer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/Packer.php
+END
+CSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/minify/lib/Minify/CSS.php
+END

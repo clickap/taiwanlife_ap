@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/backup/moodle2
+END
+restore_choice_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/backup/moodle2/restore_choice_activity_task.class.php
+END
+backup_choice_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/backup/moodle2/backup_choice_activity_task.class.php
+END
+restore_choice_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/backup/moodle2/restore_choice_stepslib.php
+END
+backup_choice_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/backup/moodle2/backup_choice_stepslib.php
+END
+backup_choice_settingslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/backup/moodle2/backup_choice_settingslib.php
+END

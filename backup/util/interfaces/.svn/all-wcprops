@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/interfaces
+END
+checksumable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/interfaces/checksumable.class.php
+END
+loggable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/interfaces/loggable.class.php
+END
+executable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/interfaces/executable.class.php
+END
+processable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/interfaces/processable.class.php
+END
+annotable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/interfaces/annotable.class.php
+END

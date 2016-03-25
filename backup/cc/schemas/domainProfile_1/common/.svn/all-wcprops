@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common
+END
+vocabValues.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/vocabValues.xsd
+END
+elementNames.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/elementNames.xsd
+END
+rootElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/rootElement.xsd
+END
+dataTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/dataTypes.xsd
+END
+elementTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/elementTypes.xsd
+END
+vocabTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/vocabTypes.xsd
+END
+anyElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/common/anyElement.xsd
+END

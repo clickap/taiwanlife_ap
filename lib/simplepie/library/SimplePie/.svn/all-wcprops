@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie
+END
+Misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Misc.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Parser.php
+END
+Caption.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Caption.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Exception.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Item.php
+END
+Enclosure.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Enclosure.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Source.php
+END
+Author.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Author.php
+END
+Locator.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Locator.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache.php
+END
+Restriction.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Restriction.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Registry.php
+END
+Copyright.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Copyright.php
+END
+Credit.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Credit.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Category.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/File.php
+END
+IRI.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/IRI.php
+END
+Rating.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Rating.php
+END
+gzdecode.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/gzdecode.php
+END
+Sanitize.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Sanitize.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Core.php
+END

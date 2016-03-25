@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents
+END
+course_reminder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents/course_reminder.class.php
+END
+site_reminder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents/site_reminder.class.php
+END
+activity_formatter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents/activity_formatter.class.php
+END
+group_reminder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents/group_reminder.class.php
+END
+due_reminder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents/due_reminder.class.php
+END
+user_reminder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/reminders/contents/user_reminder.class.php
+END

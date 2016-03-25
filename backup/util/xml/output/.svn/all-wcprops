@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/xml/output
+END
+memory_xml_output.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/xml/output/memory_xml_output.class.php
+END
+file_xml_output.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/xml/output/file_xml_output.class.php
+END
+xml_output.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/xml/output/xml_output.class.php
+END

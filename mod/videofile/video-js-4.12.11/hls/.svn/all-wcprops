@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls
+END
+playlist-loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/playlist-loader.js
+END
+bin-utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/bin-utils.js
+END
+exp-golomb.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/exp-golomb.js
+END
+metadata-stream.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/metadata-stream.js
+END
+h264-stream.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/h264-stream.js
+END
+aac-stream.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/aac-stream.js
+END
+m3u8-parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/m3u8-parser.js
+END
+videojs-hls.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/videojs-hls.js
+END
+stream.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/stream.js
+END
+segment-parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/segment-parser.js
+END
+pkcs7.unpad.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/pkcs7.unpad.js
+END
+h264-extradata.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/h264-extradata.js
+END
+flv-tag.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/flv-tag.js
+END
+decrypter.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/decrypter.js
+END
+playlist.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/playlist.js
+END
+videojs-media-sources.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/videojs-media-sources.js
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/video-js-4.12.11/hls/xhr.js
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat
+END
+categories.feature
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/categories.feature
+END
+prevent_duplicate_entries.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/prevent_duplicate_entries.feature
+END
+entries_require_approval.feature
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/entries_require_approval.feature
+END
+print_friendly_version.feature
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/print_friendly_version.feature
+END
+search_entries.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/search_entries.feature
+END
+behat_mod_glossary.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/behat_mod_glossary.php
+END
+entries_always_editable.feature
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/tests/behat/entries_always_editable.feature
+END

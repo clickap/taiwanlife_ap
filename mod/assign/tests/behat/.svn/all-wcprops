@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat
+END
+edit_previous_feedback.feature
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat/edit_previous_feedback.feature
+END
+prevent_submission_changes.feature
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat/prevent_submission_changes.feature
+END
+group_submission.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat/group_submission.feature
+END
+quickgrading.feature
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat/quickgrading.feature
+END
+file_submission.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat/file_submission.feature
+END
+online_submissions.feature
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assign/tests/behat/online_submissions.feature
+END

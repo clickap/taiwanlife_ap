@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/type/calculatedmulti/backup/moodle2
+END
+restore_qtype_calculatedmulti_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/type/calculatedmulti/backup/moodle2/restore_qtype_calculatedmulti_plugin.class.php
+END
+backup_qtype_calculatedmulti_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/type/calculatedmulti/backup/moodle2/backup_qtype_calculatedmulti_plugin.class.php
+END

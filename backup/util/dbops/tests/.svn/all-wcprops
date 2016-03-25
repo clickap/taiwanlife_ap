@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/dbops/tests
+END
+restore_dbops_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/dbops/tests/restore_dbops_test.php
+END
+backup_dbops_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/dbops/tests/backup_dbops_test.php
+END

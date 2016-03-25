@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/format/xml/tests/fixtures
+END
+sample_questions_with_old_image_tag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/format/xml/tests/fixtures/sample_questions_with_old_image_tag.xml
+END
+multichoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/format/xml/tests/fixtures/multichoice.xml
+END
+multianswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/format/xml/tests/fixtures/multianswer.xml
+END
+truefalse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/question/format/xml/tests/fixtures/truefalse.xml
+END

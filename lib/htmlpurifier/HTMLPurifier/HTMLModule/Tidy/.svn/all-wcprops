@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy
+END
+XHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/XHTML.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Name.php
+END
+Proprietary.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Proprietary.php
+END
+Transitional.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Transitional.php
+END
+Strict.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/Strict.php
+END
+XHTMLAndHTML4.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModule/Tidy/XHTMLAndHTML4.php
+END

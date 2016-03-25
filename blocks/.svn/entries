@@ -1,0 +1,342 @@
+10
+
+dir
+3
+http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/blocks
+http://192.168.1.169:18080/svn/TaiwanLIFEap2
+
+
+
+2016-03-23T03:19:38.586908Z
+3
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11953e39-5639-46ae-961e-90a9029f87ac
+
+mnet_hosts
+dir
+
+blog_recent
+dir
+
+course_menu
+dir
+
+moodleblock.class.php
+file
+
+
+
+
+2016-03-25T01:16:10.747051Z
+b86ba53c680fb589f04fbd4207539e59
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27788
+
+badges
+dir
+
+comments
+dir
+
+course_overview
+dir
+
+tag_youtube
+dir
+
+modforum
+dir
+
+modres
+dir
+
+course_list
+dir
+
+private_files
+dir
+
+site_main_menu
+dir
+
+modsurvey
+dir
+
+social_activities
+dir
+
+tags
+dir
+
+settings
+dir
+
+tests
+dir
+
+glossary_random
+dir
+
+section_links
+dir
+
+html
+dir
+
+rss_client
+dir
+
+messages
+dir
+
+login
+dir
+
+quiz_results
+dir
+
+calendar_upcoming
+dir
+
+news_items
+dir
+
+completionstatus
+dir
+
+selfcompletion
+dir
+
+community
+dir
+
+activity_modules
+dir
+
+feedback
+dir
+
+modquiz
+dir
+
+dock.js
+file
+
+
+
+
+2016-03-25T01:16:10.747051Z
+631f0355c6e5de0d4741c5a318605b4a
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44192
+
+recent_activity
+dir
+
+edit_form.php
+file
+
+
+
+
+2016-03-25T01:16:10.747051Z
+ba85afe060a5672ec91a1bfa5b3f3630
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13914
+
+navigation
+dir
+
+mentees
+dir
+
+admin_bookmarks
+dir
+
+search_forums
+dir
+
+blog_tags
+dir
+
+participants
+dir
+
+online_users
+dir
+
+tag_flickr
+dir
+
+upgrade.txt
+file
+
+
+
+
+2016-03-25T01:16:10.748051Z
+159125d1cfd82122a461fa0e64e83360
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1574
+
+modvideo
+dir
+
+myprofile
+dir
+
+blog_menu
+dir
+
+modextres
+dir
+
+index.html
+file
+
+
+
+
+2016-03-25T01:16:10.748051Z
+68b329da9893e34099c7d8ad5cb9c940
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+course_summary
+dir
+
+calendar_month
+dir
+
+configurable_reports
+dir
+

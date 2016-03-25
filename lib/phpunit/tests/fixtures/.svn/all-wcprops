@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpunit/tests/fixtures
+END
+sample_dataset.csv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpunit/tests/fixtures/sample_dataset.csv
+END
+sample_dataset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpunit/tests/fixtures/sample_dataset.xml
+END

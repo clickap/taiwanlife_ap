@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests
+END
+baseatom_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests/baseatom_test.php
+END
+baseattribute_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests/baseattribute_test.php
+END
+basefinalelement_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests/basefinalelement_test.php
+END
+structure_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests/structure_test.php
+END
+baseoptiogroup_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests/baseoptiogroup_test.php
+END
+basenestedelement_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/util/structure/tests/basenestedelement_test.php
+END

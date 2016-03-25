@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/auth/mnet/db
+END
+mnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/auth/mnet/db/mnet.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/auth/mnet/db/install.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/auth/mnet/db/upgrade.php
+END

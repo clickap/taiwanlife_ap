@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService
+END
+ChangeQuotaPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService/ChangeQuotaPool.php
+END
+GetQuotaInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService/GetQuotaInformation.php
+END
+GetAccountBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/DeveloperGarden/Request/BaseUserService/GetAccountBalance.php
+END

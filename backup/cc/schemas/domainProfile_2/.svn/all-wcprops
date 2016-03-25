@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2
+END
+imscc_mR_definition.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/imscc_mR_definition.xsd
+END
+lomLoose_constraintsDocument.scmt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/lomLoose_constraintsDocument.scmt
+END
+lomLoose_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/lomLoose_localised.xsd
+END
+lomLoose.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/lomLoose.xsd
+END
+vocabValues_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/vocabValues_localised.xsd
+END
+elementNames_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/elementNames_localised.xsd
+END
+rootElement_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/rootElement_localised.xsd
+END
+elementTypes_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/elementTypes_localised.xsd
+END
+dataTypes_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/dataTypes_localised.xsd
+END
+vocabTypes_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/vocabTypes_localised.xsd
+END
+anyElement_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/anyElement_localised.xsd
+END
+anyElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/anyElement.xsd
+END
+loose.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/loose.xsd
+END

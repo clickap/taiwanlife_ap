@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/backup/moodle2
+END
+restore_gradingform_rubric_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/backup/moodle2/restore_gradingform_rubric_plugin.class.php
+END
+backup_gradingform_rubric_plugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/grading/form/rubric/backup/moodle2/backup_gradingform_rubric_plugin.class.php
+END

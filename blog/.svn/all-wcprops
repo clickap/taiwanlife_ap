@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog
+END
+external_blog_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/external_blog_edit.php
+END
+external_blog_edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/external_blog_edit_form.php
+END
+rsslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/rsslib.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/locallib.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/preferences.php
+END
+preferences_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/preferences_form.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/edit.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/renderer.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/index.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/edit_form.php
+END
+external_blogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blog/external_blogs.php
+END

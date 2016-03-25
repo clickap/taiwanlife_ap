@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf
+END
+encodings_maps.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/encodings_maps.php
+END
+datamatrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/datamatrix.php
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf.php
+END
+tcpdf.crt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf.crt
+END
+sRGB.icc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/sRGB.icc
+END
+pdf417.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/pdf417.php
+END
+spotcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/spotcolors.php
+END
+tcpdf.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf.fdf
+END
+2dbarcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/2dbarcodes.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/composer.json
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/LICENSE.TXT
+END
+tcpdf.p12
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf.p12
+END
+tcpdf_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf_parser.php
+END
+qrcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/qrcode.php
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/unicode_data.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/CHANGELOG.TXT
+END
+barcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/barcodes.php
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/readme_moodle.txt
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/README.TXT
+END
+htmlcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/htmlcolors.php
+END
+tcpdf_filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf_filters.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lesson/tests/behat
+END
+date_availability.feature
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lesson/tests/behat/date_availability.feature
+END
+password_protection.feature
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lesson/tests/behat/password_protection.feature
+END
+time_limit.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lesson/tests/behat/time_limit.feature
+END
+lesson_navigation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lesson/tests/behat/lesson_navigation.feature
+END

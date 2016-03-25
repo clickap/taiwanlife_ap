@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse
+END
+mycourses.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/mycourses.php
+END
+mnetlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/mnetlib.php
+END
+resources_ext.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/resources_ext.php
+END
+courseview.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/courseview.php
+END
+editsection_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editsection_form.php
+END
+editforumgradesetting.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editforumgradesetting.php
+END
+resources_video.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/resources_video.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/settings.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/users.php
+END
+all_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/all_list.php
+END
+editcoursesetting.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editcoursesetting.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/lib.php
+END
+enrollib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/enrollib.php
+END
+editcategory_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editcategory_form.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/renderer.php
+END
+course_manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/course_manage.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/view.php
+END
+editsection.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editsection.php
+END
+coursecatlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/coursecatlib.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/styles.css
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/version.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/edit.php
+END
+resources_assignquiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/resources_assignquiz.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/manage.php
+END
+mnetcourseinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/mnetcourseinfo.php
+END
+editinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editinfo.php
+END
+infoedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/infoedit.php
+END
+editallsection.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editallsection.php
+END
+section.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/section.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/index.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/edit_form.php
+END
+resources.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/resources.php
+END
+courseinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/courseinfo.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/locallib.php
+END
+enrollocallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/enrollocallib.php
+END
+lib_elaine.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/lib_elaine.php
+END
+editcategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editcategory.php
+END
+infoedit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/infoedit_form.php
+END
+editinfo_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editinfo_form.php
+END
+editcoursesetting_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editcoursesetting_form.php
+END

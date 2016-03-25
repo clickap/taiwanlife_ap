@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/backup/moodle2
+END
+backup_chat_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/backup/moodle2/backup_chat_stepslib.php
+END
+restore_chat_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/backup/moodle2/restore_chat_activity_task.class.php
+END
+backup_chat_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/backup/moodle2/backup_chat_activity_task.class.php
+END
+restore_chat_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/backup/moodle2/restore_chat_stepslib.php
+END

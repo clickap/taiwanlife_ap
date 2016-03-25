@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper
+END
+convertquiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/convertquiz.php
+END
+extracttestcase_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/extracttestcase_form.php
+END
+listpreupgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/listpreupgrade.php
+END
+resetquiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/resetquiz.php
+END
+partialupgrade-example.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/partialupgrade-example.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/settings.php
+END
+afterupgradelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/afterupgradelib.php
+END
+listtodo.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/listtodo.php
+END
+cronsetup_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/cronsetup_form.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/renderer.php
+END
+extracttestcase.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/extracttestcase.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/lib.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/index.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/locallib.php
+END
+cronsetup.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/cronsetup.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/styles.css
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/README.txt
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/version.php
+END
+listupgraded.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/qeupgradehelper/listupgraded.php
+END

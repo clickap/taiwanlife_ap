@@ -1,0 +1,2915 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw
+END
+repository_areafiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_areafiles.php
+END
+datafield_latlong.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_latlong.php
+END
+format_grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_grid.php
+END
+repository_boxnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_boxnet.php
+END
+theme_mymobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_mymobile.php
+END
+hotpotreport_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotreport_overview.php
+END
+workshopeval_best.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopeval_best.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/access.php
+END
+filter_multilang.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_multilang.php
+END
+workshopallocation_scheduled.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopallocation_scheduled.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/url.php
+END
+quiz_statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quiz_statistics.php
+END
+lesson.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/lesson.php
+END
+booktool_print.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/booktool_print.php
+END
+workshopform_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopform_comments.php
+END
+question.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/question.php
+END
+repository_flickr_public.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_flickr_public.php
+END
+datafield_picture.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_picture.php
+END
+auth_radius.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_radius.php
+END
+auth_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_email.php
+END
+vitero.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/vitero.php
+END
+block_navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_navigation.php
+END
+hotpotreport_clicktrail.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotreport_clicktrail.php
+END
+block_admin_bookmarks.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_admin_bookmarks.php
+END
+assignment_offline.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignment_offline.php
+END
+tinymce_moodleimage.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_moodleimage.php
+END
+tool_qeupgradehelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_qeupgradehelper.php
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tag.php
+END
+gradereport_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradereport_user.php
+END
+assignment_online.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignment_online.php
+END
+qbehaviour_adaptivenopenalty.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_adaptivenopenalty.php
+END
+tool_unsuproles.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_unsuproles.php
+END
+timezones.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/timezones.php
+END
+datafield_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_text.php
+END
+repository_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_upload.php
+END
+quiz_grading.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quiz_grading.php
+END
+repository_s3.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_s3.php
+END
+block_my_grades.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_my_grades.php
+END
+block_fn_marking.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_fn_marking.php
+END
+table.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/table.php
+END
+repository_equella.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_equella.php
+END
+block_course_summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_course_summary.php
+END
+hotpotreport_scores.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotreport_scores.php
+END
+forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/forum.php
+END
+qtype_multianswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_multianswer.php
+END
+qtype_missingtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_missingtype.php
+END
+assignfeedback_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignfeedback_comments.php
+END
+auth_manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_manual.php
+END
+cohort.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cohort.php
+END
+auth_nntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_nntp.php
+END
+datafield_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_menu.php
+END
+repository_wikimedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_wikimedia.php
+END
+report_security.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_security.php
+END
+block_jmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_jmail.php
+END
+quizaccess_ipaddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_ipaddress.php
+END
+profilefield_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/profilefield_text.php
+END
+format_days.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_days.php
+END
+enrol_category.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_category.php
+END
+tool_advancedspamcleaner.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_advancedspamcleaner.php
+END
+block_section_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_section_links.php
+END
+media.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/media.php
+END
+webservice_soap.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/webservice_soap.php
+END
+theme_anomaly.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_anomaly.php
+END
+debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/debug.php
+END
+condition.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/condition.php
+END
+profilefield_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/profilefield_menu.php
+END
+qtype_gapselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_gapselect.php
+END
+portfolio_boxnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio_boxnet.php
+END
+report_performance.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_performance.php
+END
+block_community.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_community.php
+END
+block_people.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_people.php
+END
+profilefield_textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/profilefield_textarea.php
+END
+repository_url.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_url.php
+END
+reservation.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/reservation.php
+END
+assignfeedback_poodll.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignfeedback_poodll.php
+END
+qtype_random.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_random.php
+END
+gradingform_rubric.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradingform_rubric.php
+END
+qtype_description.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_description.php
+END
+qtype_essay.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_essay.php
+END
+block_fn_myprogress.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_fn_myprogress.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filters.php
+END
+filter_glossary.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_glossary.php
+END
+completion.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/completion.php
+END
+assignsubmission_onlinetext.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_onlinetext.php
+END
+tool_langimport.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_langimport.php
+END
+imscp.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/imscp.php
+END
+block_blog_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_blog_tags.php
+END
+repository_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_user.php
+END
+block_simple_clock.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_simple_clock.php
+END
+block_online_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_online_users.php
+END
+block_myprofile.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_myprofile.php
+END
+tool_behat.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_behat.php
+END
+block_pdf2submission.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_pdf2submission.php
+END
+portfolio_googledocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio_googledocs.php
+END
+repository_coursefiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_coursefiles.php
+END
+block_checklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_checklist.php
+END
+tool_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_generator.php
+END
+cachestore_mongodb.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachestore_mongodb.php
+END
+block_mooprofile.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_mooprofile.php
+END
+enrol_guest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_guest.php
+END
+tool_profiling.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_profiling.php
+END
+cachestore_static.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachestore_static.php
+END
+quiz_responses.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quiz_responses.php
+END
+report_loglive.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_loglive.php
+END
+block_tag_youtube.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_tag_youtube.php
+END
+qtype_numerical.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_numerical.php
+END
+role.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/role.php
+END
+tool_multilangupgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_multilangupgrade.php
+END
+block_my_courses.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_my_courses.php
+END
+qbehaviour_interactive.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_interactive.php
+END
+filter_mediaplugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_mediaplugin.php
+END
+mnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/mnet.php
+END
+repository_planetestream.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_planetestream.php
+END
+gradereport_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradereport_overview.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/install.php
+END
+videofile.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/videofile.php
+END
+qbehaviour_manualgraded.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_manualgraded.php
+END
+quizaccess_safebrowser.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_safebrowser.php
+END
+editor_atto.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/editor_atto.php
+END
+block_mrbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_mrbs.php
+END
+portfolio.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio.php
+END
+repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository.php
+END
+repository_recent.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_recent.php
+END
+assignfeedback_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignfeedback_pdf.php
+END
+qformat_learnwise.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_learnwise.php
+END
+theme_standard.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_standard.php
+END
+scorm.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/scorm.php
+END
+theme_serenity.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_serenity.php
+END
+quizaccess_delaybetweenattempts.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_delaybetweenattempts.php
+END
+block_calendar_upcoming.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_calendar_upcoming.php
+END
+enrol_flatfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_flatfile.php
+END
+assignsubmission_onlineaudio.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_onlineaudio.php
+END
+qtype_multichoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_multichoice.php
+END
+datafield_radiobutton.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_radiobutton.php
+END
+block_glossary_export_to_quiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_glossary_export_to_quiz.php
+END
+assignfeedback_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignfeedback_file.php
+END
+qbehaviour_informationitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_informationitem.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/error.php
+END
+eduplayer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/eduplayer.php
+END
+qbehaviour_interactivecountback.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_interactivecountback.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/plugin.php
+END
+block_moodleversion.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_moodleversion.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth.php
+END
+theme_overlay.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_overlay.php
+END
+grades.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/grades.php
+END
+tool_innodb.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_innodb.php
+END
+format_singleactivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_singleactivity.php
+END
+tinymce_moodlemedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_moodlemedia.php
+END
+block_objectives.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_objectives.php
+END
+tool_customlang.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_customlang.php
+END
+data.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/data.php
+END
+theme_brick.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_brick.php
+END
+chat.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/chat.php
+END
+profilefield_datetime.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/profilefield_datetime.php
+END
+block_blog_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_blog_menu.php
+END
+cachestore_session.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachestore_session.php
+END
+gradeexport_txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeexport_txt.php
+END
+local_configeditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/local_configeditor.php
+END
+auth_cas.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_cas.php
+END
+hotpotattempt_qedoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotattempt_qedoc.php
+END
+notes.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/notes.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/admin.php
+END
+block_configurable_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_configurable_reports.php
+END
+zh_tw.md5
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/zh_tw.md5
+END
+assignsubmission_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_pdf.php
+END
+repository_youtube.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_youtube.php
+END
+theme_canvas.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_canvas.php
+END
+survey.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/survey.php
+END
+block_blog_recent.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_blog_recent.php
+END
+gradeimport_xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeimport_xml.php
+END
+theme_binarius.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_binarius.php
+END
+qtype_pmatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_pmatch.php
+END
+qformat_missingword.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_missingword.php
+END
+block_badges.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_badges.php
+END
+pix.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/pix.php
+END
+theme_formal_white.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_formal_white.php
+END
+hotpotattempt_hp.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotattempt_hp.php
+END
+gradeexport_xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeexport_xml.php
+END
+assignsubmission_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_comments.php
+END
+block_private_files.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_private_files.php
+END
+attendance.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/attendance.php
+END
+hotpotsource_qedoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotsource_qedoc.php
+END
+profilefield_checkbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/profilefield_checkbox.php
+END
+block_settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_settings.php
+END
+datafield_textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_textarea.php
+END
+block_unanswered_discussions.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_unanswered_discussions.php
+END
+attendanceregister.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/attendanceregister.php
+END
+workshopform_numerrors.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopform_numerrors.php
+END
+report_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_log.php
+END
+assignment_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignment_upload.php
+END
+tool_capability.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_capability.php
+END
+assignsubmission_onlinepoodll.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_onlinepoodll.php
+END
+taskchainattempt_qedoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/taskchainattempt_qedoc.php
+END
+block_messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_messages.php
+END
+report_courseoverview.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_courseoverview.php
+END
+qbehaviour_adaptive.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_adaptive.php
+END
+scormreport_graphs.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/scormreport_graphs.php
+END
+block_quickfindlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_quickfindlist.php
+END
+badges.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/badges.php
+END
+assignment_poodllonline.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignment_poodllonline.php
+END
+resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/resource.php
+END
+block_completionstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_completionstatus.php
+END
+repository_poodll.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_poodll.php
+END
+quiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quiz.php
+END
+tinymce_spellchecker.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_spellchecker.php
+END
+quizaccess_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_password.php
+END
+stampcoll.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/stampcoll.php
+END
+qbehaviour_missing.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_missing.php
+END
+repository_picasa.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_picasa.php
+END
+datafield_url.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_url.php
+END
+lightboxgallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/lightboxgallery.php
+END
+report_editdates.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_editdates.php
+END
+filter_algebra.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_algebra.php
+END
+languagelab.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/languagelab.php
+END
+qformat_multianswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_multianswer.php
+END
+glossary.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/glossary.php
+END
+block_forum_aggregator.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_forum_aggregator.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/search.php
+END
+block_recent_activity.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_recent_activity.php
+END
+qbehaviour_interactivehints.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_interactivehints.php
+END
+repository_flickr.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_flickr.php
+END
+gradingform_erubric.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradingform_erubric.php
+END
+block_participants.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_participants.php
+END
+block_course_appointments.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_course_appointments.php
+END
+workshop.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshop.php
+END
+qtype_truefalse.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_truefalse.php
+END
+hotpotreport_analysis.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotreport_analysis.php
+END
+block_progress.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_progress.php
+END
+assignment_uploadsingle.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignment_uploadsingle.php
+END
+tinymce_dragmath.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_dragmath.php
+END
+block_birthday.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_birthday.php
+END
+feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/feedback.php
+END
+filter_soundcloud.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_soundcloud.php
+END
+qformat_xhtml.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_xhtml.php
+END
+mindmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/mindmap.php
+END
+apply.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/apply.php
+END
+filter_activitynames.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_activitynames.php
+END
+dialogue.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/dialogue.php
+END
+theme_arialist.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_arialist.php
+END
+block.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block.php
+END
+format_scorm.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_scorm.php
+END
+theme_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_base.php
+END
+filter_emailprotect.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_emailprotect.php
+END
+block_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_comments.php
+END
+auth_ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_ldap.php
+END
+workshopform_accumulative.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopform_accumulative.php
+END
+tinymce_managefiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_managefiles.php
+END
+mathslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/mathslib.php
+END
+taskchainreport_analysis.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/taskchainreport_analysis.php
+END
+portfolio_download.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio_download.php
+END
+tinymce_moodleemoticon.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_moodleemoticon.php
+END
+tool_editrolesbycap.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_editrolesbycap.php
+END
+amvonetroom.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/amvonetroom.php
+END
+block_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_tags.php
+END
+auth_fc.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_fc.php
+END
+hotpotreport_responses.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotreport_responses.php
+END
+datafield_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_date.php
+END
+report_outline.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_outline.php
+END
+quizaccess_numattempts.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_numattempts.php
+END
+page.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/page.php
+END
+block_html.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_html.php
+END
+qformat_examview.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_examview.php
+END
+bulkusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/bulkusers.php
+END
+report_overviewstats.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_overviewstats.php
+END
+tool_uploaduser.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_uploaduser.php
+END
+block_cam_mycourses.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_cam_mycourses.php
+END
+blog.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/blog.php
+END
+repository_filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_filesystem.php
+END
+tinymce_youtube.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_youtube.php
+END
+theme_fusion.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_fusion.php
+END
+block_course_contents.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_course_contents.php
+END
+userkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/userkey.php
+END
+webinar.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/webinar.php
+END
+lti.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/lti.php
+END
+theme_nimble.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_nimble.php
+END
+block_moodletxt.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_moodletxt.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/group.php
+END
+block_login_userinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_login_userinfo.php
+END
+portfolio_picasa.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio_picasa.php
+END
+qtype_calculatedsimple.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_calculatedsimple.php
+END
+block_iclicker.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_iclicker.php
+END
+qtype_shortanswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_shortanswer.php
+END
+cachestore_memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachestore_memcache.php
+END
+langconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/langconfig.php
+END
+auth_imap.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_imap.php
+END
+portfolio_flickr.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio_flickr.php
+END
+pcast.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/pcast.php
+END
+report_questioninstances.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_questioninstances.php
+END
+grading.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/grading.php
+END
+hub.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hub.php
+END
+enrol_ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_ldap.php
+END
+cachestore_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachestore_file.php
+END
+filter_emoticon.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_emoticon.php
+END
+datafield_checkbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_checkbox.php
+END
+assign.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assign.php
+END
+repository_googledocs.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_googledocs.php
+END
+theme_formfactor.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_formfactor.php
+END
+tool_phpunit.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_phpunit.php
+END
+enrol_paypal.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_paypal.php
+END
+enrol_meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_meta.php
+END
+editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/editor.php
+END
+block_cmanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_cmanager.php
+END
+assignfeedback_offline.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignfeedback_offline.php
+END
+webservice_rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/webservice_rest.php
+END
+block_mnet_hosts.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_mnet_hosts.php
+END
+report_progress.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_progress.php
+END
+moodle2.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/moodle2.php
+END
+report_participation.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_participation.php
+END
+currencies.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/currencies.php
+END
+enrol_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_database.php
+END
+auth_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_db.php
+END
+booktool_importhtml.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/booktool_importhtml.php
+END
+message_popup.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/message_popup.php
+END
+cache_mongodb.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cache_mongodb.php
+END
+assignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignment.php
+END
+block_course_contacts.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_course_contacts.php
+END
+tool_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_replace.php
+END
+enrol_authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_authorize.php
+END
+local_amos.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/local_amos.php
+END
+cachelock_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachelock_file.php
+END
+hotpot.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpot.php
+END
+gradeexport_checklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeexport_checklist.php
+END
+editor_tinymce.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/editor_tinymce.php
+END
+label.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/label.php
+END
+block_rss_client.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_rss_client.php
+END
+ejsapp.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/ejsapp.php
+END
+block_use_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_use_stats.php
+END
+block_gsb.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_gsb.php
+END
+booktool_exportimscp.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/booktool_exportimscp.php
+END
+my.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/my.php
+END
+repository_evernote.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_evernote.php
+END
+block_news_items.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_news_items.php
+END
+message_jabber.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/message_jabber.php
+END
+book.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/book.php
+END
+block_selfcompletion.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_selfcompletion.php
+END
+block_activity_modules.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_activity_modules.php
+END
+block_feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_feedback.php
+END
+webservice.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/webservice.php
+END
+qtype_oumultiresponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_oumultiresponse.php
+END
+assignsubmission_babelium.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_babelium.php
+END
+theme_afterburner.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_afterburner.php
+END
+block_achievement.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_achievement.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cache.php
+END
+tool_xmldb.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_xmldb.php
+END
+qbehaviour_immediatecbm.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_immediatecbm.php
+END
+repository_webdav.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_webdav.php
+END
+format_topics.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_topics.php
+END
+editor_contenteditable.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/editor_contenteditable.php
+END
+block_search_forums.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_search_forums.php
+END
+datafield_multimenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_multimenu.php
+END
+datapreset_imagegallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datapreset_imagegallery.php
+END
+block_wikipedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_wikipedia.php
+END
+scormreport_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/scormreport_basic.php
+END
+webservice_amf.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/webservice_amf.php
+END
+bigbluebuttonbn.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/bigbluebuttonbn.php
+END
+portfolio_mahara.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/portfolio_mahara.php
+END
+enrol_imsenterprise.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_imsenterprise.php
+END
+qformat_webct.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_webct.php
+END
+format_colours.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_colours.php
+END
+auth_pam.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_pam.php
+END
+theme_leatherbound.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_leatherbound.php
+END
+scormreport_interactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/scormreport_interactions.php
+END
+gradereport_grader.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradereport_grader.php
+END
+auth_pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_pop3.php
+END
+qtype_randomsamatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_randomsamatch.php
+END
+block_userinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_userinfo.php
+END
+backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/backup.php
+END
+cache_session.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cache_session.php
+END
+workshopform_rubric.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopform_rubric.php
+END
+gradingform_guide.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradingform_guide.php
+END
+block_online_users_map.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_online_users_map.php
+END
+block_glossary_random.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_glossary_random.php
+END
+theme_magazine.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_magazine.php
+END
+auth_webservice.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_webservice.php
+END
+hotpotsource_html.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotsource_html.php
+END
+block_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_login.php
+END
+tool_timezoneimport.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_timezoneimport.php
+END
+report_backups.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_backups.php
+END
+tool_dbtransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_dbtransfer.php
+END
+message_email.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/message_email.php
+END
+tinymce_skim.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_skim.php
+END
+enrol_cohort.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_cohort.php
+END
+assignsubmission_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/assignsubmission_file.php
+END
+repository_skydrive.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_skydrive.php
+END
+theme_clean.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_clean.php
+END
+filter_tex.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_tex.php
+END
+tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tab.php
+END
+gradeexport_xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeexport_xls.php
+END
+block_flexpagenav.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_flexpagenav.php
+END
+block_mentees.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_mentees.php
+END
+folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/folder.php
+END
+repository_dropbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_dropbox.php
+END
+iso6392.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/iso6392.php
+END
+filter_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_data.php
+END
+quiz_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quiz_overview.php
+END
+quizaccess_openclosedate.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_openclosedate.php
+END
+workshopallocation_manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopallocation_manual.php
+END
+auth_none.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_none.php
+END
+theme_standardold.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_standardold.php
+END
+webservice_xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/webservice_xmlrpc.php
+END
+datafield_number.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_number.php
+END
+quizaccess_timelimit.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_timelimit.php
+END
+gradeimport_csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeimport_csv.php
+END
+block_calendar_month.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_calendar_month.php
+END
+hotpotattempt_html.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotattempt_html.php
+END
+dataformfield_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/dataformfield_file.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/form.php
+END
+wiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/wiki.php
+END
+block_site_main_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_site_main_menu.php
+END
+block_social_activities.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_social_activities.php
+END
+calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/calendar.php
+END
+tool_installaddon.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_installaddon.php
+END
+filter_dictionary.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_dictionary.php
+END
+qbehaviour_deferredfeedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_deferredfeedback.php
+END
+format_menutopic.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_menutopic.php
+END
+datafield_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/datafield_file.php
+END
+filter_tidy.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_tidy.php
+END
+local_globalmessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/local_globalmessage.php
+END
+qformat_gift.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_gift.php
+END
+workshopallocation_random.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/workshopallocation_random.php
+END
+block_quiz_results.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_quiz_results.php
+END
+qtype_calculated.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_calculated.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/message.php
+END
+format_weeks.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_weeks.php
+END
+editor_supsub.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/editor_supsub.php
+END
+qbehaviour_immediatefeedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_immediatefeedback.php
+END
+gradeexport_ods.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeexport_ods.php
+END
+qformat_xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_xml.php
+END
+report_stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_stats.php
+END
+repository_local.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_local.php
+END
+dbtransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/dbtransfer.php
+END
+choice.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/choice.php
+END
+repository_alfresco.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_alfresco.php
+END
+imscc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/imscc.php
+END
+filter_censor.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_censor.php
+END
+qtype_calculatedmulti.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_calculatedmulti.php
+END
+qformat_blackboard_six.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_blackboard_six.php
+END
+tool_health.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_health.php
+END
+edufields.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/edufields.php
+END
+auth_shibboleth.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_shibboleth.php
+END
+report_completion.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_completion.php
+END
+tinymce_ctrlhelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_ctrlhelp.php
+END
+cachestore_memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/cachestore_memcached.php
+END
+countries.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/countries.php
+END
+enrol_manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_manual.php
+END
+mimetypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/mimetypes.php
+END
+theme_nonzero.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_nonzero.php
+END
+tool_assignmentupgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_assignmentupgrade.php
+END
+block_tag_flickr.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_tag_flickr.php
+END
+qformat_aiken.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qformat_aiken.php
+END
+theme_boxxie.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_boxxie.php
+END
+tinymce_moodlenolink.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tinymce_moodlenolink.php
+END
+mnetservice_enrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/mnetservice_enrol.php
+END
+auth_mnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_mnet.php
+END
+auth_nologin.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/auth_nologin.php
+END
+theme_sky_high.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_sky_high.php
+END
+enrol_self.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol_self.php
+END
+local_adminer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/local_adminer.php
+END
+gradereport_outcomes.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradereport_outcomes.php
+END
+block_course_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_course_overview.php
+END
+qtype_gapfill.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_gapfill.php
+END
+repository_merlot.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/repository_merlot.php
+END
+report_configlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/report_configlog.php
+END
+block_course_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_course_list.php
+END
+block_fn_my_menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_fn_my_menu.php
+END
+choicegroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/choicegroup.php
+END
+block_publishflow.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/block_publishflow.php
+END
+quizaccess_securewindow.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/quizaccess_securewindow.php
+END
+theme_splash.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/theme_splash.php
+END
+gradeexport_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/gradeexport_pdf.php
+END
+pagetype.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/pagetype.php
+END
+qtype_match.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qtype_match.php
+END
+enrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/enrol.php
+END
+moodle.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/moodle.php
+END
+advmindmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/advmindmap.php
+END
+format_social.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/format_social.php
+END
+license.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/license.php
+END
+editor_textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/editor_textarea.php
+END
+rating.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/rating.php
+END
+hotpotsource_hp.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/hotpotsource_hp.php
+END
+richmedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/richmedia.php
+END
+qbehaviour_deferredcbm.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/qbehaviour_deferredcbm.php
+END
+tool_spamcleaner.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/tool_spamcleaner.php
+END
+filter_urltolink.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/filter_urltolink.php
+END
+plagiarism.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_tw/plagiarism.php
+END

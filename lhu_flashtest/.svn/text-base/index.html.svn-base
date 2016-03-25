@@ -1,0 +1,67 @@
+﻿<!DOCTYPE HTML>
+<!--Module Design By @n33co -->
+<!--Design By 袁瑞彤-->
+<html>
+<LINK REL="SHORTCUT ICON" HREF="http://127.0.0.1/favicon.ico"> 
+	<head>
+		<title>測驗</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        
+        <!-- pop windows -->
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" />
+        <script src="//s3-ap-northeast-1.amazonaws.com/justfont-user-script/jf-35443.js"></script>
+	<script 
+		src="http://code.jquery.com/jquery-1.8.3.js
+	"></script>
+    
+	<script 
+		src="http://jqueryui.com/resources/demos/external/jquery.bgiframe-2.1.2.js
+	"></script>
+<script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+
+<script src="popout.js"></script>
+<style>
+.ui-dialog-titlebar {
+  background-color:rgba(0,0,153,1);
+  background-image: none;
+  color: White;
+}
+.ui-dialog,.ui-dialog,.ui-widget, .ui-widget-content, .foo, .ui-draggable, .ui-resizable {
+	background:rgba(153,153,153,1)!important;
+color:rgba(0,0,0,1);
+}​
+</style>
+	</head>
+<body  style="overflow:hidden; position:relative;">
+      <div id="toptitle" style="overflow:hidden;">
+          
+         <div style="float:left">
+          <a href="http://uwc.hopto.org/uwc" style="text-decoration: none">
+              <img src="http://images.cooltext.com/4396581.png" width="78" height="50" alt="首頁"  />		
+          </a>
+         </div>
+
+
+	 <div style=" float:left; right:0px; top:4px; position:absolute;">
+            <a href="javascript:void( window.open('https://secure.jotform.me/form/52473043764456', 
+
+'blank','scrollbars=yes,toolbar=no,width=700,height=800'))"><img src="http://images.cooltext.com/4433135.png" width="130" height="44" alt="回報系統" /></a>
+          </div>
+      </div>
+
+	<div style="margin:0 auto; width:auto; height:450px; text-align:center; border:1px white solid;">
+<object width="800" height="450" style="text-align:" data="test.swf"></object>
+</div>
+  
+
+
+			
+		
+<script src="assets/js/main.js"></script>
+	</body>
+</html>

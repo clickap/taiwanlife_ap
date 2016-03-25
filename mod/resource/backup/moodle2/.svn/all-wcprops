@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/resource/backup/moodle2
+END
+restore_resource_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/resource/backup/moodle2/restore_resource_activity_task.class.php
+END
+backup_resource_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/resource/backup/moodle2/backup_resource_activity_task.class.php
+END
+restore_resource_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/resource/backup/moodle2/restore_resource_stepslib.php
+END
+backup_resource_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/resource/backup/moodle2/backup_resource_stepslib.php
+END

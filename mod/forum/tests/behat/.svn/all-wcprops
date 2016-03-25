@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat
+END
+edit_post_teacher.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/edit_post_teacher.feature
+END
+behat_mod_forum.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/behat_mod_forum.php
+END
+track_read_posts.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/track_read_posts.feature
+END
+discussion_display.feature
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/discussion_display.feature
+END
+single_forum_discussion.feature
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/single_forum_discussion.feature
+END
+completion_condition_number_discussions.feature
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/completion_condition_number_discussions.feature
+END
+add_forum.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/add_forum.feature
+END
+edit_post_student.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/forum/tests/behat/edit_post_student.feature
+END

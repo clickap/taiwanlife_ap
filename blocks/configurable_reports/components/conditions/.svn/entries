@@ -1,0 +1,129 @@
+10
+
+dir
+3
+http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/blocks/configurable_reports/components/conditions
+http://192.168.1.169:18080/svn/TaiwanLIFEap2
+
+
+
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11953e39-5639-46ae-961e-90a9029f87ac
+
+currentreportcourse
+dir
+
+currentuser
+dir
+
+coursechild
+dir
+
+currentusercourses
+dir
+
+cuserfield
+dir
+
+ccoursefield
+dir
+
+parentcategory
+dir
+
+form.php
+file
+
+
+
+
+2016-03-25T01:16:07.912051Z
+ce6ca4a3c743cff58892105b6a4a8d1a
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2692
+
+courseparent
+dir
+
+usersincohorts
+dir
+
+usersincurrentcourse
+dir
+
+component.class.php
+file
+
+
+
+
+2016-03-25T01:16:07.912051Z
+5d1722b2dcdb7481730e2c480f490233
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3326
+
+coursecategory
+dir
+

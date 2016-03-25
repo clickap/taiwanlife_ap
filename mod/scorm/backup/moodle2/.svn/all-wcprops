@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/backup/moodle2
+END
+backup_scorm_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/backup/moodle2/backup_scorm_activity_task.class.php
+END
+restore_scorm_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/backup/moodle2/restore_scorm_stepslib.php
+END
+backup_scorm_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/backup/moodle2/backup_scorm_stepslib.php
+END
+restore_scorm_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/backup/moodle2/restore_scorm_activity_task.class.php
+END

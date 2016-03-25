@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl
+END
+mysql_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/mysql_sql_generator.php
+END
+oracle_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/oracle_sql_generator.php
+END
+postgres_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/postgres_sql_generator.php
+END
+database_manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/database_manager.php
+END
+mssql_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/mssql_sql_generator.php
+END
+sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/sql_generator.php
+END
+sqlite_sql_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ddl/sqlite_sql_generator.php
+END

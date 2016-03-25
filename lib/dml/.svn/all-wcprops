@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml
+END
+moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/moodle_recordset.php
+END
+oci_native_moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/oci_native_moodle_recordset.php
+END
+pdo_moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/pdo_moodle_recordset.php
+END
+database_column_info.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/database_column_info.php
+END
+mysqli_native_moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/mysqli_native_moodle_recordset.php
+END
+moodle_temptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/moodle_temptables.php
+END
+oci_native_moodle_temptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/oci_native_moodle_temptables.php
+END
+oci_native_moodle_package.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/oci_native_moodle_package.sql
+END
+moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/moodle_database.php
+END
+mysqli_native_moodle_temptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/mysqli_native_moodle_temptables.php
+END
+oci_native_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/oci_native_moodle_database.php
+END
+pgsql_native_moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/pgsql_native_moodle_recordset.php
+END
+pdo_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/pdo_moodle_database.php
+END
+mysqli_native_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/mysqli_native_moodle_database.php
+END
+sqlsrv_native_moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/sqlsrv_native_moodle_recordset.php
+END
+sqlite3_pdo_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/sqlite3_pdo_moodle_database.php
+END
+pgsql_native_moodle_temptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/pgsql_native_moodle_temptables.php
+END
+mssql_native_moodle_recordset.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/mssql_native_moodle_recordset.php
+END
+pgsql_native_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/pgsql_native_moodle_database.php
+END
+sqlsrv_native_moodle_temptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/sqlsrv_native_moodle_temptables.php
+END
+sqlsrv_native_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/sqlsrv_native_moodle_database.php
+END
+mssql_native_moodle_temptables.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/mssql_native_moodle_temptables.php
+END
+moodle_transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/moodle_transaction.php
+END
+mssql_native_moodle_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/dml/mssql_native_moodle_database.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold
+END
+comment-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold/comment-fold.js
+END
+brace-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold/brace-fold.js
+END
+foldcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold/foldcode.js
+END
+foldgutter.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold/foldgutter.js
+END
+xml-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold/xml-fold.js
+END
+indent-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/js/codemirror/addon/fold/indent-fold.js
+END

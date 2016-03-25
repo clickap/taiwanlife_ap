@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib
+END
+Google_ComputeService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_ComputeService.php
+END
+Google_AdsenseService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_AdsenseService.php
+END
+Google_YoutubeService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_YoutubeService.php
+END
+Google_TranslateService.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_TranslateService.php
+END
+Google_FusiontablesService.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_FusiontablesService.php
+END
+Google_PagespeedonlineService.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_PagespeedonlineService.php
+END
+Google_GanService.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_GanService.php
+END
+Google_TaskqueueService.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_TaskqueueService.php
+END
+Google_DriveService.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_DriveService.php
+END
+Google_LatitudeService.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_LatitudeService.php
+END
+Google_LicensingService.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_LicensingService.php
+END
+Google_FreebaseService.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_FreebaseService.php
+END
+Google_BooksService.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_BooksService.php
+END
+Google_AdsensehostService.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_AdsensehostService.php
+END
+Google_BloggerService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_BloggerService.php
+END
+Google_PlusService.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_PlusService.php
+END
+Google_TasksService.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_TasksService.php
+END
+Google_PlusMomentsService.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_PlusMomentsService.php
+END
+Google_BigqueryService.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_BigqueryService.php
+END
+Google_AnalyticsService.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_AnalyticsService.php
+END
+Google_ShoppingService.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_ShoppingService.php
+END
+Google_WebfontsService.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_WebfontsService.php
+END
+Google_ModeratorService.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_ModeratorService.php
+END
+Google_UrlshortenerService.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_UrlshortenerService.php
+END
+Google_AdexchangebuyerService.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_AdexchangebuyerService.php
+END
+Google_CustomsearchService.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_CustomsearchService.php
+END
+Google_PredictionService.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_PredictionService.php
+END
+Google_Oauth2Service.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_Oauth2Service.php
+END
+Google_OrkutService.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_OrkutService.php
+END
+Google_StorageService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_StorageService.php
+END
+Google_SiteVerificationService.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_SiteVerificationService.php
+END
+Google_CalendarService.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_CalendarService.php
+END

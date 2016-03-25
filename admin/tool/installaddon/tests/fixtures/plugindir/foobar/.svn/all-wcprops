@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/installaddon/tests/fixtures/plugindir/foobar
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/installaddon/tests/fixtures/plugindir/foobar/version.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/installaddon/tests/fixtures/plugindir/foobar/index.php
+END

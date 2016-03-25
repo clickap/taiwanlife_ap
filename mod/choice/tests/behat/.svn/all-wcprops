@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat
+END
+publish_results.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat/publish_results.feature
+END
+behat_mod_choice.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat/behat_mod_choice.php
+END
+limit_responses.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat/limit_responses.feature
+END
+add_choice.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat/add_choice.feature
+END
+change_response.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat/change_response.feature
+END
+publish_results_anonymously.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/choice/tests/behat/publish_results_anonymously.feature
+END

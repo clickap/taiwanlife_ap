@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat
+END
+section_highlighting.feature
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/section_highlighting.feature
+END
+move_activities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/move_activities.feature
+END
+behat_course.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/behat_course.php
+END
+activities_indentation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/activities_indentation.feature
+END
+frontpage_display_modes.feature
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/frontpage_display_modes.feature
+END
+max_number_sections.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/max_number_sections.feature
+END
+edit_settings.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/edit_settings.feature
+END
+activities_visibility_icons.feature
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/activities_visibility_icons.feature
+END
+section_visibility.feature
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/section_visibility.feature
+END
+activities_group_icons.feature
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/activities_group_icons.feature
+END
+rename_roles.feature
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/rename_roles.feature
+END
+add_activities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/add_activities.feature
+END
+move_sections.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/move_sections.feature
+END
+force_group_mode.feature
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/force_group_mode.feature
+END
+paged_course_navigation.feature
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/paged_course_navigation.feature
+END
+delete_course.feature
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/delete_course.feature
+END
+restrict_available_activities.feature
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/restrict_available_activities.feature
+END
+course_controls.feature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/course_controls.feature
+END

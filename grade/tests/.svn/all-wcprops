@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests
+END
+reportuser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests/reportuser_test.php
+END
+querylib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests/querylib_test.php
+END
+reportgrader_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests/reportgrader_test.php
+END
+reportlib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests/reportlib_test.php
+END
+edittree_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests/edittree_test.php
+END
+externallib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/grade/tests/externallib_test.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache/Base.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache/File.php
+END
+Memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache/Memcache.php
+END
+DB.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache/DB.php
+END
+MySQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/simplepie/library/SimplePie/Cache/MySQL.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/mnet/service/enrol/db
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/mnet/service/enrol/db/install.xml
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/mnet/service/enrol/db/upgrade.php
+END

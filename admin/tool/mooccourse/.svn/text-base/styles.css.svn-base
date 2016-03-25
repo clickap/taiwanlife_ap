@@ -1,0 +1,136 @@
+.generaltable2{
+
+}
+.generaltable2 td {
+    background-color: #e7e7e7;
+    font-weight:bold;
+    border-top: 0px !important;
+}
+
+.filtertable {
+    width: 30% !important;
+    float:right;
+    margin-bottom: 0px !important;
+    margin-top: 20px;
+}
+.filtertable td {
+    font-size: 17px;
+    font-weight:bold;
+    border-top: 0px !important;
+}
+
+.filtertable a{
+    color:#52595E;
+}
+.filtertable a:visited{
+    color:#52595E;
+    text-decoration:none;
+}
+.filtertable a:hover{
+    color:#FF8A00;
+    text-decoration:none;
+}
+
+
+.frontpage-coruse{
+    /*width: 230px;*/
+    background:#fff;
+    /*padding:3px 10px;*/
+    border:1px solid #e7e7e7;
+    margin-bottom:10px;
+    border-radius:5px;
+    border-bottom:3px solid #eee;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.frontpage-coruse .courselogo{
+    text-align: center;
+}
+
+.frontpage-coruse .courselogo img {
+    width: 192px;
+    height: 146px;
+}
+
+.frontpage-coruse .coursename{
+    font-size: 18px;
+    font-weight: bold;
+    color: #707070;
+    text-align: center;
+    /*height: 50px;*/
+    overflow : hidden;
+}
+.frontpage-coruse .coursedate{
+    font-size: 12px;
+    font-weight: bold;
+    color: #707070;
+    text-align: center;
+    overflow : hidden;
+    height: 25px;
+}
+
+
+
+
+/*allcourse*/
+.coursebox .courseimage {
+    width: 148px !important;
+    height: 111px;
+}
+.coursebox .courseimage img {
+    width: 148px !important;
+    height: 111px;
+}
+.coursebox .course_detail {
+    width:65%;
+    /*font-family: DFKai-sb,sans-serif;*/
+    line-height: 26px;
+    color: #666;
+    float:left;
+    /*padding-left: 6%;*/
+}
+.coursebox .course_detail .schoolname {
+    font-size: 25px;
+    font-weight: bold;
+    color:#1AAECE;
+}
+.coursebox .course_detail .coursename {
+    line-height: initial;
+    font-size: 30px;
+    font-weight: bold;
+}
+.coursebox .course_detail .teachername {
+    font-size: 20px;
+    font-weight: bold;
+}
+.coursebox .course_schedule {
+    font-size:20px;
+    width:30%;
+    font-family: "Oswald", "Helvetica Neue", "sans-serif";
+    color: #666;
+    float:right;
+    margin-right: 5px;
+    text-align: right;
+}
+.coursebox .course_schedule .period{
+    font-size: 20px;
+}
+.coursebox .course_button{
+    text-align: center;
+}
+.coursebox .course_percent{
+    margin-top: 15px;
+    background:url([[pix:theme|btn/course_schedule_bg]]) no-repeat;
+    height:78px;
+    /*width:117px;*/
+    background-position:center;
+}
+.coursebox .course_percent h1{
+    color:#d96d17;
+    font-size:18px;
+    font-weight:bold;
+    font-family:Arial;
+    padding:8px 55px 13px 27px;
+    margin:0;
+    text-align:center;
+}

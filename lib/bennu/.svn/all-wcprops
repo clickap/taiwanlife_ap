@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/LICENSE.txt
+END
+bennu.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/bennu.class.php
+END
+iCalendar_rfc2445.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/iCalendar_rfc2445.php
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/TODO.txt
+END
+iCalendar_properties.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/iCalendar_properties.php
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/CHANGELOG.txt
+END
+bennu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/bennu.inc.php
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/COPYRIGHT.txt
+END
+readme_moodle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/readme_moodle.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/README.txt
+END
+iCalendar_parameters.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/iCalendar_parameters.php
+END
+iCalendar_components.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/bennu/iCalendar_components.php
+END

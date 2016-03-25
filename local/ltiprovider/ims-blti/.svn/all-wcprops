@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti/LICENSE.txt
+END
+blti.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti/blti.php
+END
+OAuthBody.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti/OAuthBody.php
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti/OAuth.php
+END
+TrivialOAuthDataStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti/TrivialOAuthDataStore.php
+END
+blti_util.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/ltiprovider/ims-blti/blti_util.php
+END
