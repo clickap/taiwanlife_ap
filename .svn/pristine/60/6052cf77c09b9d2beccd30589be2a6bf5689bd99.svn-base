@@ -1,0 +1,222 @@
+.block_course_menu stopmenu{
+    background-image: url([[pix:theme|menu/smenu_star]]) no-repeat;
+}
+.block_course_menu sendmenu{
+    background-image: url([[pix:theme|menu/smenu_end]]) no-repeat;
+}
+.block_course_menu ttopmenu{
+    background-image: url([[pix:theme|menu/tmenu_star]]) no-repeat;
+}
+.block_course_menu tendmenu{
+    background-image: url([[pix:theme|menu/tmenu_end]]) no-repeat;
+}
+.block_course_menu{
+    /*width:224px;    */
+    text-align:left;
+    font-family:"微軟正黑體";
+    font-weight:bold;
+}
+.block_course_menu li.teachermenu1{
+    background: url([[pix:theme|menu/tmenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+
+}
+.block_course_menu li.teachermenu1 p {
+    background:url([[pix:theme|menu/st_icon_2]]) no-repeat 10px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0;    
+}
+.block_course_menu li.teachermenu2{
+    background:url([[pix:theme|menu/tmenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.teachermenu2 p {
+    background:url([[pix:theme|menu/st_icon_3]]) no-repeat 10px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.teachermenu3{
+    background:url([[pix:theme|menu/tmenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}   
+.block_course_menu li.teachermenu3 p {
+    background:url([[pix:theme|menu/st_icon_6]]) no-repeat 10px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+
+
+.block_course_menu li.studentmenu1{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu1 p {
+    background:url([[pix:theme|menu/st_icon_1]]) no-repeat 15px 50%;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu2{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu2 p {
+    background:url([[pix:theme|menu/st_icon_2]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu3{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu3 p {
+    background:url([[pix:theme|menu/st_icon_2]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu4{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu4 p {
+    background:url([[pix:theme|menu/st_icon_4]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu5{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu5 p {
+    background:url([[pix:theme|menu/st_icon_5]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu6{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu6 p {
+    background:url([[pix:theme|menu/st_icon_6]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu7{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu7 p {
+    background:url([[pix:theme|menu/st_icon_7]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu8{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu8 p {
+    background:url([[pix:theme|menu/st_icon_8]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu9{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu9 p {
+    background:url([[pix:theme|menu/st_icon_9]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;   */
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+.block_course_menu li.studentmenu10{    
+    background:url([[pix:theme|menu/smenu]]) repeat;
+    font-size: 18px;
+    text-align:center;    
+    line-height:49px;  
+}
+.block_course_menu li.studentmenu10 p {
+    background:url([[pix:theme|menu/st_icon_10]]) no-repeat 15px;
+    height:49px;   
+    /*line-height:49px;*/
+    text-align:left;
+    margin: 0 0 0 0; 
+}
+
+
+
+
+
+
+.block_course_menu a{
+    color:#fff;
+    font-family:"微軟正黑體";
+    /*text-align:center;*/
+    font-weight:bold;
+   /* display:block;*/
+}
+.block_course_menu p{
+    color:#fff;
+    font-size:20px;
+    font-family:"微軟正黑體";
+    text-align:left;
+    padding-left:55px;  /*icon與文字間距*/
+    font-weight:bold;
+}
+.block_course_menu li {
+    font-size:20px;
+    list-style: none;
+}
+.block_course_menu li a{
+    color:#fff;
+}
+.block_course_menu li a:hover{
+    color:#fff;
+   /* background:#497019; */
+}                   

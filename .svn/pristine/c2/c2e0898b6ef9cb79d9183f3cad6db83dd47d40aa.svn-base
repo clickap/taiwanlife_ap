@@ -1,0 +1,5 @@
+.path-mod-extresource .extresourcecontent {text-align: center;}
+
+.path-mod-extresource .extresourcedetails {font-size: 0.8em; color: #555;}
+
+.extresourcelinkdetails {font-size: 0.8em; color: #555;}
