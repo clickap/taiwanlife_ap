@@ -153,17 +153,17 @@ svn:wc:ra_dav:version-url
 V 88
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_AdexchangebuyerService.php
 END
-Google_CustomsearchService.php
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_CustomsearchService.php
-END
 Google_PredictionService.php
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_PredictionService.php
+END
+Google_CustomsearchService.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/google/contrib/Google_CustomsearchService.php
 END
 Google_Oauth2Service.php
 K 25

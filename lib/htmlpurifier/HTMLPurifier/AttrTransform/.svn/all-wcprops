@@ -57,17 +57,11 @@ svn:wc:ra_dav:version-url
 V 93
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/SafeEmbed.php
 END
-Textarea.php
+NameSync.php
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/Textarea.php
-END
-Border.php
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/Border.php
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/NameSync.php
 END
 ImgRequired.php
 K 25
@@ -75,11 +69,17 @@ svn:wc:ra_dav:version-url
 V 95
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/ImgRequired.php
 END
-NameSync.php
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/Border.php
+END
+Textarea.php
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/NameSync.php
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/Textarea.php
 END
 Background.php
 K 25
@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 94
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/Background.php
 END
-EnumToCSS.php
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php
-END
 Name.php
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/Name.php
+END
+EnumToCSS.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform/EnumToCSS.php
 END
 Length.php
 K 25

@@ -57,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/component.class.php
 END
-filter_form.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/filter_form.php
-END
 edit_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/edit_form.php
+END
+filter_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/filter_form.php
 END
 list_reports_in_category.php
 K 25
@@ -75,23 +75,23 @@ svn:wc:ra_dav:version-url
 V 92
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/list_reports_in_category.php
 END
-repository.php
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/repository.php
-END
 report.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/report.class.php
 END
-locallib.php
+repository.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/locallib.php
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/repository.php
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/export.php
 END
 editreport.php
 K 25
@@ -99,11 +99,11 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/editreport.php
 END
-export.php
+locallib.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/export.php
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/locallib.php
 END
 send_emails.php
 K 25
@@ -129,17 +129,17 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/version.php
 END
-README.txt
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/README.txt
-END
 get_remote_report.php
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/get_remote_report.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/blocks/configurable_reports/README.txt
 END
 block_configurable_reports.php
 K 25

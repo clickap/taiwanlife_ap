@@ -51,29 +51,29 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/auth.php
 END
-phpinfo.php
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/phpinfo.php
-END
 resetemoticons.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/resetemoticons.php
 END
-environment.php
+phpinfo.php
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/environment.php
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/phpinfo.php
 END
 repositoryinstance.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/repositoryinstance.php
+END
+environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/environment.php
 END
 licenses.php
 K 25
@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/search.php
 END
-lib.php
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/lib.php
-END
 renderer.php
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/renderer.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/lib.php
 END
 oacleanup.php
 K 25
@@ -105,17 +105,17 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/oacleanup.php
 END
-filters.php
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/filters.php
-END
 modules.php
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/modules.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/filters.php
 END
 category.php
 K 25
@@ -177,12 +177,6 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/editors.php
 END
-environment.xml
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/environment.xml
-END
 blocks.php
 K 25
 svn:wc:ra_dav:version-url
@@ -194,6 +188,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/portfolio.php
+END
+environment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/environment.xml
 END
 user.php
 K 25
@@ -207,17 +207,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/oauth2callback.php
 END
-enrol.php
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/enrol.php
-END
 repository.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/repository.php
+END
+enrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/enrol.php
 END
 message.php
 K 25
@@ -237,15 +237,15 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/process_email.php
 END
-qbehaviours.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/qbehaviours.php
-END
 plagiarism.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/plagiarism.php
+END
+qbehaviours.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/qbehaviours.php
 END

@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/cs.js
 END
-es.js
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/es.js
-END
 fr.js
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/fr.js
+END
+es.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/es.js
 END
 zh-TW.js
 K 25
@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/nl.js
 END
-hu.js
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/hu.js
-END
 it.js
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/it.js
+END
+hu.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/hu.js
 END
 vi.js
 K 25
@@ -57,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/vi.js
 END
-zh-CN.js
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/zh-CN.js
-END
 uk.js
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/uk.js
+END
+zh-CN.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/lang/zh-CN.js
 END
 ca.js
 K 25

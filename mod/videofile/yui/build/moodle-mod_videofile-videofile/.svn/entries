@@ -1,15 +1,15 @@
 10
 
 dir
-3
+15
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/mod/videofile/yui/build/moodle-mod_videofile-videofile
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
 
 
-2016-03-22T01:34:54.760838Z
-2
-doris
+2016-04-13T06:52:59.911844Z
+14
+mary
 
 
 
@@ -26,51 +26,17 @@ doris
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-moodle-mod_videofile-videofile.js
-file
-
-
-
-
-2016-03-25T01:15:40.928051Z
-637657646b5108a73e97ed6b7ca2d190
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13096
-
 moodle-mod_videofile-videofile-min.js
 file
 
 
 
 
-2016-03-25T01:15:40.929051Z
-9d98d79ba172134659d915333753e257
-2016-03-22T01:34:54.760838Z
-2
-doris
+2016-04-13T09:00:04.212146Z
+8f0cbe8639bc12eacca3be58d673a303
+2016-04-13T06:52:59.911844Z
+14
+mary
 
 
 
@@ -92,39 +58,5 @@ doris
 
 
 
-6489
-
-moodle-mod_videofile-videofile-debug.js
-file
-
-
-
-
-2016-03-25T01:15:40.929051Z
-637657646b5108a73e97ed6b7ca2d190
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13096
+498
 

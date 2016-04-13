@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 111
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_nl.js
 END
-datatype-date-format_th.js
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_th.js
-END
 datatype-date-format_pl.js
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_pl.js
+END
+datatype-date-format_th.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_th.js
 END
 datatype-date-format_it.js
 K 25
@@ -39,11 +39,11 @@ svn:wc:ra_dav:version-url
 V 108
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format.js
 END
-datatype-date-format_en-CA.js
+datatype-date-format_pt.js
 K 25
 svn:wc:ra_dav:version-url
-V 114
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_en-CA.js
+V 111
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_pt.js
 END
 datatype-date-format_ko-KR.js
 K 25
@@ -51,11 +51,11 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_ko-KR.js
 END
-datatype-date-format_pt.js
+datatype-date-format_en-CA.js
 K 25
 svn:wc:ra_dav:version-url
-V 111
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_pt.js
+V 114
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_en-CA.js
 END
 datatype-date-format_en-NZ.js
 K 25
@@ -105,17 +105,17 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_es-BO.js
 END
-datatype-date-format_es-CO.js
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_es-CO.js
-END
 datatype-date-format_zh-Hans-CN.js
 K 25
 svn:wc:ra_dav:version-url
 V 119
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_zh-Hans-CN.js
+END
+datatype-date-format_es-CO.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_es-CO.js
 END
 datatype-date-format_es.js
 K 25
@@ -147,6 +147,12 @@ svn:wc:ra_dav:version-url
 V 111
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_ms.js
 END
+datatype-date-format_ro.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_ro.js
+END
 datatype-date-format_nl-NL.js
 K 25
 svn:wc:ra_dav:version-url
@@ -158,12 +164,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_da-DK.js
-END
-datatype-date-format_ro.js
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_ro.js
 END
 datatype-date-format_pt-BR.js
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_es-US.js
 END
-datatype-date-format_vi-VN.js
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_vi-VN.js
-END
 datatype-date-format_nb.js
 K 25
 svn:wc:ra_dav:version-url
 V 111
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_nb.js
+END
+datatype-date-format_vi-VN.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_vi-VN.js
 END
 datatype-date-format_en.js
 K 25
@@ -243,17 +243,17 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_tr-TR.js
 END
-datatype-date-format_zh-Hant-HK.js
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_zh-Hant-HK.js
-END
 datatype-date-format_nb-NO.js
 K 25
 svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_nb-NO.js
+END
+datatype-date-format_zh-Hant-HK.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_zh-Hant-HK.js
 END
 datatype-date-format_ca.js
 K 25
@@ -279,12 +279,6 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_it-IT.js
 END
-datatype-date-format_sv.js
-K 25
-svn:wc:ra_dav:version-url
-V 111
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_sv.js
-END
 datatype-date-format_ca-ES.js
 K 25
 svn:wc:ra_dav:version-url
@@ -296,6 +290,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 111
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_de.js
+END
+datatype-date-format_sv.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_sv.js
 END
 datatype-date-format_ja.js
 K 25
@@ -315,17 +315,17 @@ svn:wc:ra_dav:version-url
 V 111
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_hi.js
 END
-datatype-date-format_zh-Hant-TW.js
-K 25
-svn:wc:ra_dav:version-url
-V 119
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_zh-Hant-TW.js
-END
 datatype-date-format_ja-JP.js
 K 25
 svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_ja-JP.js
+END
+datatype-date-format_zh-Hant-TW.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_zh-Hant-TW.js
 END
 datatype-date-format_hi-IN.js
 K 25
@@ -387,17 +387,17 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_es-VE.js
 END
-datatype-date-format_pl-PL.js
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_pl-PL.js
-END
 datatype-date-format_th-TH.js
 K 25
 svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_th-TH.js
+END
+datatype-date-format_pl-PL.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_pl-PL.js
 END
 datatype-date-format_ru.js
 K 25
@@ -477,15 +477,15 @@ svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_es-CL.js
 END
-datatype-date-format_el-GR.js
-K 25
-svn:wc:ra_dav:version-url
-V 114
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_el-GR.js
-END
 datatype-date-format_en-IN.js
 K 25
 svn:wc:ra_dav:version-url
 V 114
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_en-IN.js
+END
+datatype-date-format_el-GR.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/3.9.1/build/datatype-date-format/lang/datatype-date-format_el-GR.js
 END

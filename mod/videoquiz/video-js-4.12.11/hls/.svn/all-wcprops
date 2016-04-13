@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/bin-utils.js
 END
-exp-golomb.js
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/exp-golomb.js
-END
 metadata-stream.js
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/metadata-stream.js
+END
+exp-golomb.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/exp-golomb.js
 END
 h264-stream.js
 K 25
@@ -81,11 +81,11 @@ svn:wc:ra_dav:version-url
 V 81
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/flv-tag.js
 END
-decrypter.js
+videojs-media-sources.js
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/decrypter.js
+V 95
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/videojs-media-sources.js
 END
 playlist.js
 K 25
@@ -93,11 +93,11 @@ svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/playlist.js
 END
-videojs-media-sources.js
+decrypter.js
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/videojs-media-sources.js
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videoquiz/video-js-4.12.11/hls/decrypter.js
 END
 xhr.js
 K 25

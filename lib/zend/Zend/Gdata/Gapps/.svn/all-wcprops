@@ -27,23 +27,17 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/UserQuery.php
 END
-EmailListEntry.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListEntry.php
-END
 Query.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/Query.php
 END
-EmailListFeed.php
+EmailListEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListFeed.php
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListEntry.php
 END
 NicknameEntry.php
 K 25
@@ -51,23 +45,29 @@ svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/NicknameEntry.php
 END
+EmailListFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListFeed.php
+END
 EmailListRecipientEntry.php
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListRecipientEntry.php
 END
-EmailListQuery.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListQuery.php
-END
 NicknameFeed.php
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/NicknameFeed.php
+END
+EmailListQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Gdata/Gapps/EmailListQuery.php
 END
 EmailListRecipientFeed.php
 K 25

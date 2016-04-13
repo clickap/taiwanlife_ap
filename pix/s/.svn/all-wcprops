@@ -3,11 +3,11 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s
 END
-surprise.gif
+no.gif
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/surprise.gif
+V 48
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/no.gif
 END
 approve.gif
 K 25
@@ -15,11 +15,11 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/approve.gif
 END
-no.gif
+surprise.gif
 K 25
 svn:wc:ra_dav:version-url
-V 48
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/no.gif
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/surprise.gif
 END
 blush.gif
 K 25
@@ -63,17 +63,17 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/clown.gif
 END
-tongueout.gif
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/tongueout.gif
-END
 thoughtful.gif
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/thoughtful.gif
+END
+tongueout.gif
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/tongueout.gif
 END
 martin.gif
 K 25
@@ -111,17 +111,17 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/sleepy.gif
 END
-egg.gif
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/egg.gif
-END
 smiley.gif
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/smiley.gif
+END
+egg.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/s/egg.gif
 END
 heart.gif
 K 25

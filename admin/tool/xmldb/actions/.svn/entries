@@ -1,7 +1,7 @@
 10
 
 dir
-3
+15
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/admin/tool/xmldb/actions
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -29,10 +29,10 @@ doris
 get_db_directories
 dir
 
-load_xml_files
+delete_xml_file
 dir
 
-delete_xml_file
+load_xml_files
 dir
 
 view_index_xml
@@ -71,7 +71,7 @@ file
 
 
 
-2016-03-25T01:16:01.298051Z
+2016-04-13T09:00:52.570146Z
 50bc5e568b4e553be4ddbd41345123b7
 2016-03-22T01:34:54.760838Z
 2
@@ -132,10 +132,10 @@ dir
 view_structure_sql
 dir
 
-move_updown_table
+delete_table
 dir
 
-delete_table
+move_updown_table
 dir
 
 view_structure_xml
@@ -189,7 +189,7 @@ file
 
 
 
-2016-03-25T01:16:01.298051Z
+2016-04-13T09:00:52.569146Z
 fa8d9ae7d973a92c418f7a0cdaee67d1
 2016-03-22T01:34:54.760838Z
 2
@@ -226,10 +226,10 @@ dir
 view_table_sql
 dir
 
-view_structure_php
+view_table_xml
 dir
 
-view_table_xml
+view_structure_php
 dir
 
 view_key_xml

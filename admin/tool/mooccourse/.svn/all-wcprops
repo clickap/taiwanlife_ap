@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/mycourses.php
 END
-mnetlib.php
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/mnetlib.php
-END
 resources_ext.php
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/resources_ext.php
+END
+mnetlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/mnetlib.php
 END
 courseview.php
 K 25
@@ -69,29 +69,29 @@ svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editcoursesetting.php
 END
-lib.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/lib.php
-END
-enrollib.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/enrollib.php
-END
 editcategory_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/editcategory_form.php
 END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/lib.php
+END
 renderer.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/renderer.php
+END
+enrollib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/enrollib.php
 END
 course_manage.php
 K 25
@@ -123,17 +123,17 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/styles.css
 END
-version.php
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/version.php
-END
 edit.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/edit.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/version.php
 END
 resources_assignquiz.php
 K 25
@@ -201,17 +201,17 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/courseinfo.php
 END
-locallib.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/locallib.php
-END
 enrollocallib.php
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/admin/tool/mooccourse/enrollocallib.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/admin/tool/mooccourse/locallib.php
 END
 lib_elaine.php
 K 25

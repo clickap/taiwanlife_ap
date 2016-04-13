@@ -21,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/mod_form.php
 END
-renderer.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/renderer.php
-END
 lib.php
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/renderer.php
 END
 index.php
 K 25
@@ -87,15 +87,15 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/styles.css
 END
-version.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/version.php
-END
 README.txt
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/README.txt
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/chat/version.php
 END

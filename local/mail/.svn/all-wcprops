@@ -27,6 +27,12 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/label_form.php
 END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/create.php
+END
 user.js
 K 25
 svn:wc:ra_dav:version-url
@@ -39,23 +45,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/contactus.php
 END
-create.php
+recipients.php
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/create.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/recipients.php
 END
 recipients_selector.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/recipients_selector.php
-END
-recipients.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/recipients.php
 END
 compose.php
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/mail.js
 END
-view.php
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/view.php
-END
 LICENSE.txt
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/LICENSE.txt
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/view.php
 END
 compose_to_contactus_form.php
 K 25
@@ -105,17 +105,17 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/locallib.php
 END
-label.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/label.class.php
-END
 ajax.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/ajax.php
+END
+label.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/label.class.php
 END
 styles.css
 K 25
@@ -141,17 +141,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/README.txt
 END
-contactus_form.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/contactus_form.php
-END
 create_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/create_form.php
+END
+contactus_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/mail/contactus_form.php
 END
 message.class.php
 K 25

@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/manual/ajax.php
 END
-version.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/manual/version.php
-END
 edit.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/manual/edit.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/manual/version.php
 END
 lib.php
 K 25

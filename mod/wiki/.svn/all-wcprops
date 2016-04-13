@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/styles.css
 END
-edit.php
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/edit.php
-END
 version.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/version.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/edit.php
 END
 admin.php
 K 25
@@ -99,17 +99,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/admin.php
 END
-editcomments.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editcomments.php
-END
 filesedit_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/filesedit_form.php
+END
+editcomments.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editcomments.php
 END
 history.php
 K 25
@@ -147,17 +147,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/index.php
 END
-filesedit.php
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/filesedit.php
-END
 edit_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/edit_form.php
+END
+filesedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/filesedit.php
 END
 module.js
 K 25

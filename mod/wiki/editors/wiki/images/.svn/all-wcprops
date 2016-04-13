@@ -33,29 +33,29 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_hr.gif
 END
-ed_anchor.gif
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_anchor.gif
-END
 ed_h3.gif
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_h3.gif
 END
-ed_internal.gif
+ed_anchor.gif
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_internal.gif
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_anchor.gif
 END
 ed_img.gif
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_img.gif
+END
+ed_internal.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_internal.gif
 END
 ed_format_sup.gif
 K 25
@@ -135,17 +135,17 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_custom.gif
 END
-ed_about.gif
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_about.gif
-END
 ed_ol.gif
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_ol.gif
+END
+ed_about.gif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/wiki/editors/wiki/images/ed_about.gif
 END
 ed_right.gif
 K 25

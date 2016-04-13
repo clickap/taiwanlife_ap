@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/pageheaderbgblue.jpg
 END
-green-theme2.gif
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/green-theme2.gif
-END
 footerbg.jpg
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/footerbg.jpg
+END
+green-theme2.gif
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/green-theme2.gif
 END
 sbheaderbg2.jpg
 K 25
@@ -111,29 +111,29 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/lbgv2blue.jpg
 END
-selectbg.jpg
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/selectbg.jpg
-END
 bg.jpg
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/bg.jpg
 END
-sbheaderbg2green.jpg
+selectbg.jpg
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/sbheaderbg2green.jpg
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/selectbg.jpg
 END
 pageheaderbgred.jpg
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/pageheaderbgred.jpg
+END
+sbheaderbg2green.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/splash/pix/sbheaderbg2green.jpg
 END
 pageheaderbgorange.jpg
 K 25

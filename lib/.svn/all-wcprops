@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/olson.php
 END
-eventslib.php
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/eventslib.php
-END
 excellib.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/excellib.class.php
+END
+eventslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/eventslib.php
 END
 clilib.php
 K 25
@@ -69,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/medialib.php
 END
-formslib.php
+thirdpartylibs.xml
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/formslib.php
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/thirdpartylibs.xml
 END
 editorlib.php
 K 25
@@ -81,23 +81,17 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editorlib.php
 END
-thirdpartylibs.xml
+formslib.php
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/thirdpartylibs.xml
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/formslib.php
 END
 resourcelib.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/resourcelib.php
-END
-coursecatlib.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/coursecatlib.php
 END
 boxlib.php
 K 25
@@ -110,6 +104,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/textlib.class.php
+END
+coursecatlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/coursecatlib.php
 END
 javascript-static.js
 K 25
@@ -141,29 +141,29 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/setuplib.php
 END
-deprecatedlib.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/deprecatedlib.php
-END
 outputlib.php
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/outputlib.php
 END
-accesslib.php
+deprecatedlib.php
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/accesslib.php
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/deprecatedlib.php
 END
 authlib.php
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/authlib.php
+END
+accesslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/accesslib.php
 END
 tokeniserlib.php
 K 25
@@ -207,17 +207,17 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/ldaplib.php
 END
-oauthlib.php
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/oauthlib.php
-END
 htaccess
 K 25
 svn:wc:ra_dav:version-url
 V 48
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htaccess
+END
+oauthlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/oauthlib.php
 END
 wiki_to_markdown.php
 K 25
@@ -273,17 +273,17 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/odslib.class.php
 END
-outputactions.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/outputactions.php
-END
 cookies.js
 K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/cookies.js
+END
+outputactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/outputactions.php
 END
 modinfolib.php
 K 25
@@ -315,17 +315,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/outputrequirementslib.php
 END
-environmentlib.php
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/environmentlib.php
-END
 cacert.pem
 K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/cacert.pem
+END
+environmentlib.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/environmentlib.php
 END
 componentlib.class.php
 K 25
@@ -363,17 +363,17 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/is_china_ip.php
 END
-moodlelib.php
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/moodlelib.php
-END
 enrollib.php
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/enrollib.php
+END
+moodlelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/moodlelib.php
 END
 googleapi.php
 K 25
@@ -417,29 +417,29 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/lexer.php
 END
-csslib.php
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/csslib.php
-END
 adminlib.php
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/adminlib.php
 END
-recaptchalib.php
+csslib.php
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/recaptchalib.php
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/csslib.php
 END
 blocklib.php
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/blocklib.php
+END
+recaptchalib.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/recaptchalib.php
 END
 gdlib.php
 K 25
@@ -567,17 +567,17 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/xhtml.xsl
 END
-messagelib.php
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/messagelib.php
-END
 uploadlib.php
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/uploadlib.php
+END
+messagelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/messagelib.php
 END
 markdown_license.txt
 K 25

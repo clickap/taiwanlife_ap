@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/hide.png
 END
-copy.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/copy.png
-END
 groupn.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/groupn.png
+END
+copy.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/copy.png
 END
 groups.png
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 76
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/restore.png
 END
-emailno.png
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/emailno.png
-END
 feedback.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/feedback.png
+END
+emailno.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/emailno.png
 END
 edit.png
 K 25
@@ -123,17 +123,17 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/go.png
 END
-calendar.png
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/calendar.png
-END
 addgreen.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/addgreen.png
+END
+calendar.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/t/calendar.png
 END
 user.png
 K 25

@@ -51,11 +51,11 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/weblib_test.php
 END
-filelib_test.php
+string_test.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/filelib_test.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/string_test.php
 END
 outputcomponents_test.php
 K 25
@@ -63,11 +63,11 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/outputcomponents_test.php
 END
-string_test.php
+filelib_test.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/string_test.php
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/filelib_test.php
 END
 admintree_test.php
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/externallib_test.php
 END
-ajaxlib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/ajaxlib_test.php
-END
 code_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/code_test.php
+END
+ajaxlib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/ajaxlib_test.php
 END
 formslib_test.php
 K 25
@@ -99,23 +99,17 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/formslib_test.php
 END
-upgradelib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/upgradelib_test.php
-END
 tablelib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/tablelib_test.php
 END
-csslib_test.php
+upgradelib_test.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/csslib_test.php
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/upgradelib_test.php
 END
 coursecatlib_test.php
 K 25
@@ -123,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/coursecatlib_test.php
 END
-csvclass_test.php
+csslib_test.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/csvclass_test.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/csslib_test.php
 END
 blocklib_test.php
 K 25
@@ -135,23 +129,17 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/blocklib_test.php
 END
+csvclass_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/csvclass_test.php
+END
 modinfolib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/modinfolib_test.php
-END
-statslib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/statslib_test.php
-END
-completionlib_advanced_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/completionlib_advanced_test.php
 END
 filter_test.php
 K 25
@@ -159,23 +147,35 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/filter_test.php
 END
+completionlib_advanced_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/completionlib_advanced_test.php
+END
+statslib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/statslib_test.php
+END
 navigationlib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/navigationlib_test.php
 END
-setuplib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/setuplib_test.php
-END
 outputlib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/outputlib_test.php
+END
+setuplib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/setuplib_test.php
 END
 componentlib_test.php
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/rsslib_test.php
 END
-mathslib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/mathslib_test.php
-END
 pagelib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/pagelib_test.php
+END
+mathslib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/mathslib_test.php
 END
 environment_test.php
 K 25
@@ -213,17 +213,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/environment_test.php
 END
-medialib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/medialib_test.php
-END
 moodlelib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/moodlelib_test.php
+END
+medialib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/medialib_test.php
 END
 gradelib_test.php
 K 25
@@ -237,17 +237,17 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/htmlpurifier_test.php
 END
-messagelib_test.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/messagelib_test.php
-END
 textlib_test.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/textlib_test.php
+END
+messagelib_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/messagelib_test.php
 END
 conditionlib_test.php
 K 25

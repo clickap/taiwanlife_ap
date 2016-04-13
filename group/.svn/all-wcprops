@@ -9,11 +9,11 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/tabs.php
 END
-clientlib.js
+members.php
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/clientlib.js
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/members.php
 END
 grouping.php
 K 25
@@ -21,11 +21,11 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/grouping.php
 END
-members.php
+clientlib.js
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/members.php
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/clientlib.js
 END
 group.php
 K 25
@@ -45,17 +45,17 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/delete.php
 END
-overview.php
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/overview.php
-END
 lib.php
 K 25
 svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/lib.php
+END
+overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/overview.php
 END
 index.php
 K 25
@@ -75,29 +75,29 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/externallib.php
 END
-module.js
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/module.js
-END
 import.php
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/import.php
 END
-grouping_form.php
+module.js
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/grouping_form.php
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/module.js
 END
 groupings.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/groupings.php
+END
+grouping_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/group/grouping_form.php
 END
 group_form.php
 K 25

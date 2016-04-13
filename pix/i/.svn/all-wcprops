@@ -3,12 +3,6 @@ svn:wc:ra_dav:version-url
 V 41
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i
 END
-valid.png
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/valid.png
-END
 user.gif
 K 25
 svn:wc:ra_dav:version-url
@@ -20,6 +14,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/configlock.gif
+END
+valid.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/valid.png
 END
 files.png
 K 25
@@ -33,23 +33,17 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/ICONS-16x16
 END
-withsubcat.png
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/withsubcat.png
-END
 dragdrop.svg
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/dragdrop.svg
 END
-grademark.gif
+withsubcat.png
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/grademark.gif
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/withsubcat.png
 END
 navigationitem.png
 K 25
@@ -57,23 +51,29 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/navigationitem.png
 END
+grademark.gif
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/grademark.gif
+END
 settings.gif
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/settings.gif
 END
-down.svg
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/down.svg
-END
 mnethost.gif
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/mnethost.gif
+END
+down.svg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/down.svg
 END
 completion-auto-y.png
 K 25
@@ -111,17 +111,17 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/filter.svg
 END
-tick_green_small.png
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/tick_green_small.png
-END
 tick_amber_big.gif
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/tick_amber_big.gif
+END
+tick_green_small.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/tick_green_small.png
 END
 restore.gif
 K 25
@@ -267,17 +267,17 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-auto-enabled.svg
 END
-filter.png
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/filter.png
-END
 completion-auto-n.svg
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-auto-n.svg
+END
+filter.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/filter.png
 END
 grades.gif
 K 25
@@ -303,17 +303,17 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/roles.gif
 END
-calendar.png
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/calendar.png
-END
 admin.gif
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/admin.gif
+END
+calendar.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/calendar.png
 END
 item.svg
 K 25
@@ -339,12 +339,6 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/agg_sum.png
 END
-open.gif
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/open.gif
-END
 permissionlock.gif
 K 25
 svn:wc:ra_dav:version-url
@@ -356,6 +350,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/rss.svg
+END
+open.gif
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/open.gif
 END
 up.png
 K 25
@@ -399,6 +399,12 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/warning.png
 END
+reload.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/reload.png
+END
 tick_green_big.svg
 K 25
 svn:wc:ra_dav:version-url
@@ -410,12 +416,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/siteevent.png
-END
-reload.png
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/reload.png
 END
 mahara_host.gif
 K 25
@@ -507,17 +507,17 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/guest.gif
 END
-key.gif
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/key.gif
-END
 cohort.svg
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/cohort.svg
+END
+key.gif
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/key.gif
 END
 import.png
 K 25
@@ -591,6 +591,12 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/grade_partiallycorrect.svg
 END
+users.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/users.png
+END
 show.gif
 K 25
 svn:wc:ra_dav:version-url
@@ -602,12 +608,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/colourpicker.png
-END
-users.png
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/users.png
 END
 risk_xss.png
 K 25
@@ -621,17 +621,17 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/hide.png
 END
-settings.svg
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/settings.svg
-END
 report.png
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/report.png
+END
+settings.svg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/settings.svg
 END
 questions.gif
 K 25
@@ -639,11 +639,11 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/questions.gif
 END
-mnethost.svg
+unlock.gif
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/mnethost.svg
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/unlock.gif
 END
 enrolusers.svg
 K 25
@@ -657,11 +657,11 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/info.gif
 END
-unlock.gif
+mnethost.svg
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/unlock.gif
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/mnethost.svg
 END
 group.gif
 K 25
@@ -729,6 +729,12 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/cohort.png
 END
+edit.svg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/edit.svg
+END
 scheduled.png
 K 25
 svn:wc:ra_dav:version-url
@@ -740,12 +746,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/return.gif
-END
-edit.svg
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/edit.svg
 END
 move_2d.svg
 K 25
@@ -765,29 +765,29 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/expired.svg
 END
-badge.svg
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/badge.svg
-END
 courseevent.svg
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/courseevent.svg
 END
-user.png
+badge.svg
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/user.png
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/badge.svg
 END
 configlock.png
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/configlock.png
+END
+user.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/user.png
 END
 stats.gif
 K 25
@@ -831,6 +831,12 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/export.svg
 END
+risk_managetrust.svg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_managetrust.svg
+END
 approve.gif
 K 25
 svn:wc:ra_dav:version-url
@@ -842,12 +848,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/moodle_host.gif
-END
-risk_managetrust.svg
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_managetrust.svg
 END
 settings.png
 K 25
@@ -1011,17 +1011,17 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/export.png
 END
-risk_managetrust.png
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_managetrust.png
-END
 switch.gif
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/switch.gif
+END
+risk_managetrust.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_managetrust.png
 END
 tick_green_small.gif
 K 25
@@ -1047,17 +1047,17 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_personal.gif
 END
-grades.png
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/grades.png
-END
 completion-manual-y.svg
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-manual-y.svg
+END
+grades.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/grades.png
 END
 manual_item.svg
 K 25
@@ -1167,29 +1167,29 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-manual-enabled.svg
 END
-calendar.gif
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/calendar.gif
-END
 completion-manual-y.png
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-manual-y.png
 END
-manual_item.png
+calendar.gif
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/manual_item.png
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/calendar.gif
 END
 show.svg
 K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/show.svg
+END
+manual_item.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/manual_item.png
 END
 agg_sum.gif
 K 25
@@ -1221,11 +1221,11 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_config.svg
 END
-checkpermissions.png
+risk_spam.gif
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/checkpermissions.png
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_spam.gif
 END
 outcomes.svg
 K 25
@@ -1233,11 +1233,11 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/outcomes.svg
 END
-risk_spam.gif
+checkpermissions.png
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_spam.gif
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/checkpermissions.png
 END
 risk_dataloss.svg
 K 25
@@ -1269,11 +1269,11 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/return.svg
 END
-completion-auto-pass.svg
+switchrole.svg
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-auto-pass.svg
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/switchrole.svg
 END
 rsssitelogo.gif
 K 25
@@ -1281,11 +1281,11 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/rsssitelogo.gif
 END
-switchrole.svg
+completion-auto-pass.svg
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/switchrole.svg
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-auto-pass.svg
 END
 course.png
 K 25
@@ -1311,17 +1311,17 @@ svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/marked.png
 END
-assignroles.svg
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/assignroles.svg
-END
 cross_red_big.png
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/cross_red_big.png
+END
+assignroles.svg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/assignroles.svg
 END
 completion-manual-enabled.png
 K 25
@@ -1395,29 +1395,29 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_config.png
 END
-loading.gif
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/loading.gif
-END
 outcomes.png
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/outcomes.png
 END
-marker.gif
+loading.gif
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/marker.gif
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/loading.gif
 END
 risk_dataloss.png
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_dataloss.png
+END
+marker.gif
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/marker.gif
 END
 tick_amber_small.svg
 K 25
@@ -1473,29 +1473,29 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/users.gif
 END
-completion-auto-pass.png
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-auto-pass.png
-END
 switchrole.png
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/switchrole.png
 END
-invalid.png
+completion-auto-pass.png
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/invalid.png
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/completion-auto-pass.png
 END
 risk_xss.gif
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/risk_xss.gif
+END
+invalid.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/invalid.png
 END
 hierarchylock.png
 K 25
@@ -1581,17 +1581,17 @@ svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/new.gif
 END
-moodle_host.png
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/moodle_host.png
-END
 approve.png
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/approve.png
+END
+moodle_host.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/i/moodle_host.png
 END
 tick_green_small.svg
 K 25

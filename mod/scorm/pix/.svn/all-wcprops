@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/spacer.gif
 END
-asset.gif
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/asset.gif
-END
 passed.gif
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/passed.gif
+END
+asset.gif
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/asset.gif
 END
 suspend.gif
 K 25
@@ -33,17 +33,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/suspend.gif
 END
-assetc.gif
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/assetc.gif
-END
 icon.svg
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/icon.svg
+END
+assetc.gif
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/pix/assetc.gif
 END
 plus.gif
 K 25

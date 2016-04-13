@@ -39,29 +39,29 @@ svn:wc:ra_dav:version-url
 V 87
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLModuleManager.php
 END
-Config.php
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Config.php
-END
 VarParser.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/VarParser.php
 END
-AttrTransform.php
+Config.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform.php
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Config.php
 END
 EntityLookup.php
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/EntityLookup.php
+END
+AttrTransform.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTransform.php
 END
 UnitConverter.php
 K 25
@@ -105,11 +105,11 @@ svn:wc:ra_dav:version-url
 V 85
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/LanguageFactory.php
 END
-Injector.php
+URISchemeRegistry.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Injector.php
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/URISchemeRegistry.php
 END
 Arborize.php
 K 25
@@ -117,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Arborize.php
 END
-URISchemeRegistry.php
+Injector.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/URISchemeRegistry.php
+V 78
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Injector.php
 END
 PropertyList.php
 K 25
@@ -141,17 +141,17 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Language.php
 END
-Generator.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Generator.php
-END
 ConfigSchema.php
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema.php
+END
+Generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Generator.php
 END
 Definition.php
 K 25
@@ -177,17 +177,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/IDAccumulator.php
 END
-ErrorStruct.php
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ErrorStruct.php
-END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Exception.php
+END
+ErrorStruct.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ErrorStruct.php
 END
 URI.php
 K 25
@@ -201,17 +201,17 @@ svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrTypes.php
 END
-PercentEncoder.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/PercentEncoder.php
-END
 ErrorCollector.php
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ErrorCollector.php
+END
+PercentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/PercentEncoder.php
 END
 CSSDefinition.php
 K 25
@@ -237,17 +237,17 @@ svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/TagTransform.php
 END
-ContentSets.php
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ContentSets.php
-END
 AttrCollections.php
 K 25
 svn:wc:ra_dav:version-url
 V 85
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrCollections.php
+END
+ContentSets.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ContentSets.php
 END
 StringHash.php
 K 25
@@ -267,23 +267,17 @@ svn:wc:ra_dav:version-url
 V 85
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/DefinitionCache.php
 END
-HTMLDefinition.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLDefinition.php
-END
 Bootstrap.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Bootstrap.php
 END
-Encoder.php
+HTMLDefinition.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Encoder.php
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/HTMLDefinition.php
 END
 Lexer.php
 K 25
@@ -291,11 +285,11 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Lexer.php
 END
-Token.php
+Encoder.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Token.php
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Encoder.php
 END
 AttrValidator.php
 K 25
@@ -303,29 +297,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrValidator.php
 END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Token.php
+END
 Printer.php
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Printer.php
-END
-VarParserException.php
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/VarParserException.php
-END
-URIScheme.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme.php
-END
-Queue.php
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Queue.php
 END
 Context.php
 K 25
@@ -333,17 +315,35 @@ svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Context.php
 END
-Node.php
+Queue.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Node.php
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Queue.php
+END
+URIScheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme.php
+END
+VarParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/VarParserException.php
 END
 Filter.php
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Filter.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/Node.php
 END
 StringHashParser.php
 K 25

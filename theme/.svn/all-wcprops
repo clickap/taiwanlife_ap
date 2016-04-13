@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/styles_debug.php
 END
-jquery.php
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/jquery.php
-END
 upgrade.txt
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/upgrade.txt
+END
+jquery.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/jquery.php
 END
 switchdevice.php
 K 25

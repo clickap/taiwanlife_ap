@@ -21,23 +21,17 @@ svn:wc:ra_dav:version-url
 V 92
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/lomLoose_localised.xsd
 END
-lomLoose.xsd
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/lomLoose.xsd
-END
 vocabValues_localised.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 95
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/vocabValues_localised.xsd
 END
-elementNames_localised.xsd
+lomLoose.xsd
 K 25
 svn:wc:ra_dav:version-url
-V 96
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/elementNames_localised.xsd
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/lomLoose.xsd
 END
 rootElement_localised.xsd
 K 25
@@ -45,17 +39,23 @@ svn:wc:ra_dav:version-url
 V 95
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/rootElement_localised.xsd
 END
-elementTypes_localised.xsd
+elementNames_localised.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 96
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/elementTypes_localised.xsd
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/elementNames_localised.xsd
 END
 dataTypes_localised.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/dataTypes_localised.xsd
+END
+elementTypes_localised.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/elementTypes_localised.xsd
 END
 vocabTypes_localised.xsd
 K 25
@@ -69,15 +69,15 @@ svn:wc:ra_dav:version-url
 V 94
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/anyElement_localised.xsd
 END
-anyElement.xsd
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/anyElement.xsd
-END
 loose.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/loose.xsd
+END
+anyElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_1/anyElement.xsd
 END

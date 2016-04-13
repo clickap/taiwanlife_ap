@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 49
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/14/trunk/mod/videofile
 END
 view.php
 K 25
@@ -30,8 +30,8 @@ END
 locallib.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/locallib.php
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/14/trunk/mod/videofile/locallib.php
 END
 mod_form.php
 K 25
@@ -63,11 +63,11 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/version.php
 END
-renderer.php
+README.md
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/renderer.php
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/README.md
 END
 lib.php
 K 25
@@ -75,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/lib.php
 END
-README.md
+renderer.php
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/README.md
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/14/trunk/mod/videofile/renderer.php
 END
 index.php
 K 25

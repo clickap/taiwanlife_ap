@@ -15,11 +15,11 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/import_form.php
 END
-templates.php
+data.js
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/templates.php
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/data.js
 END
 rsslib.php
 K 25
@@ -27,11 +27,11 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/rsslib.php
 END
-data.js
+templates.php
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/data.js
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/templates.php
 END
 settings.php
 K 25
@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/settings.php
 END
-preset.php
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/preset.php
-END
 mod_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/mod_form.php
+END
+preset.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/preset.php
 END
 export_form.php
 K 25
@@ -57,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/export_form.php
 END
-renderer.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/renderer.php
-END
 lib.php
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/data/renderer.php
 END
 index.php
 K 25

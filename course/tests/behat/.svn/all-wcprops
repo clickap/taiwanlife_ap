@@ -51,11 +51,11 @@ svn:wc:ra_dav:version-url
 V 90
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/activities_visibility_icons.feature
 END
-section_visibility.feature
+rename_roles.feature
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/section_visibility.feature
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/rename_roles.feature
 END
 activities_group_icons.feature
 K 25
@@ -63,11 +63,11 @@ svn:wc:ra_dav:version-url
 V 85
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/activities_group_icons.feature
 END
-rename_roles.feature
+section_visibility.feature
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/rename_roles.feature
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/tests/behat/section_visibility.feature
 END
 add_activities.feature
 K 25

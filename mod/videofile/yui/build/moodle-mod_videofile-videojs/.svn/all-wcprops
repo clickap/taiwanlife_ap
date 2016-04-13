@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/yui/build/moodle-mod_videofile-videojs
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/14/trunk/mod/videofile/yui/build/moodle-mod_videofile-videojs
 END
 moodle-mod_videofile-videojs-min.js
 K 25
@@ -12,8 +12,8 @@ END
 moodle-mod_videofile-videojs-debug.js
 K 25
 svn:wc:ra_dav:version-url
-V 126
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/yui/build/moodle-mod_videofile-videojs/moodle-mod_videofile-videojs-debug.js
+V 127
+/svn/TaiwanLIFEap2/!svn/ver/14/trunk/mod/videofile/yui/build/moodle-mod_videofile-videojs/moodle-mod_videofile-videojs-debug.js
 END
 moodle-mod_videofile-videojs-coverage.js
 K 25
@@ -24,6 +24,6 @@ END
 moodle-mod_videofile-videojs.js
 K 25
 svn:wc:ra_dav:version-url
-V 120
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/videofile/yui/build/moodle-mod_videofile-videojs/moodle-mod_videofile-videojs.js
+V 121
+/svn/TaiwanLIFEap2/!svn/ver/14/trunk/mod/videofile/yui/build/moodle-mod_videofile-videojs/moodle-mod_videofile-videojs.js
 END

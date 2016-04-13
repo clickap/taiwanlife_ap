@@ -1,15 +1,15 @@
 10
 
 dir
-3
+15
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/mod
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
 
 
-2016-03-22T01:34:54.760838Z
-2
-doris
+2016-04-13T06:52:59.911844Z
+14
+mary
 
 
 
@@ -26,13 +26,13 @@ doris
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-videoquiz
-dir
-
 chat
 dir
 
 label
+dir
+
+videoquiz
 dir
 
 certificate
@@ -41,28 +41,28 @@ dir
 scorm
 dir
 
-assign
+feedback
 dir
 
-feedback
+assign
 dir
 
 resource
 dir
 
-quiz
+forum
 dir
 
 lti
 dir
 
-forum
-dir
-
-book
+quiz
 dir
 
 choice
+dir
+
+book
 dir
 
 survey
@@ -86,7 +86,7 @@ file
 
 
 
-2016-03-25T01:15:52.335051Z
+2016-04-13T09:00:29.487146Z
 0fa8a630e98914eeb63c3a0e4f72a05a
 2016-03-22T01:34:54.760838Z
 2
@@ -135,7 +135,7 @@ file
 
 
 
-2016-03-25T01:15:52.335051Z
+2016-04-13T09:00:29.487146Z
 d41d8cd98f00b204e9800998ecf8427e
 2016-03-22T01:34:54.760838Z
 2
@@ -175,7 +175,7 @@ file
 
 
 
-2016-03-25T01:15:52.336051Z
+2016-04-13T09:00:29.487146Z
 4319e462f7dc748e69c92d6a824fc01a
 2016-03-22T01:34:54.760838Z
 2

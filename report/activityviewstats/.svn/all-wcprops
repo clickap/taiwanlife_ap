@@ -1,31 +1,31 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats
+/svn/TaiwanLIFEap2/!svn/ver/6/trunk/report/activityviewstats
 END
 settings.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/settings.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/settings.php
 END
 user_grade.php
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/user_grade.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/user_grade.php
 END
 locallib.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/locallib.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/locallib.php
 END
 resource_view.php
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/resource_view.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/resource_view.php
 END
 styles.less
 K 25
@@ -43,23 +43,23 @@ version.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/version.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/version.php
 END
 lib.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/lib.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/lib.php
 END
 renderer.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/renderer.php
+/svn/TaiwanLIFEap2/!svn/ver/6/trunk/report/activityviewstats/renderer.php
 END
 index.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/report/activityviewstats/index.php
+/svn/TaiwanLIFEap2/!svn/ver/4/trunk/report/activityviewstats/index.php
 END

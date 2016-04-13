@@ -3,17 +3,17 @@ svn:wc:ra_dav:version-url
 V 42
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges
 END
-mybadges.php
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/mybadges.php
-END
 info.php
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/info.php
+END
+mybadges.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/mybadges.php
 END
 award.php
 K 25
@@ -39,23 +39,17 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/cron.php
 END
-badge.php
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/badge.php
-END
 criteria.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/criteria.php
 END
-recipients.php
+badge.php
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/recipients.php
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/badge.php
 END
 mybackpack.php
 K 25
@@ -63,11 +57,11 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/mybackpack.php
 END
-renderer.php
+recipients.php
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/renderer.php
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/recipients.php
 END
 overview.php
 K 25
@@ -75,17 +69,23 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/overview.php
 END
-index.php
+renderer.php
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/index.php
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/renderer.php
 END
 assertion.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/assertion.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/index.php
 END
 edit_form.php
 K 25
@@ -117,11 +117,11 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/action.php
 END
-criteria_settings.php
+external.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/criteria_settings.php
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/external.php
 END
 backpack_form.php
 K 25
@@ -129,11 +129,11 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/backpack_form.php
 END
-external.php
+criteria_settings.php
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/external.php
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/badges/criteria_settings.php
 END
 ajax.php
 K 25

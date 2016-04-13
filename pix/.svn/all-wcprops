@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/moodlelogo-med-white.gif
 END
-help.svg
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/help.svg
-END
 docs.svg
 K 25
 svn:wc:ra_dav:version-url
 V 48
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/docs.svg
+END
+help.svg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/help.svg
 END
 file_download.png
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/req.gif
 END
-help.gif
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/help.gif
-END
 teacher_avatar.png
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/teacher_avatar.png
+END
+help.gif
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/help.gif
 END
 docs.gif
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/moodlelogo.gif
 END
-madewithmoodle.gif
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/madewithmoodle.gif
-END
 index_course.jpg
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/index_course.jpg
+END
+madewithmoodle.gif
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/madewithmoodle.gif
 END
 moodlelogo-med.gif
 K 25
@@ -99,17 +99,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/moodlelogo-med.gif
 END
-help.png
-K 25
-svn:wc:ra_dav:version-url
-V 48
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/help.png
-END
 docs.png
 K 25
 svn:wc:ra_dav:version-url
 V 48
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/docs.png
+END
+help.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pix/help.png
 END
 .cvsignore
 K 25

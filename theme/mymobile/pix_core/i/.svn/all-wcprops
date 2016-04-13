@@ -63,17 +63,17 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/completion-auto-n.png
 END
-cross_red_small.png
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/cross_red_small.png
-END
 report.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/report.png
+END
+cross_red_small.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/cross_red_small.png
 END
 news.png
 K 25
@@ -105,6 +105,12 @@ svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/mail.png
 END
+filter.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/filter.png
+END
 edit.png
 K 25
 svn:wc:ra_dav:version-url
@@ -116,12 +122,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/completion-auto-y.png
-END
-filter.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/filter.png
 END
 guest.png
 K 25
@@ -153,17 +153,17 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/stats.png
 END
-cohort.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/cohort.png
-END
 item.png
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/item.png
+END
+cohort.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/cohort.png
 END
 course.png
 K 25
@@ -171,17 +171,17 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/course.png
 END
-switch.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/switch.png
-END
 open.png
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/open.png
+END
+switch.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/mymobile/pix_core/i/switch.png
 END
 calc.png
 K 25

@@ -3,17 +3,17 @@ svn:wc:ra_dav:version-url
 V 46
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn
 END
-datafield_latlong.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_latlong.php
-END
 format_grid.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/format_grid.php
+END
+datafield_latlong.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_latlong.php
 END
 repository_boxnet.php
 K 25
@@ -27,6 +27,12 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_mymobile.php
 END
+filter_multilang.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_multilang.php
+END
 workshopeval_best.php
 K 25
 svn:wc:ra_dav:version-url
@@ -39,29 +45,23 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/access.php
 END
-filter_multilang.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_multilang.php
-END
 workshopallocation_scheduled.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/workshopallocation_scheduled.php
 END
-url.php
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/url.php
-END
 quiz_statistics.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quiz_statistics.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/url.php
 END
 lesson.php
 K 25
@@ -87,29 +87,29 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/local_loginas.php
 END
-repository_flickr_public.php
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_flickr_public.php
-END
 question.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/question.php
 END
-auth_radius.php
+repository_flickr_public.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_radius.php
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_flickr_public.php
 END
 auth_email.php
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_email.php
+END
+auth_radius.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_radius.php
 END
 datafield_picture.php
 K 25
@@ -123,29 +123,29 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_navigation.php
 END
-block_admin_bookmarks.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_admin_bookmarks.php
-END
 assignment_offline.php
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignment_offline.php
 END
-tinymce_moodleimage.php
+block_admin_bookmarks.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tinymce_moodleimage.php
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_admin_bookmarks.php
 END
 tool_qeupgradehelper.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_qeupgradehelper.php
+END
+tinymce_moodleimage.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tinymce_moodleimage.php
 END
 tag.php
 K 25
@@ -189,17 +189,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_text.php
 END
-repository_upload.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_upload.php
-END
 quiz_grading.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quiz_grading.php
+END
+repository_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_upload.php
 END
 repository_s3.php
 K 25
@@ -207,11 +207,11 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_s3.php
 END
-table.php
+flashcard.php
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/table.php
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/flashcard.php
 END
 repository_equella.php
 K 25
@@ -219,17 +219,17 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_equella.php
 END
+table.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/table.php
+END
 block_course_summary.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_course_summary.php
-END
-flashcard.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/flashcard.php
 END
 forum.php
 K 25
@@ -243,23 +243,17 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_multianswer.php
 END
-qtype_missingtype.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_missingtype.php
-END
 giportfolio.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/giportfolio.php
 END
-cohort.php
+qtype_missingtype.php
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/cohort.php
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_missingtype.php
 END
 auth_manual.php
 K 25
@@ -273,6 +267,12 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignfeedback_comments.php
 END
+cohort.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/cohort.php
+END
 auth_nntp.php
 K 25
 svn:wc:ra_dav:version-url
@@ -285,17 +285,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_menu.php
 END
-repository_wikimedia.php
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_wikimedia.php
-END
 report_security.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/report_security.php
+END
+repository_wikimedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_wikimedia.php
 END
 block_jmail.php
 K 25
@@ -303,17 +303,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_jmail.php
 END
-quizaccess_ipaddress.php
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quizaccess_ipaddress.php
-END
 profilefield_text.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/profilefield_text.php
+END
+quizaccess_ipaddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quizaccess_ipaddress.php
 END
 enrol_category.php
 K 25
@@ -321,17 +321,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/enrol_category.php
 END
-block_section_links.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_section_links.php
-END
 alternative.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/alternative.php
+END
+block_section_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_section_links.php
 END
 media.php
 K 25
@@ -351,17 +351,17 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_anomaly.php
 END
-debug.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/debug.php
-END
 condition.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/condition.php
+END
+debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/debug.php
 END
 profilefield_menu.php
 K 25
@@ -381,17 +381,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_community.php
 END
-profilefield_textarea.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/profilefield_textarea.php
-END
 repository_url.php
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_url.php
+END
+profilefield_textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/profilefield_textarea.php
 END
 qtype_random.php
 K 25
@@ -423,17 +423,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_essay.php
 END
-filters.php
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filters.php
-END
 filter_glossary.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_glossary.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filters.php
 END
 assignsubmission_onlinetext.php
 K 25
@@ -441,29 +441,29 @@ svn:wc:ra_dav:version-url
 V 78
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignsubmission_onlinetext.php
 END
-completion.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/completion.php
-END
 tool_langimport.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_langimport.php
 END
-imscp.php
+completion.php
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/imscp.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/completion.php
 END
 block_blog_tags.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_blog_tags.php
+END
+imscp.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/imscp.php
 END
 repository_user.php
 K 25
@@ -531,12 +531,6 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/report_loglive.php
 END
-block_tag_youtube.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_tag_youtube.php
-END
 qtype_numerical.php
 K 25
 svn:wc:ra_dav:version-url
@@ -548,6 +542,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/role.php
+END
+block_tag_youtube.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_tag_youtube.php
 END
 tool_multilangupgrade.php
 K 25
@@ -579,17 +579,17 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradereport_overview.php
 END
-install.php
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/install.php
-END
 videofile.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/videofile.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/install.php
 END
 ouwiki.php
 K 25
@@ -609,11 +609,11 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quizaccess_safebrowser.php
 END
-portfolio.php
+editor_atto.php
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/portfolio.php
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/editor_atto.php
 END
 block_mrbs.php
 K 25
@@ -621,17 +621,11 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_mrbs.php
 END
-editor_atto.php
+portfolio.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/editor_atto.php
-END
-repository.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository.php
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/portfolio.php
 END
 repository_recent.php
 K 25
@@ -639,17 +633,11 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_recent.php
 END
-qformat_learnwise.php
+repository.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_learnwise.php
-END
-assignfeedback_pdf.php
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignfeedback_pdf.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository.php
 END
 theme_standard.php
 K 25
@@ -657,17 +645,29 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_standard.php
 END
+assignfeedback_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignfeedback_pdf.php
+END
+qformat_learnwise.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_learnwise.php
+END
 scorm.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/scorm.php
 END
-block_calendar_upcoming.php
+theme_serenity.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_calendar_upcoming.php
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_serenity.php
 END
 quizaccess_delaybetweenattempts.php
 K 25
@@ -675,11 +675,11 @@ svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quizaccess_delaybetweenattempts.php
 END
-theme_serenity.php
+block_calendar_upcoming.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_serenity.php
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_calendar_upcoming.php
 END
 enrol_flatfile.php
 K 25
@@ -711,29 +711,29 @@ svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignfeedback_file.php
 END
-qbehaviour_informationitem.php
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_informationitem.php
-END
 error.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/error.php
 END
-qbehaviour_regexpadaptivewithhelpnopenalty.php
+qbehaviour_informationitem.php
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_regexpadaptivewithhelpnopenalty.php
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_informationitem.php
 END
 qbehaviour_interactivecountback.php
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_interactivecountback.php
+END
+qbehaviour_regexpadaptivewithhelpnopenalty.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_regexpadaptivewithhelpnopenalty.php
 END
 plugin.php
 K 25
@@ -765,17 +765,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_innodb.php
 END
-tinymce_moodlemedia.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tinymce_moodlemedia.php
-END
 block_objectives.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_objectives.php
+END
+tinymce_moodlemedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tinymce_moodlemedia.php
 END
 tool_customlang.php
 K 25
@@ -843,17 +843,17 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/admin.php
 END
-block_configurable_reports.php
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_configurable_reports.php
-END
 notes.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/notes.php
+END
+block_configurable_reports.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_configurable_reports.php
 END
 assignsubmission_pdf.php
 K 25
@@ -867,17 +867,11 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_youtube.php
 END
-theme_canvas.php
+gradeimport_xml.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_canvas.php
-END
-survey.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/survey.php
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeimport_xml.php
 END
 block_blog_recent.php
 K 25
@@ -885,11 +879,17 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_blog_recent.php
 END
-gradeimport_xml.php
+survey.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeimport_xml.php
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/survey.php
+END
+theme_canvas.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_canvas.php
 END
 theme_binarius.php
 K 25
@@ -945,23 +945,29 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/checklist.php
 END
-datafield_textarea.php
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_textarea.php
-END
 block_settings.php
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_settings.php
 END
+datafield_textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_textarea.php
+END
 profilefield_checkbox.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/profilefield_checkbox.php
+END
+assignment_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignment_upload.php
 END
 workshopform_numerrors.php
 K 25
@@ -974,12 +980,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/report_log.php
-END
-assignment_upload.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignment_upload.php
 END
 tool_capability.php
 K 25
@@ -1011,17 +1011,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/badges.php
 END
-resource.php
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/resource.php
-END
 block_completionstatus.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_completionstatus.php
+END
+resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/resource.php
 END
 quiz.php
 K 25
@@ -1029,17 +1029,17 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quiz.php
 END
-tinymce_spellchecker.php
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tinymce_spellchecker.php
-END
 quizaccess_password.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quizaccess_password.php
+END
+tinymce_spellchecker.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tinymce_spellchecker.php
 END
 newsletter.php
 K 25
@@ -1047,17 +1047,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/newsletter.php
 END
-stampcoll.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/stampcoll.php
-END
 qbehaviour_missing.php
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_missing.php
+END
+stampcoll.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/stampcoll.php
 END
 repository_picasa.php
 K 25
@@ -1083,17 +1083,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/languagelab.php
 END
-glossary.php
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/glossary.php
-END
 qformat_multianswer.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_multianswer.php
+END
+glossary.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/glossary.php
 END
 search.php
 K 25
@@ -1125,17 +1125,17 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_participants.php
 END
-workshop.php
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/workshop.php
-END
 qtype_truefalse.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_truefalse.php
+END
+workshop.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/workshop.php
 END
 assignment_uploadsingle.php
 K 25
@@ -1167,12 +1167,6 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/feedback.php
 END
-qformat_xhtml.php
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_xhtml.php
-END
 apply.php
 K 25
 svn:wc:ra_dav:version-url
@@ -1185,17 +1179,23 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_activitynames.php
 END
-theme_arialist.php
+qformat_xhtml.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_arialist.php
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_xhtml.php
 END
 block.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block.php
+END
+theme_arialist.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_arialist.php
 END
 format_scorm.php
 K 25
@@ -1293,17 +1293,17 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/page.php
 END
-block_html.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_html.php
-END
 qformat_examview.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_examview.php
+END
+block_html.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_html.php
 END
 bulkusers.php
 K 25
@@ -1317,17 +1317,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_uploaduser.php
 END
-repository_filesystem.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_filesystem.php
-END
 blog.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/blog.php
+END
+repository_filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_filesystem.php
 END
 theme_fusion.php
 K 25
@@ -1347,17 +1347,17 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_course_contents.php
 END
-theme_nimble.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_nimble.php
-END
 lti.php
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/lti.php
+END
+theme_nimble.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_nimble.php
 END
 block_moodletxt.php
 K 25
@@ -1371,17 +1371,17 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/group.php
 END
-qtype_calculatedsimple.php
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_calculatedsimple.php
-END
 portfolio_picasa.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/portfolio_picasa.php
+END
+qtype_calculatedsimple.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_calculatedsimple.php
 END
 qtype_shortanswer.php
 K 25
@@ -1401,17 +1401,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_imap.php
 END
-langconfig.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/langconfig.php
-END
 portfolio_flickr.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/portfolio_flickr.php
+END
+langconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/langconfig.php
 END
 report_questioninstances.php
 K 25
@@ -1431,17 +1431,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/hub.php
 END
-cachestore_file.php
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/cachestore_file.php
-END
 enrol_ldap.php
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/enrol_ldap.php
+END
+cachestore_file.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/cachestore_file.php
 END
 filter_emoticon.php
 K 25
@@ -1455,18 +1455,6 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datafield_checkbox.php
 END
-tool_phpunit.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_phpunit.php
-END
-theme_formfactor.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_formfactor.php
-END
 repository_googledocs.php
 K 25
 svn:wc:ra_dav:version-url
@@ -1478,6 +1466,18 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assign.php
+END
+theme_formfactor.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_formfactor.php
+END
+tool_phpunit.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_phpunit.php
 END
 enrol_meta.php
 K 25
@@ -1497,17 +1497,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/editor.php
 END
-webservice_rest.php
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/webservice_rest.php
-END
 assignfeedback_offline.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/assignfeedback_offline.php
+END
+webservice_rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/webservice_rest.php
 END
 block_mnet_hosts.php
 K 25
@@ -1533,17 +1533,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/moodle2.php
 END
-qbehaviour_regexpadaptivewithhelp.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_regexpadaptivewithhelp.php
-END
 currencies.php
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/currencies.php
+END
+qbehaviour_regexpadaptivewithhelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_regexpadaptivewithhelp.php
 END
 enrol_database.php
 K 25
@@ -1557,17 +1557,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_db.php
 END
-message_popup.php
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/message_popup.php
-END
 booktool_importhtml.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/booktool_importhtml.php
+END
+message_popup.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/message_popup.php
 END
 assignment.php
 K 25
@@ -1599,17 +1599,17 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/cachelock_file.php
 END
-hotpot.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/hotpot.php
-END
 quiz_gradingstudents.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quiz_gradingstudents.php
+END
+hotpot.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/hotpot.php
 END
 editor_tinymce.php
 K 25
@@ -1653,17 +1653,17 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_news_items.php
 END
-block_gismo.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_gismo.php
-END
 auth_pwdexp.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_pwdexp.php
+END
+block_gismo.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_gismo.php
 END
 message_jabber.php
 K 25
@@ -1683,12 +1683,6 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_selfcompletion.php
 END
-block_feedback.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_feedback.php
-END
 block_activity_modules.php
 K 25
 svn:wc:ra_dav:version-url
@@ -1700,6 +1694,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/webservice.php
+END
+block_feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_feedback.php
 END
 theme_afterburner.php
 K 25
@@ -1749,6 +1749,12 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/datapreset_imagegallery.php
 END
+scormreport_basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/scormreport_basic.php
+END
 plagiarism_urkund.php
 K 25
 svn:wc:ra_dav:version-url
@@ -1760,12 +1766,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_wikipedia.php
-END
-scormreport_basic.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/scormreport_basic.php
 END
 webservice_amf.php
 K 25
@@ -1815,11 +1815,11 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/scormreport_interactions.php
 END
-gradereport_grader.php
+reader.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradereport_grader.php
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/reader.php
 END
 auth_pop3.php
 K 25
@@ -1827,11 +1827,11 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/auth_pop3.php
 END
-reader.php
+gradereport_grader.php
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/reader.php
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradereport_grader.php
 END
 qtype_randomsamatch.php
 K 25
@@ -1923,17 +1923,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_tex.php
 END
-gradeexport_xls.php
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeexport_xls.php
-END
 block_mentees.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_mentees.php
+END
+gradeexport_xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeexport_xls.php
 END
 folder.php
 K 25
@@ -1953,17 +1953,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/iso6392.php
 END
-filter_data.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_data.php
-END
 quiz_overview.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quiz_overview.php
+END
+filter_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_data.php
 END
 quizaccess_openclosedate.php
 K 25
@@ -2007,29 +2007,29 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/quizaccess_timelimit.php
 END
-gradeimport_csv.php
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeimport_csv.php
-END
 block_calendar_month.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/block_calendar_month.php
 END
-form.php
+gradeimport_csv.php
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/form.php
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeimport_csv.php
 END
 wiki.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/wiki.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/form.php
 END
 block_site_main_menu.php
 K 25
@@ -2073,17 +2073,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/filter_tidy.php
 END
-qformat_gift.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_gift.php
-END
 workshopallocation_random.php
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/workshopallocation_random.php
+END
+qformat_gift.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_gift.php
 END
 block_quiz_results.php
 K 25
@@ -2121,17 +2121,17 @@ svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_immediatefeedback.php
 END
-gradeexport_ods.php
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeexport_ods.php
-END
 qformat_xml.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qformat_xml.php
+END
+gradeexport_ods.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/gradeexport_ods.php
 END
 report_stats.php
 K 25
@@ -2163,12 +2163,6 @@ svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/repository_alfresco.php
 END
-imscc.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/imscc.php
-END
 filter_censor.php
 K 25
 svn:wc:ra_dav:version-url
@@ -2180,6 +2174,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qtype_calculatedmulti.php
+END
+imscc.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/imscc.php
 END
 qformat_blackboard_six.php
 K 25
@@ -2241,17 +2241,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/mimetypes.php
 END
-enrol_manual.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/enrol_manual.php
-END
 theme_nonzero.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/theme_nonzero.php
+END
+enrol_manual.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/enrol_manual.php
 END
 tool_assignmentupgrade.php
 K 25
@@ -2391,17 +2391,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/advmindmap.php
 END
-license.php
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/license.php
-END
 format_social.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/format_social.php
+END
+license.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/license.php
 END
 editor_textarea.php
 K 25
@@ -2409,29 +2409,29 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/editor_textarea.php
 END
-plagiarism_turnitin.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/plagiarism_turnitin.php
-END
 rating.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/rating.php
 END
-qbehaviour_deferredcbm.php
+plagiarism_turnitin.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_deferredcbm.php
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/plagiarism_turnitin.php
 END
 tool_spamcleaner.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/tool_spamcleaner.php
+END
+qbehaviour_deferredcbm.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lang/zh_cn/qbehaviour_deferredcbm.php
 END
 plagiarism.php
 K 25

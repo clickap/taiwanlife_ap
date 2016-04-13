@@ -33,17 +33,17 @@ svn:wc:ra_dav:version-url
 V 109
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.FixInnerHTML.txt
 END
-URI.DefaultScheme.txt
-K 25
-svn:wc:ra_dav:version-url
-V 107
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefaultScheme.txt
-END
 Filter.ExtractStyleBlocks.TidyImpl.txt
 K 25
 svn:wc:ra_dav:version-url
 V 124
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.TidyImpl.txt
+END
+URI.DefaultScheme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefaultScheme.txt
 END
 Test.ForceNoIconv.txt
 K 25
@@ -81,17 +81,17 @@ svn:wc:ra_dav:version-url
 V 106
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.MaxImgLength.txt
 END
-AutoFormat.RemoveEmpty.RemoveNbsp.txt
-K 25
-svn:wc:ra_dav:version-url
-V 123
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt
-END
 Core.EscapeNonASCIICharacters.txt
 K 25
 svn:wc:ra_dav:version-url
 V 119
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EscapeNonASCIICharacters.txt
+END
+AutoFormat.RemoveEmpty.RemoveNbsp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt
 END
 Cache.DefinitionImpl.txt
 K 25
@@ -135,17 +135,17 @@ svn:wc:ra_dav:version-url
 V 115
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.FlashAllowFullScreen.txt
 END
-AutoFormat.DisplayLinkURI.txt
-K 25
-svn:wc:ra_dav:version-url
-V 115
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.DisplayLinkURI.txt
-END
 HTML.Proprietary.txt
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Proprietary.txt
+END
+AutoFormat.DisplayLinkURI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.DisplayLinkURI.txt
 END
 HTML.CoreModules.txt
 K 25
@@ -171,17 +171,17 @@ svn:wc:ra_dav:version-url
 V 108
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.ClassUseCDATA.txt
 END
-HTML.Allowed.txt
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Allowed.txt
-END
 HTML.TidyRemove.txt
 K 25
 svn:wc:ra_dav:version-url
 V 105
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.TidyRemove.txt
+END
+HTML.Allowed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Allowed.txt
 END
 CSS.DefinitionRev.txt
 K 25
@@ -189,11 +189,11 @@ svn:wc:ra_dav:version-url
 V 107
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.DefinitionRev.txt
 END
-URI.OverrideAllowedSchemes.txt
+Core.ColorKeywords.txt
 K 25
 svn:wc:ra_dav:version-url
-V 116
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.OverrideAllowedSchemes.txt
+V 108
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.ColorKeywords.txt
 END
 URI.AllowedSchemes.txt
 K 25
@@ -201,11 +201,11 @@ svn:wc:ra_dav:version-url
 V 108
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.AllowedSchemes.txt
 END
-Core.ColorKeywords.txt
+URI.OverrideAllowedSchemes.txt
 K 25
 svn:wc:ra_dav:version-url
-V 108
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.ColorKeywords.txt
+V 116
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.OverrideAllowedSchemes.txt
 END
 HTML.BlockWrapper.txt
 K 25
@@ -213,17 +213,17 @@ svn:wc:ra_dav:version-url
 V 107
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.BlockWrapper.txt
 END
-Attr.IDPrefixLocal.txt
-K 25
-svn:wc:ra_dav:version-url
-V 108
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefixLocal.txt
-END
 Core.AllowHostnameUnderscore.txt
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.AllowHostnameUnderscore.txt
+END
+Attr.IDPrefixLocal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefixLocal.txt
 END
 Output.FlashCompat.txt
 K 25
@@ -315,17 +315,17 @@ svn:wc:ra_dav:version-url
 V 103
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.Encoding.txt
 END
-HTML.SafeEmbed.txt
-K 25
-svn:wc:ra_dav:version-url
-V 104
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt
-END
 Attr.AllowedClasses.txt
 K 25
 svn:wc:ra_dav:version-url
 V 109
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.AllowedClasses.txt
+END
+HTML.SafeEmbed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt
 END
 CSS.Trusted.txt
 K 25
@@ -333,17 +333,17 @@ svn:wc:ra_dav:version-url
 V 101
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.Trusted.txt
 END
-HTML.AllowedModules.txt
-K 25
-svn:wc:ra_dav:version-url
-V 109
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedModules.txt
-END
 Attr.IDPrefix.txt
 K 25
 svn:wc:ra_dav:version-url
 V 103
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefix.txt
+END
+HTML.AllowedModules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedModules.txt
 END
 HTML.AllowedElements.txt
 K 25
@@ -369,17 +369,17 @@ svn:wc:ra_dav:version-url
 V 116
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.txt
 END
-AutoFormat.RemoveEmpty.txt
-K 25
-svn:wc:ra_dav:version-url
-V 112
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.txt
-END
 Core.NormalizeNewlines.txt
 K 25
 svn:wc:ra_dav:version-url
 V 112
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.NormalizeNewlines.txt
+END
+AutoFormat.RemoveEmpty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.txt
 END
 HTML.AllowedComments.txt
 K 25
@@ -399,29 +399,29 @@ svn:wc:ra_dav:version-url
 V 112
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.AllowedAttributes.txt
 END
-URI.DefinitionID.txt
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefinitionID.txt
-END
 URI.DefinitionRev.txt
 K 25
 svn:wc:ra_dav:version-url
 V 107
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefinitionRev.txt
 END
-HTML.SafeScripting.txt
+URI.DefinitionID.txt
 K 25
 svn:wc:ra_dav:version-url
-V 108
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeScripting.txt
+V 106
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DefinitionID.txt
 END
 Output.CommentScriptContents.txt
 K 25
 svn:wc:ra_dav:version-url
 V 118
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt
+END
+HTML.SafeScripting.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.SafeScripting.txt
 END
 Attr.AllowedFrameTargets.txt
 K 25
@@ -465,17 +465,17 @@ svn:wc:ra_dav:version-url
 V 98
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.Base.txt
 END
-Core.EscapeInvalidTags.txt
-K 25
-svn:wc:ra_dav:version-url
-V 112
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidTags.txt
-END
 AutoFormat.RemoveSpansWithoutAttributes.txt
 K 25
 svn:wc:ra_dav:version-url
 V 129
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveSpansWithoutAttributes.txt
+END
+Core.EscapeInvalidTags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidTags.txt
 END
 Attr.ForbiddenClasses.txt
 K 25
@@ -501,11 +501,11 @@ svn:wc:ra_dav:version-url
 V 107
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.MaxImgLength.txt
 END
-Core.LexerImpl.txt
+CSS.AllowedFonts.txt
 K 25
 svn:wc:ra_dav:version-url
-V 104
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.LexerImpl.txt
+V 106
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.AllowedFonts.txt
 END
 Cache.SerializerPath.txt
 K 25
@@ -513,11 +513,11 @@ svn:wc:ra_dav:version-url
 V 110
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPath.txt
 END
-CSS.AllowedFonts.txt
+Core.LexerImpl.txt
 K 25
 svn:wc:ra_dav:version-url
-V 106
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/CSS.AllowedFonts.txt
+V 104
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.LexerImpl.txt
 END
 AutoFormat.Custom.txt
 K 25
@@ -555,17 +555,17 @@ svn:wc:ra_dav:version-url
 V 120
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.ConvertDocumentToFragment.txt
 END
-Filter.Custom.txt
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt
-END
 Attr.IDBlacklist.txt
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklist.txt
+END
+Filter.Custom.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt
 END
 URI.DisableExternalResources.txt
 K 25
@@ -687,29 +687,29 @@ svn:wc:ra_dav:version-url
 V 94
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/info.ini
 END
-HTML.ForbiddenElements.txt
-K 25
-svn:wc:ra_dav:version-url
-V 112
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenElements.txt
-END
 URI.DisableResources.txt
 K 25
 svn:wc:ra_dav:version-url
 V 110
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/URI.DisableResources.txt
 END
-Core.DirectLexLineNumberSyncInterval.txt
+HTML.ForbiddenElements.txt
 K 25
 svn:wc:ra_dav:version-url
-V 126
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt
+V 112
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenElements.txt
 END
 HTML.Trusted.txt
 K 25
 svn:wc:ra_dav:version-url
 V 102
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/HTML.Trusted.txt
+END
+Core.DirectLexLineNumberSyncInterval.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt
 END
 HTML.XHTML.txt
 K 25

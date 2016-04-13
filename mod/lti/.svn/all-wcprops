@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/OAuthBody.php
 END
-settings.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/settings.php
-END
 service.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/service.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/settings.php
 END
 mod_form.php
 K 25
@@ -57,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/edit_form.php
 END
-view.php
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/view.php
-END
 launch.php
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/launch.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/lti/view.php
 END
 return.php
 K 25

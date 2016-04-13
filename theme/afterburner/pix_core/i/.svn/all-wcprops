@@ -45,17 +45,17 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/grades.png
 END
-checkpermissions.png
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/checkpermissions.png
-END
 hide.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/hide.png
+END
+checkpermissions.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/checkpermissions.png
 END
 scales.png
 K 25
@@ -135,17 +135,17 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/backup.png
 END
-edit.gif
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/edit.gif
-END
 publish.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/publish.png
+END
+edit.gif
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/i/edit.gif
 END
 all.png
 K 25

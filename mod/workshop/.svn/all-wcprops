@@ -81,12 +81,6 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/locallib.php
 END
-switchphase.php
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/switchphase.php
-END
 exassessment.php
 K 25
 svn:wc:ra_dav:version-url
@@ -98,6 +92,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/fileinfolib.php
+END
+switchphase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/switchphase.php
 END
 excompare.php
 K 25
@@ -111,11 +111,11 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/styles.css
 END
-version.php
+assessment.php
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/version.php
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/assessment.php
 END
 allocation.php
 K 25
@@ -123,23 +123,23 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/allocation.php
 END
-assessment.php
+version.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/assessment.php
-END
-aggregate.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/aggregate.php
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/version.php
 END
 toolbox.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/toolbox.php
+END
+aggregate.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/workshop/aggregate.php
 END
 exsubmission.php
 K 25

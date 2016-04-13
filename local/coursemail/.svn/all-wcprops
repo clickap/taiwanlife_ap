@@ -15,23 +15,23 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/settings.php
 END
-user.js
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/user.js
-END
 create.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/create.php
 END
-recipients_selector.php
+user.js
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/recipients_selector.php
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/user.js
+END
+recipients.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/recipients.php
 END
 compose.php
 K 25
@@ -39,11 +39,11 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/compose.php
 END
-recipients.php
+recipients_selector.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/recipients.php
+V 76
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/local/coursemail/recipients_selector.php
 END
 renderer.php
 K 25

@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/tabs.php
 END
-datamodel.php
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/datamodel.php
-END
 loaddatamodel.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/loaddatamodel.php
+END
+datamodel.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/datamodel.php
 END
 player.php
 K 25
@@ -99,11 +99,11 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/reportsettings_form.php
 END
-player.js
+prereqs.php
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/player.js
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/prereqs.php
 END
 locallib.php
 K 25
@@ -111,11 +111,11 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/locallib.php
 END
-prereqs.php
+player.js
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/prereqs.php
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/player.js
 END
 grade.php
 K 25
@@ -123,17 +123,17 @@ svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/grade.php
 END
-loadSCO.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/loadSCO.php
-END
 styles.css
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/styles.css
+END
+loadSCO.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/scorm/loadSCO.php
 END
 version.php
 K 25

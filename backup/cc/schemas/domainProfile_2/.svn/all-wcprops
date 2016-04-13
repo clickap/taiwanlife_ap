@@ -21,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 92
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/lomLoose_localised.xsd
 END
-lomLoose.xsd
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/lomLoose.xsd
-END
 vocabValues_localised.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 95
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/vocabValues_localised.xsd
+END
+lomLoose.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/lomLoose.xsd
 END
 elementNames_localised.xsd
 K 25
@@ -69,15 +69,15 @@ svn:wc:ra_dav:version-url
 V 94
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/anyElement_localised.xsd
 END
-anyElement.xsd
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/anyElement.xsd
-END
 loose.xsd
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/loose.xsd
+END
+anyElement.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/backup/cc/schemas/domainProfile_2/anyElement.xsd
 END

@@ -39,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 106
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-cool.gif
 END
-smiley-cry.gif
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-cry.gif
-END
 smiley-sealed.gif
 K 25
 svn:wc:ra_dav:version-url
 V 108
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-sealed.gif
+END
+smiley-cry.gif
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-cry.gif
 END
 smiley-laughing.gif
 K 25
@@ -57,23 +57,17 @@ svn:wc:ra_dav:version-url
 V 110
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-laughing.gif
 END
-smiley-foot-in-mouth.gif
-K 25
-svn:wc:ra_dav:version-url
-V 115
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-foot-in-mouth.gif
-END
 smiley-yell.gif
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-yell.gif
 END
-smiley-embarassed.gif
+smiley-foot-in-mouth.gif
 K 25
 svn:wc:ra_dav:version-url
-V 112
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-embarassed.gif
+V 115
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-foot-in-mouth.gif
 END
 smiley-tongue-out.gif
 K 25
@@ -81,21 +75,27 @@ svn:wc:ra_dav:version-url
 V 112
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-tongue-out.gif
 END
+smiley-embarassed.gif
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-embarassed.gif
+END
 smiley-wink.gif
 K 25
 svn:wc:ra_dav:version-url
 V 106
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-wink.gif
 END
-smiley-kiss.gif
-K 25
-svn:wc:ra_dav:version-url
-V 106
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-kiss.gif
-END
 smiley-smile.gif
 K 25
 svn:wc:ra_dav:version-url
 V 107
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-smile.gif
+END
+smiley-kiss.gif
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins/emotions/img/smiley-kiss.gif
 END

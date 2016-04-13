@@ -1,7 +1,7 @@
 10
 
 dir
-3
+15
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/lib/yuilib/3.9.1/build
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -32,10 +32,10 @@ dir
 axis-category-base
 dir
 
-stylesheet
+cssgrids-base
 dir
 
-cssgrids-base
+stylesheet
 dir
 
 editor-bidi
@@ -44,10 +44,10 @@ dir
 node-event-html5
 dir
 
-yui-core
+shim-plugin
 dir
 
-shim-plugin
+yui-core
 dir
 
 querystring-stringify-simple
@@ -86,10 +86,10 @@ dir
 dataschema-text
 dir
 
-datatable-scroll
+recordset-filter
 dir
 
-recordset-filter
+datatable-scroll
 dir
 
 recordset-sort
@@ -110,10 +110,10 @@ dir
 datatype-number-format
 dir
 
-app-content
+anim-easing
 dir
 
-anim-easing
+app-content
 dir
 
 transition
@@ -122,19 +122,19 @@ dir
 datasource-cache
 dir
 
-series-spline-stacked
+pjax-plugin
 dir
 
-pjax-plugin
+series-spline-stacked
 dir
 
 scrollview-base
 dir
 
-uploader-html5
+recordset-base
 dir
 
-recordset-base
+uploader-html5
 dir
 
 base-pluginhost
@@ -146,19 +146,19 @@ dir
 uploader-flash
 dir
 
-datasource-get
+highlight-accentfold
 dir
 
 base-build
 dir
 
-highlight-accentfold
-dir
-
-view-node-map
+datasource-get
 dir
 
 datatable-mutable
+dir
+
+view-node-map
 dir
 
 imageloader
@@ -176,13 +176,13 @@ dir
 graphics-svg-default
 dir
 
-template-micro
+profiler
 dir
 
 editor-lists
 dir
 
-profiler
+template-micro
 dir
 
 widget-stack
@@ -212,19 +212,19 @@ dir
 get-nodejs
 dir
 
-pjax
+color-hsl
 dir
 
-color-hsl
+pjax
 dir
 
 event-tap
 dir
 
-matrix
+axis-numeric
 dir
 
-axis-numeric
+matrix
 dir
 
 autocomplete-filters-accentfold
@@ -248,10 +248,10 @@ dir
 series-area-stacked
 dir
 
-axis-category
+test-console
 dir
 
-test-console
+axis-category
 dir
 
 axis-stacked
@@ -281,10 +281,10 @@ dir
 graphics-canvas-default
 dir
 
-cssreset
+series-line-stacked
 dir
 
-series-line-stacked
+cssreset
 dir
 
 uploader-queue
@@ -305,10 +305,10 @@ dir
 range-slider
 dir
 
-event-resize
+resize-proxy
 dir
 
-resize-proxy
+event-resize
 dir
 
 app-transitions-css
@@ -332,31 +332,31 @@ dir
 cssnormalize-context
 dir
 
-dom-screen
+base-observable
 dir
 
 charts-base
 dir
 
-base-observable
-dir
-
-node-base
+dom-screen
 dir
 
 datasource-textschema
 dir
 
-panel
+node-base
 dir
 
 gesture-simulate
 dir
 
-exec-command
+panel
 dir
 
 tree-labelable
+dir
+
+exec-command
 dir
 
 event-key
@@ -374,10 +374,10 @@ dir
 widget-position-align
 dir
 
-io-base
+highlight-base
 dir
 
-highlight-base
+io-base
 dir
 
 widget-autohide
@@ -386,10 +386,10 @@ dir
 axis-stacked-base
 dir
 
-jsonp-url
+io-queue
 dir
 
-io-queue
+jsonp-url
 dir
 
 series-line-util
@@ -398,37 +398,37 @@ dir
 event-outside
 dir
 
-pluginhost-config
+resize-constrain
 dir
 
-resize-constrain
+pluginhost-config
 dir
 
 tabview
 dir
 
-series-cartesian
-dir
-
 dataschema-json
 dir
 
-series-combospline
+series-cartesian
 dir
 
 dd-drag
 dir
 
+series-combospline
+dir
+
 datatable-table
+dir
+
+handlebars-base
 dir
 
 uploader
 dir
 
 button
-dir
-
-handlebars-base
 dir
 
 tree-lazy
@@ -455,10 +455,10 @@ dir
 querystring-parse-simple
 dir
 
-scrollview-scrollbars
+arraylist-filter
 dir
 
-arraylist-filter
+scrollview-scrollbars
 dir
 
 event-custom-complex
@@ -482,22 +482,22 @@ dir
 node-screen
 dir
 
-widget-child
-dir
-
 selector-native
 dir
 
-yui-log-nodejs
-dir
-
-datatable-formatters
+widget-child
 dir
 
 cssbase-context
 dir
 
+yui-log-nodejs
+dir
+
 button-group
+dir
+
+datatable-formatters
 dir
 
 attribute-extras
@@ -533,10 +533,10 @@ dir
 datasource-jsonschema
 dir
 
-array-extras
+history-hash
 dir
 
-history-hash
+array-extras
 dir
 
 node-style
@@ -569,13 +569,13 @@ dir
 oop
 dir
 
-swf
+async-queue
 dir
 
 datatype-xml-format
 dir
 
-async-queue
+swf
 dir
 
 dd-ddm-base
@@ -584,10 +584,10 @@ dir
 querystring-stringify
 dir
 
-yui-throttle
+calendar
 dir
 
-calendar
+yui-throttle
 dir
 
 pjax-content
@@ -659,10 +659,10 @@ dir
 editor-para
 dir
 
-datatable-body
+axis-numeric-base
 dir
 
-axis-numeric-base
+datatable-body
 dir
 
 intl-base
@@ -689,10 +689,10 @@ dir
 widget-skin
 dir
 
-recordset-indexer
+color-base
 dir
 
-color-base
+recordset-indexer
 dir
 
 dom-size
@@ -713,10 +713,10 @@ dir
 widget-modality
 dir
 
-querystring-parse
+axis
 dir
 
-axis
+querystring-parse
 dir
 
 sortable-scroll
@@ -752,10 +752,10 @@ dir
 io-upload-iframe
 dir
 
-datatype-date-parse
+plugin
 dir
 
-plugin
+datatype-date-parse
 dir
 
 dd-delegate
@@ -770,13 +770,13 @@ dir
 dd-proxy
 dir
 
-uploader-deprecated
-dir
-
 series-marker
 dir
 
 cookie
+dir
+
+uploader-deprecated
 dir
 
 autocomplete-base
@@ -785,13 +785,13 @@ dir
 scrollview-paginator
 dir
 
-dom-style
+cssreset-context
 dir
 
 history-hash-ie
 dir
 
-cssreset-context
+dom-style
 dir
 
 series-column
@@ -833,10 +833,10 @@ dir
 dial
 dir
 
-node-scroll-info
+widget-parent
 dir
 
-widget-parent
+node-scroll-info
 dir
 
 datatable-scroll-deprecated
@@ -845,16 +845,16 @@ dir
 loader-base
 dir
 
-node-pluginhost
-dir
-
 widget-buttons
 dir
 
-datatype-xml-parse
+node-pluginhost
 dir
 
 series-plot-util
+dir
+
+datatype-xml-parse
 dir
 
 base-base
@@ -863,22 +863,22 @@ dir
 anim-shape
 dir
 
-node-deprecated
-dir
-
 dd-plugin
 dir
 
+node-deprecated
+dir
+
 widget-uievents
+dir
+
+series-marker-stacked
 dir
 
 json-stringify
 dir
 
 attribute-observable
-dir
-
-series-marker-stacked
 dir
 
 datasource-arrayschema
@@ -902,16 +902,13 @@ dir
 datasource-io
 dir
 
-classnamemanager
-dir
-
 series-column-stacked
 dir
 
-node-load
+classnamemanager
 dir
 
-event-hover
+text-wordbreak
 dir
 
 assets
@@ -920,7 +917,10 @@ dir
 dataschema-base
 dir
 
-text-wordbreak
+node-load
+dir
+
+event-hover
 dir
 
 datatable-message
@@ -932,10 +932,10 @@ dir
 dataschema-array
 dir
 
-array-invoke
+datatable-datasource-deprecated
 dir
 
-datatable-datasource-deprecated
+array-invoke
 dir
 
 io-form
@@ -947,10 +947,10 @@ dir
 tabview-base
 dir
 
-get
+file
 dir
 
-file
+get
 dir
 
 cssgrids-units
@@ -959,10 +959,10 @@ dir
 text-accentfold
 dir
 
-model-sync-rest
+widget-position
 dir
 
-widget-position
+model-sync-rest
 dir
 
 yql-nodejs
@@ -983,13 +983,13 @@ dir
 frame
 dir
 
-node-focusmanager
-dir
-
 series-histogram-base
 dir
 
 tabview-plugin
+dir
+
+node-focusmanager
 dir
 
 tree-selectable
@@ -1010,16 +1010,16 @@ dir
 graphics-canvas
 dir
 
-datatable-datasource
-dir
-
 datatype-number-parse
 dir
 
-cache-base
+datatable-datasource
 dir
 
 attribute-base
+dir
+
+cache-base
 dir
 
 widget-stdmod
@@ -1043,16 +1043,16 @@ dir
 selector
 dir
 
-charts
-dir
-
 calendarnavigator
 dir
 
-dom-base
+charts
 dir
 
 series-combo
+dir
+
+dom-base
 dir
 
 app-base
@@ -1073,10 +1073,10 @@ dir
 anim-node-plugin
 dir
 
-event-flick
+queue-promote
 dir
 
-queue-promote
+event-flick
 dir
 
 attribute-complex
@@ -1106,16 +1106,16 @@ dir
 anim-xy
 dir
 
-json-stringify-shim
-dir
-
 cssbase
 dir
 
-event-base-ie
+json-stringify-shim
 dir
 
 cssbutton
+dir
+
+event-base-ie
 dir
 
 parallel
@@ -1127,10 +1127,10 @@ dir
 editor-base
 dir
 
-event-simulate
+console
 dir
 
-console
+event-simulate
 dir
 
 series-combo-stacked
@@ -1142,13 +1142,13 @@ dir
 dom-style-ie
 dir
 
-model-list
-dir
-
 datasource-xmlschema
 dir
 
 text-data-wordbreak
+dir
+
+model-list
 dir
 
 axis-base

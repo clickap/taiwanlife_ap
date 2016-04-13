@@ -45,29 +45,29 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/recent_form.php
 END
-reset_form.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/reset_form.php
-END
 search.php
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/search.php
 END
-lib.php
+reset_form.php
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/lib.php
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/reset_form.php
 END
 editcategory_form.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/editcategory_form.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/lib.php
 END
 renderer.php
 K 25
@@ -87,17 +87,11 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/completion.php
 END
-view.php
+editsection.php
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/3/trunk/course/view.php
-END
-scales.php
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/scales.php
+V 58
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/editsection.php
 END
 modduplicate.php
 K 25
@@ -105,17 +99,17 @@ svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/modduplicate.php
 END
-editsection.php
+scales.php
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/editsection.php
+V 53
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/scales.php
 END
-request_form.php
+view.php
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/request_form.php
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/3/trunk/course/view.php
 END
 report.php
 K 25
@@ -123,17 +117,23 @@ svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/report.php
 END
-rest.php
+request_form.php
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/rest.php
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/request_form.php
 END
 category.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/category.php
+END
+rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/rest.php
 END
 mod.php
 K 25
@@ -195,17 +195,17 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/completion.js
 END
-category.ajax.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/category.ajax.php
-END
 dndupload.js
 K 25
 svn:wc:ra_dav:version-url
 V 55
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/dndupload.js
+END
+category.ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/category.ajax.php
 END
 dnduploadlib.php
 K 25

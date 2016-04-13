@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/cool.png
 END
-dead.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/dead.png
-END
 no.gif
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/no.gif
+END
+dead.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/dead.png
 END
 evil.png
 K 25
@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/evil.png
 END
-yes.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/yes.png
-END
 blackeye.gif
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/blackeye.gif
+END
+yes.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/yes.png
 END
 sleepy.png
 K 25
@@ -45,23 +45,23 @@ svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/sleepy.png
 END
-smiley.png
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/smiley.png
-END
 SMILEYS
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/SMILEYS
 END
-shy.png
+smiley.png
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/shy.png
+V 75
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/smiley.png
+END
+heart.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/heart.png
 END
 clown.gif
 K 25
@@ -69,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/clown.gif
 END
-heart.png
+shy.png
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/heart.png
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/afterburner/pix_core/s/shy.png
 END
 mixed.png
 K 25

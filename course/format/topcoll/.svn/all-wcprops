@@ -21,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 67
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/format.js
 END
-settings.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/settings.php
-END
 COPYING.txt
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/COPYING.txt
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/settings.php
 END
 styles.css
 K 25
@@ -57,11 +57,11 @@ svn:wc:ra_dav:version-url
 V 69
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/version.php
 END
-renderer.php
+Readme.md
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/renderer.php
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/Readme.md
 END
 lib.php
 K 25
@@ -69,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/lib.php
 END
-Readme.md
+renderer.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/Readme.md
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/course/format/topcoll/renderer.php
 END
 togglelib.php
 K 25

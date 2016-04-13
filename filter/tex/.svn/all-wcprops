@@ -21,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/README.mimetex
 END
-pix.php
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/pix.php
-END
 mimetex.linux
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/mimetex.linux
+END
+pix.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/pix.php
 END
 mimetex.exe
 K 25
@@ -45,11 +45,11 @@ svn:wc:ra_dav:version-url
 V 64
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/readme_moodle.txt
 END
-mimetex.darwin
+filter.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/mimetex.darwin
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/filter.php
 END
 version.php
 K 25
@@ -57,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/version.php
 END
-filter.php
+mimetex.darwin
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/filter.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/mimetex.darwin
 END
-lib.php
+displaytex.php
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/lib.php
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/displaytex.php
 END
 filtersettings.php
 K 25
@@ -75,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 65
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/filtersettings.php
 END
-displaytex.php
+lib.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/displaytex.php
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/filter/tex/lib.php
 END
 texdebug.php
 K 25

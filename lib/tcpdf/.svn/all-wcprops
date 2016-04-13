@@ -45,17 +45,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/spotcolors.php
 END
-tcpdf.fdf
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf.fdf
-END
 2dbarcodes.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/2dbarcodes.php
+END
+tcpdf.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/tcpdf.fdf
 END
 composer.json
 K 25
@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/qrcode.php
 END
-unicode_data.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/unicode_data.php
-END
 CHANGELOG.TXT
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/CHANGELOG.TXT
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tcpdf/unicode_data.php
 END
 barcodes.php
 K 25

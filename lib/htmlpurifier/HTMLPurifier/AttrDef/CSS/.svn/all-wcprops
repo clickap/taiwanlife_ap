@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 90
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/Multiple.php
 END
-TextDecoration.php
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/TextDecoration.php
-END
 ListStyle.php
 K 25
 svn:wc:ra_dav:version-url
 V 91
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/ListStyle.php
+END
+TextDecoration.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/TextDecoration.php
 END
 URI.php
 K 25
@@ -63,17 +63,17 @@ svn:wc:ra_dav:version-url
 V 102
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/DenyElementDecorator.php
 END
-Percentage.php
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/Percentage.php
-END
 Border.php
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/Border.php
+END
+Percentage.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/htmlpurifier/HTMLPurifier/AttrDef/CSS/Percentage.php
 END
 Color.php
 K 25

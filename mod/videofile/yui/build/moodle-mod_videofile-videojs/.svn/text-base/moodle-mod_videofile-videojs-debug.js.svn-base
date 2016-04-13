@@ -19,4 +19,5 @@ M.mod_videofile.videojs = {
   }
 };
 
+
 }, '@VERSION@', {"requires": ["base", "node", "event"]});

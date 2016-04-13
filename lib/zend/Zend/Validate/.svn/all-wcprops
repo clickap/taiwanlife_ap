@@ -93,17 +93,17 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Validate/Ccnum.php
 END
-Ip.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Validate/Ip.php
-END
 StringLength.php
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Validate/StringLength.php
+END
+Ip.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Validate/Ip.php
 END
 Iban.php
 K 25

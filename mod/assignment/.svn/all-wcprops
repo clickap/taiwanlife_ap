@@ -33,11 +33,11 @@ svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/locallib.php
 END
-mod_form.php
+grade.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/mod_form.php
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/grade.php
 END
 delete.php
 K 25
@@ -45,17 +45,11 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/delete.php
 END
-grade.php
+mod_form.php
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/grade.php
-END
-styles.css
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/styles.css
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/mod_form.php
 END
 upload.php
 K 25
@@ -63,23 +57,29 @@ svn:wc:ra_dav:version-url
 V 61
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/upload.php
 END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/styles.css
+END
 version.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/version.php
 END
-renderer.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/renderer.php
-END
 lib.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/lib.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/assignment/renderer.php
 END
 index.php
 K 25

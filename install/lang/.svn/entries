@@ -1,7 +1,7 @@
 10
 
 dir
-3
+15
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/install/lang
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -125,13 +125,13 @@ dir
 kmr
 dir
 
-ta_lk
-dir
-
 lt_uni
 dir
 
 gd
+dir
+
+ta_lk
 dir
 
 ka
@@ -152,10 +152,10 @@ dir
 kk
 dir
 
-mi_tn
+kl
 dir
 
-kl
+mi_tn
 dir
 
 km
@@ -164,19 +164,19 @@ dir
 kn
 dir
 
-en_us
-dir
-
 ko
 dir
 
-si
+en_us
+dir
+
+gu
 dir
 
 cy
 dir
 
-gu
+si
 dir
 
 en_kids
@@ -194,19 +194,22 @@ dir
 so
 dir
 
-sq
-dir
-
 ky
 dir
 
-sr
+sq
 dir
 
 da
 dir
 
+sr
+dir
+
 wo
+dir
+
+sv
 dir
 
 de
@@ -215,19 +218,16 @@ dir
 ha
 dir
 
-sv
-dir
-
 sw
 dir
 
 rm_surs
 dir
 
-la
+he
 dir
 
-he
+la
 dir
 
 lb
@@ -242,19 +242,19 @@ dir
 de_kids
 dir
 
-ja_kids
+ta
 dir
 
 no_gr
 dir
 
-ta
-dir
-
-he_kids
+ja_kids
 dir
 
 sv_fi
+dir
+
+he_kids
 dir
 
 te
@@ -266,16 +266,16 @@ dir
 dv
 dir
 
-fr_ca
-dir
-
-fil
-dir
-
 lo
 dir
 
 tg
+dir
+
+fr_ca
+dir
+
+fil
 dir
 
 pl
@@ -284,28 +284,28 @@ dir
 th
 dir
 
+ti
+dir
+
 hu
 dir
 
 hat
 dir
 
-ti
-dir
-
 dz
-dir
-
-pan
 dir
 
 tk
 dir
 
-lt
+pan
 dir
 
 tl
+dir
+
+lt
 dir
 
 hy
@@ -320,19 +320,19 @@ dir
 pt
 dir
 
-ca_valencia
+tr
 dir
 
-tr
+ca_valencia
 dir
 
 af
 dir
 
-ast
+tt
 dir
 
-tt
+ast
 dir
 
 zh_tw
@@ -347,37 +347,37 @@ dir
 el
 dir
 
-ar
+en
 dir
 
-en
+ar
 dir
 
 de_comm
 dir
 
-es
-dir
-
 mk
 dir
 
-et
-dir
-
-ml
+es
 dir
 
 sr_cr
 dir
 
+ml
+dir
+
+et
+dir
+
 eu
 dir
 
-az
+mn
 dir
 
-mn
+az
 dir
 
 is

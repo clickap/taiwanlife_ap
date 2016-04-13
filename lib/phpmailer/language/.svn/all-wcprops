@@ -3,29 +3,29 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language
 END
-phpmailer.lang-ch.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-ch.php
-END
 phpmailer.lang-ja.php
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-ja.php
 END
-phpmailer.lang-dk.php
+phpmailer.lang-ch.php
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-dk.php
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-ch.php
 END
 phpmailer.lang-fi.php
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-fi.php
+END
+phpmailer.lang-dk.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-dk.php
 END
 phpmailer.lang-zh_cn.php
 K 25
@@ -57,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-se.php
 END
-phpmailer.lang-es.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-es.php
-END
 phpmailer.lang-fr.php
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-fr.php
+END
+phpmailer.lang-es.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-es.php
 END
 phpmailer.lang-et.php
 K 25
@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-pl.php
 END
-phpmailer.lang-hu.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-hu.php
-END
 phpmailer.lang-it.php
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-it.php
+END
+phpmailer.lang-hu.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/phpmailer/language/phpmailer.lang-hu.php
 END
 phpmailer.lang-cz.php
 K 25

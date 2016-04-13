@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/link.png
 END
-dnd_arrow.gif
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/dnd_arrow.gif
-END
 view_list_active.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/view_list_active.png
+END
+dnd_arrow.gif
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/dnd_arrow.gif
 END
 view_tree_selected.png
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/view_tree_active.png
 END
-path_folder.png
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/path_folder.png
-END
 view_list_inactive.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/view_list_inactive.png
+END
+path_folder.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/path_folder.png
 END
 alias_sm.png
 K 25
@@ -93,17 +93,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/alias_sm.png
 END
-cross.png
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/cross.png
-END
 alias.png
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/alias.png
+END
+cross.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/base/pix/fp/cross.png
 END
 view_icon_selected.png
 K 25

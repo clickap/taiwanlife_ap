@@ -39,23 +39,17 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1253.tbl
 END
-windows-1254.tbl
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1254.tbl
-END
 iso-8859-10.tbl
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-10.tbl
 END
-windows-1255.tbl
+windows-1254.tbl
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1255.tbl
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1254.tbl
 END
 iso-8859-11.tbl
 K 25
@@ -63,11 +57,23 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-11.tbl
 END
+windows-1255.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1255.tbl
+END
 windows-1256.tbl
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1256.tbl
+END
+iso-8859-13.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-13.tbl
 END
 windows-1257.tbl
 K 25
@@ -81,23 +87,17 @@ svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/euc-kr.tbl
 END
-iso-8859-13.tbl
+iso-8859-14.tbl
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-13.tbl
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-14.tbl
 END
 windows-1258.tbl
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/windows-1258.tbl
-END
-iso-8859-14.tbl
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-14.tbl
 END
 iso-8859-15.tbl
 K 25
@@ -147,17 +147,17 @@ svn:wc:ra_dav:version-url
 V 70
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-6.tbl
 END
-iso-8859-7.tbl
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-7.tbl
-END
 koi8-r.tbl
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/koi8-r.tbl
+END
+iso-8859-7.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/typo3/csconvtbl/iso-8859-7.tbl
 END
 iso-8859-8.tbl
 K 25

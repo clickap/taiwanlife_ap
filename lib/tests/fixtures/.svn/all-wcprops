@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 71
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/upload_users.csv
 END
-upload_users_cohorts.csv
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/upload_users_cohorts.csv
-END
 tabfile.csv
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/tabfile.csv
+END
+upload_users_cohorts.csv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/upload_users_cohorts.csv
 END
 statslib-test00.xml
 K 25
@@ -33,17 +33,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test00.xml
 END
-statslib-test01.xml
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test01.xml
-END
 statslib-test10.xml
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test10.xml
+END
+statslib-test01.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/tests/fixtures/statslib-test01.xml
 END
 statslib-test02.xml
 K 25

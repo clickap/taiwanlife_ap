@@ -111,17 +111,17 @@ svn:wc:ra_dav:version-url
 V 93
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/responsive-navbar.less
 END
-thumbnails.less
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/thumbnails.less
-END
 responsive-utilities.less
 K 25
 svn:wc:ra_dav:version-url
 V 96
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/responsive-utilities.less
+END
+thumbnails.less
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/thumbnails.less
 END
 navbar.less
 K 25
@@ -165,6 +165,12 @@ svn:wc:ra_dav:version-url
 V 89
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/button-groups.less
 END
+progress-bars.less
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/progress-bars.less
+END
 breadcrumbs.less
 K 25
 svn:wc:ra_dav:version-url
@@ -176,12 +182,6 @@ K 25
 svn:wc:ra_dav:version-url
 V 86
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/pagination.less
-END
-progress-bars.less
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/theme/bootstrapbase/less/bootstrap/progress-bars.less
 END
 tooltip.less
 K 25

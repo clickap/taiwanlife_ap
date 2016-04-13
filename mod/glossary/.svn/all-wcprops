@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 58
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/index.php
 END
-edit_form.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/edit_form.php
-END
 editcategories.html
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/editcategories.html
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/edit_form.php
 END
 view.php
 K 25
@@ -123,17 +123,17 @@ svn:wc:ra_dav:version-url
 V 60
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/approve.php
 END
-locallib.php
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/locallib.php
-END
 export.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/export.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mod/glossary/locallib.php
 END
 styles.css
 K 25

@@ -3,23 +3,17 @@ svn:wc:ra_dav:version-url
 V 68
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati
 END
-GetInfoResult.php
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/GetInfoResult.php
-END
 ResultSet.php
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/ResultSet.php
 END
-DailyCountsResult.php
+GetInfoResult.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/DailyCountsResult.php
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/GetInfoResult.php
 END
 TagsResult.php
 K 25
@@ -27,17 +21,23 @@ svn:wc:ra_dav:version-url
 V 83
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/TagsResult.php
 END
-BlogInfoResult.php
+DailyCountsResult.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/BlogInfoResult.php
+V 90
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/DailyCountsResult.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/Exception.php
+END
+BlogInfoResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/BlogInfoResult.php
 END
 Utils.php
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 85
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/SearchResult.php
 END
-TagsResultSet.php
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/TagsResultSet.php
-END
 DailyCountsResultSet.php
 K 25
 svn:wc:ra_dav:version-url
 V 93
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/DailyCountsResultSet.php
+END
+TagsResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/TagsResultSet.php
 END
 TagResult.php
 K 25
@@ -87,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 82
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/TagResult.php
 END
-CosmosResultSet.php
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/CosmosResultSet.php
-END
 Result.php
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/Result.php
+END
+CosmosResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/zend/Zend/Service/Technorati/CosmosResultSet.php
 END
 Weblog.php
 K 25

@@ -27,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 122
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/2in3/2.9.0/build/yui2-skin-sam-menu/assets/menubaritem_submenuindicator.png
 END
-menu_down_arrow.png
-K 25
-svn:wc:ra_dav:version-url
-V 109
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/2in3/2.9.0/build/yui2-skin-sam-menu/assets/menu_down_arrow.png
-END
 menuitem_submenuindicator_disabled.png
 K 25
 svn:wc:ra_dav:version-url
 V 128
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/2in3/2.9.0/build/yui2-skin-sam-menu/assets/menuitem_submenuindicator_disabled.png
+END
+menu_down_arrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/lib/yuilib/2in3/2.9.0/build/yui2-skin-sam-menu/assets/menu_down_arrow.png
 END
 menu.css
 K 25
