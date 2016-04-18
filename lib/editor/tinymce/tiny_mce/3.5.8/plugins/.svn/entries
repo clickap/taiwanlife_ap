@@ -1,7 +1,7 @@
 10
 
 dir
-15
+19
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/lib/editor/tinymce/tiny_mce/3.5.8/plugins
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -71,10 +71,10 @@ dir
 advhr
 dir
 
-advlist
+tabfocus
 dir
 
-tabfocus
+advlist
 dir
 
 layer
@@ -89,19 +89,19 @@ dir
 directionality
 dir
 
-visualchars
+wordcount
 dir
 
-wordcount
+visualchars
 dir
 
 legacyoutput
 dir
 
-autosave
+table
 dir
 
-table
+autosave
 dir
 
 advlink

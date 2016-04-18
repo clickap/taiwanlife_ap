@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 41
-/svn/TaiwanLIFEap2/!svn/ver/3/trunk/enrol
+V 42
+/svn/TaiwanLIFEap2/!svn/ver/18/trunk/enrol
 END
 editenrolment_form.php
 K 25
@@ -15,17 +15,17 @@ svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/users.php
 END
-otherusers.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/otherusers.php
-END
 bulkchange.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/bulkchange.php
+END
+otherusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/otherusers.php
 END
 renderer.php
 K 25
@@ -33,29 +33,17 @@ svn:wc:ra_dav:version-url
 V 54
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/renderer.php
 END
-users_forms.php
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/users_forms.php
-END
 index.php
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/index.php
 END
-editenrolment.php
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/editenrolment.php
-END
-externallib.php
+users_forms.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/externallib.php
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/users_forms.php
 END
 bulkchange_forms.php
 K 25
@@ -63,23 +51,35 @@ svn:wc:ra_dav:version-url
 V 62
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/bulkchange_forms.php
 END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/externallib.php
+END
+editenrolment.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/editenrolment.php
+END
 upgrade.txt
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/upgrade.txt
 END
-locallib.php
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/locallib.php
-END
 unenroluser.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/unenroluser.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/enrol/locallib.php
 END
 ajax.php
 K 25

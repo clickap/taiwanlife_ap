@@ -1,7 +1,7 @@
 10
 
 dir
-15
+19
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/lib/filestorage/tests/fixtures
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -230,18 +230,17 @@ has-props
 
 1020
 
-test_win8_de.zip
+test.txt
 file
 
 
 
 
-2016-04-13T08:59:28.516146Z
-b10fc82a59039092fd1d52751dbcf46c
+2016-04-13T08:59:28.515146Z
+098f6bcd4621d373cade4e832627b4f6
 2016-03-22T01:34:54.760838Z
 2
 doris
-has-props
 
 
 
@@ -262,7 +261,8 @@ has-props
 
 
 
-222
+
+4
 
 test_tc_8.zip
 file
@@ -298,17 +298,18 @@ has-props
 
 782
 
-test.txt
+test_win8_de.zip
 file
 
 
 
 
-2016-04-13T08:59:28.515146Z
-098f6bcd4621d373cade4e832627b4f6
+2016-04-13T08:59:28.516146Z
+b10fc82a59039092fd1d52751dbcf46c
 2016-03-22T01:34:54.760838Z
 2
 doris
+has-props
 
 
 
@@ -329,8 +330,7 @@ doris
 
 
 
-
-4
+222
 
 empty.zip
 file

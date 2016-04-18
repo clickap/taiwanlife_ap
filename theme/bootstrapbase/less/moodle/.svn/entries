@@ -1,7 +1,7 @@
 10
 
 dir
-15
+19
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/theme/bootstrapbase/less/moodle
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -25,40 +25,6 @@ doris
 
 
 11953e39-5639-46ae-961e-90a9029f87ac
-
-tables.less
-file
-
-
-
-
-2016-04-13T09:01:49.573146Z
-125e2d0a22401d9f5d9aaa06ca2434fd
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-133
 
 filemanager.less
 file
@@ -94,14 +60,14 @@ doris
 
 27712
 
-blocks.less
+tables.less
 file
 
 
 
 
-2016-04-13T09:01:49.574146Z
-92bd5121e734cfe540e12f6e325f12e4
+2016-04-13T09:01:49.573146Z
+125e2d0a22401d9f5d9aaa06ca2434fd
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -126,7 +92,7 @@ doris
 
 
 
-2936
+133
 
 bootstrapoverride.less
 file
@@ -161,6 +127,40 @@ doris
 
 
 636
+
+blocks.less
+file
+
+
+
+
+2016-04-13T09:01:49.574146Z
+92bd5121e734cfe540e12f6e325f12e4
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2936
 
 user.less
 file
@@ -264,48 +264,14 @@ doris
 
 4105
 
-backup-restore.less
-file
-
-
-
-
-2016-04-13T09:01:49.575146Z
-90865db47702e80d54f2a7f811982146
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3854
-
-debug.less
+forms.less
 file
 
 
 
 
 2016-04-13T09:01:49.576146Z
-73e592dcd08facc2e78e8e566eaffcd6
+e27ade194cfd6066637986c99037705f
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -330,7 +296,7 @@ doris
 
 
 
-1636
+9587
 
 editor.less
 file
@@ -366,14 +332,14 @@ doris
 
 62
 
-forms.less
+debug.less
 file
 
 
 
 
 2016-04-13T09:01:49.576146Z
-e27ade194cfd6066637986c99037705f
+73e592dcd08facc2e78e8e566eaffcd6
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -398,16 +364,16 @@ doris
 
 
 
-9587
+1636
 
-admin.less
+backup-restore.less
 file
 
 
 
 
-2016-04-13T09:01:49.576146Z
-ae5be8b3b48fc76884450f8fbdd6379f
+2016-04-13T09:01:49.575146Z
+90865db47702e80d54f2a7f811982146
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -432,7 +398,7 @@ doris
 
 
 
-15270
+3854
 
 core.less
 file
@@ -467,6 +433,40 @@ doris
 
 
 41460
+
+admin.less
+file
+
+
+
+
+2016-04-13T09:01:49.576146Z
+ae5be8b3b48fc76884450f8fbdd6379f
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15270
 
 responsive.less
 file

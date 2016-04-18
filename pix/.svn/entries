@@ -1,7 +1,7 @@
 10
 
 dir
-15
+19
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/pix
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -412,6 +412,9 @@ has-props
 f
 dir
 
+g
+dir
+
 help.svg
 file
 
@@ -445,9 +448,6 @@ doris
 
 
 1114
-
-g
-dir
 
 i
 dir
@@ -486,39 +486,8 @@ has-props
 
 118
 
-teacher_avatar.png
-file
-
-
-
-
-2016-04-13T09:00:54.369146Z
-7b77fecd498ee6ea833b4e0f838a3b37
-2016-03-22T01:34:54.760838Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-541
+m
+dir
 
 help.gif
 file
@@ -554,7 +523,41 @@ has-props
 
 192
 
-m
+teacher_avatar.png
+file
+
+
+
+
+2016-04-13T09:00:54.369146Z
+7b77fecd498ee6ea833b4e0f838a3b37
+2016-03-22T01:34:54.760838Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+541
+
+s
 dir
 
 webding.png
@@ -590,9 +593,6 @@ has-props
 
 
 126
-
-s
-dir
 
 t
 dir

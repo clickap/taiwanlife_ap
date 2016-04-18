@@ -1,7 +1,7 @@
 10
 
 dir
-15
+19
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/blocks/configurable_reports/components/columns
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -33,6 +33,9 @@ categoryfield
 dir
 
 userfield
+dir
+
+reportcolumn
 dir
 
 form.php
@@ -68,9 +71,6 @@ doris
 
 
 2845
-
-reportcolumn
-dir
 
 component.class.php
 file

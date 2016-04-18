@@ -1,7 +1,7 @@
 10
 
 dir
-15
+19
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/admin/tool/assignmentupgrade
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -25,40 +25,6 @@ doris
 
 
 11953e39-5639-46ae-961e-90a9029f87ac
-
-upgradesingle.php
-file
-
-
-
-
-2016-04-13T09:00:52.074146Z
-ead8c502fb1f9cdf7cedd982d41d6787
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2365
 
 batchupgrade.php
 file
@@ -93,6 +59,40 @@ doris
 
 
 3120
+
+upgradesingle.php
+file
+
+
+
+
+2016-04-13T09:00:52.074146Z
+ead8c502fb1f9cdf7cedd982d41d6787
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2365
 
 upgradableassignmentstable.php
 file
@@ -199,40 +199,6 @@ doris
 
 5313
 
-upgradesingleconfirm.php
-file
-
-
-
-
-2016-04-13T09:00:52.073146Z
-ab6e8fd14c01677f7d09e8238de1caed
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2142
-
 index.php
 file
 
@@ -267,14 +233,14 @@ doris
 
 2179
 
-upgradableassignmentsbatchform.php
+upgradesingleconfirm.php
 file
 
 
 
 
-2016-04-13T09:00:52.074146Z
-d17020c8c0195ab5f6140697b77cb26d
+2016-04-13T09:00:52.073146Z
+ab6e8fd14c01677f7d09e8238de1caed
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -299,7 +265,7 @@ doris
 
 
 
-2088
+2142
 
 listnotupgraded.php
 file
@@ -334,6 +300,40 @@ doris
 
 
 2753
+
+upgradableassignmentsbatchform.php
+file
+
+
+
+
+2016-04-13T09:00:52.074146Z
+d17020c8c0195ab5f6140697b77cb26d
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2088
 
 module.js
 file
