@@ -1,7 +1,7 @@
 10
 
 dir
-19
+22
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/report
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -26,10 +26,10 @@ mary
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-outline
+questioninstances
 dir
 
-questioninstances
+outline
 dir
 
 log
@@ -53,10 +53,10 @@ dir
 scormreadhours
 dir
 
-loglive
+performance
 dir
 
-performance
+loglive
 dir
 
 progress
@@ -96,10 +96,10 @@ doris
 
 1619
 
-participation
+activityviewstats
 dir
 
-activityviewstats
+participation
 dir
 
 security

@@ -1,7 +1,7 @@
 10
 
 dir
-19
+22
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/theme/bootstrapbase/less/moodle
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -25,40 +25,6 @@ doris
 
 
 11953e39-5639-46ae-961e-90a9029f87ac
-
-filemanager.less
-file
-
-
-
-
-2016-04-13T09:01:49.573146Z
-16de1be653b97ae3f2911d24cbd3e6c7
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27712
 
 tables.less
 file
@@ -94,14 +60,14 @@ doris
 
 133
 
-bootstrapoverride.less
+filemanager.less
 file
 
 
 
 
-2016-04-13T09:01:49.574146Z
-495197dcedd911336963418d837974ff
+2016-04-13T09:01:49.573146Z
+16de1be653b97ae3f2911d24cbd3e6c7
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -126,7 +92,7 @@ doris
 
 
 
-636
+27712
 
 blocks.less
 file
@@ -161,6 +127,40 @@ doris
 
 
 2936
+
+bootstrapoverride.less
+file
+
+
+
+
+2016-04-13T09:01:49.574146Z
+495197dcedd911336963418d837974ff
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+636
 
 user.less
 file
@@ -264,14 +264,14 @@ doris
 
 4105
 
-forms.less
+backup-restore.less
 file
 
 
 
 
-2016-04-13T09:01:49.576146Z
-e27ade194cfd6066637986c99037705f
+2016-04-13T09:01:49.575146Z
+90865db47702e80d54f2a7f811982146
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -296,41 +296,7 @@ doris
 
 
 
-9587
-
-editor.less
-file
-
-
-
-
-2016-04-13T09:01:49.576146Z
-21aaf251086ef91f22b8a67b3ed637b8
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-62
+3854
 
 debug.less
 file
@@ -366,14 +332,14 @@ doris
 
 1636
 
-backup-restore.less
+editor.less
 file
 
 
 
 
-2016-04-13T09:01:49.575146Z
-90865db47702e80d54f2a7f811982146
+2016-04-13T09:01:49.576146Z
+21aaf251086ef91f22b8a67b3ed637b8
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -398,16 +364,16 @@ doris
 
 
 
-3854
+62
 
-core.less
+forms.less
 file
 
 
 
 
-2016-04-13T09:01:49.577146Z
-7d9894e1ed7db3355d9a17baa34c9f2f
+2016-04-13T09:01:49.576146Z
+e27ade194cfd6066637986c99037705f
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -432,7 +398,7 @@ doris
 
 
 
-41460
+9587
 
 admin.less
 file
@@ -467,6 +433,40 @@ doris
 
 
 15270
+
+core.less
+file
+
+
+
+
+2016-04-13T09:01:49.577146Z
+7d9894e1ed7db3355d9a17baa34c9f2f
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41460
 
 responsive.less
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-19
+22
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/backup/cc/sheets
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -25,40 +25,6 @@ doris
 
 
 11953e39-5639-46ae-961e-90a9029f87ac
-
-course_question_categories_question_category_question_true_false.xml
-file
-
-
-
-
-2016-04-13T08:58:52.211146Z
-e82e13d332e4b406595adf7c4a96f0d7
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-297
 
 course_question_categories_question_category.xml
 file
@@ -94,6 +60,40 @@ doris
 
 469
 
+course_question_categories_question_category_question_true_false.xml
+file
+
+
+
+
+2016-04-13T08:58:52.211146Z
+e82e13d332e4b406595adf7c4a96f0d7
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+297
+
 info_details_mod_instance.xml
 file
 
@@ -128,40 +128,6 @@ doris
 
 199
 
-course_modules_mod_label.xml
-file
-
-
-
-
-2016-04-13T08:58:52.212146Z
-5173fe4592c27b46006f923281d6fe19
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-219
-
 course_question_categories_question_category_question_answer.xml
 file
 
@@ -195,6 +161,40 @@ doris
 
 
 256
+
+course_modules_mod_label.xml
+file
+
+
+
+
+2016-04-13T08:58:52.212146Z
+5173fe4592c27b46006f923281d6fe19
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+219
 
 moodle_blti_export.xml
 file
@@ -264,40 +264,6 @@ doris
 
 268
 
-course_question_categories_question_category_question_multiple_choice.xml
-file
-
-
-
-
-2016-04-13T08:58:52.213146Z
-f3462755aa166065497acfadc1e8cd7e
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-585
-
 course_question_categories.xml
 file
 
@@ -331,6 +297,40 @@ doris
 
 
 113
+
+course_question_categories_question_category_question_multiple_choice.xml
+file
+
+
+
+
+2016-04-13T08:58:52.213146Z
+f3462755aa166065497acfadc1e8cd7e
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+585
 
 course_question_categories_question_category_question_eesay.xml
 file
@@ -400,48 +400,14 @@ doris
 
 415
 
-course_modules_mod_quiz.xml
-file
-
-
-
-
-2016-04-13T08:58:52.214146Z
-2dbebf61e23070b2ae4326677e09a75e
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1423
-
-course_modules_mod_lti.xml
+info_details_mod.xml
 file
 
 
 
 
 2016-04-13T08:58:52.215146Z
-20df4a17b35de8dbf04b84452fb04222
+85fe59bb585ca7b5925caecf9df04e6c
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -466,7 +432,7 @@ doris
 
 
 
-884
+224
 
 course_modules_mod_forum.xml
 file
@@ -502,14 +468,14 @@ doris
 
 720
 
-info_details_mod.xml
+course_modules_mod_lti.xml
 file
 
 
 
 
 2016-04-13T08:58:52.215146Z
-85fe59bb585ca7b5925caecf9df04e6c
+20df4a17b35de8dbf04b84452fb04222
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -534,7 +500,41 @@ doris
 
 
 
-224
+884
+
+course_modules_mod_quiz.xml
+file
+
+
+
+
+2016-04-13T08:58:52.214146Z
+2dbebf61e23070b2ae4326677e09a75e
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1423
 
 course_modules_mod_basiclti.xml
 file

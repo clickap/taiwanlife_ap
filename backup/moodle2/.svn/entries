@@ -1,7 +1,7 @@
 10
 
 dir
-19
+22
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/backup/moodle2
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -604,40 +604,6 @@ doris
 
 12993
 
-restore_qtype_plugin.class.php
-file
-
-
-
-
-2016-04-13T08:58:52.288146Z
-f96fde18acc4c188b0cc3fe191727d06
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16154
-
 restore_theme_plugin.class.php
 file
 
@@ -671,6 +637,40 @@ doris
 
 
 1064
+
+restore_qtype_plugin.class.php
+file
+
+
+
+
+2016-04-13T08:58:52.288146Z
+f96fde18acc4c188b0cc3fe191727d06
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16154
 
 restore_stepslib.php
 file
@@ -944,40 +944,6 @@ doris
 
 8067
 
-backup_block_task.class.php
-file
-
-
-
-
-2016-04-13T08:58:52.284146Z
-21bae579fec1c3c8d915f9024549fdd9
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8074
-
 restore_plugin.class.php
 file
 
@@ -1011,6 +977,40 @@ doris
 
 
 10290
+
+backup_block_task.class.php
+file
+
+
+
+
+2016-04-13T08:58:52.284146Z
+21bae579fec1c3c8d915f9024549fdd9
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8074
 
 backup_gradingform_plugin.class.php
 file

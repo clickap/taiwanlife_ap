@@ -1,7 +1,7 @@
 10
 
 dir
-19
+22
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/admin/tool
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -35,10 +35,10 @@ dir
 capability
 dir
 
-behat
+uploaduser
 dir
 
-uploaduser
+behat
 dir
 
 timezoneimport
@@ -53,13 +53,16 @@ dir
 profiling
 dir
 
-dbtransfer
-dir
-
 spamcleaner
 dir
 
+dbtransfer
+dir
+
 multilangupgrade
+dir
+
+health
 dir
 
 upgrade.txt
@@ -95,9 +98,6 @@ doris
 
 
 872
-
-health
-dir
 
 xmldb
 dir
