@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/6/trunk/report/activityviewstats
+V 61
+/svn/TaiwanLIFEap2/!svn/ver/35/trunk/report/activityviewstats
 END
 settings.php
 K 25
@@ -54,8 +54,8 @@ END
 renderer.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/TaiwanLIFEap2/!svn/ver/6/trunk/report/activityviewstats/renderer.php
+V 74
+/svn/TaiwanLIFEap2/!svn/ver/35/trunk/report/activityviewstats/renderer.php
 END
 index.php
 K 25

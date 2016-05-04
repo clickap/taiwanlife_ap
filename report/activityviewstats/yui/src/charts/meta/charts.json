@@ -1,0 +1,10 @@
+{
+    "moodle-report_activityviewstats-charts": {
+        "requires": [
+            "base",
+            "node",
+            "charts",
+            "charts-legend"
+        ]
+    }
+}

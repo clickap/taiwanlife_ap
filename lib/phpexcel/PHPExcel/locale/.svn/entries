@@ -1,7 +1,7 @@
 10
 
 dir
-22
+38
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/lib/phpexcel/PHPExcel/locale
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -38,10 +38,10 @@ dir
 ru
 dir
 
-sv
+de
 dir
 
-de
+sv
 dir
 
 fi
@@ -53,10 +53,10 @@ dir
 cs
 dir
 
-fr
+es
 dir
 
-es
+fr
 dir
 
 nl
@@ -65,10 +65,10 @@ dir
 pl
 dir
 
-no
+it
 dir
 
-it
+no
 dir
 
 hu

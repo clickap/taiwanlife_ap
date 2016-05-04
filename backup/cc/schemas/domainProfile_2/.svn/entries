@@ -1,7 +1,7 @@
 10
 
 dir
-22
+38
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/backup/cc/schemas/domainProfile_2
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -60,40 +60,6 @@ doris
 
 8371
 
-lomLoose.xsd
-file
-
-
-
-
-2016-04-13T08:58:52.089146Z
-7645feb82306fcc636c6470172e24742
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4492
-
 vocabValues_localised.xsd
 file
 
@@ -127,6 +93,40 @@ doris
 
 
 10673
+
+lomLoose.xsd
+file
+
+
+
+
+2016-04-13T08:58:52.089146Z
+7645feb82306fcc636c6470172e24742
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4492
 
 extend
 dir
@@ -168,6 +168,9 @@ doris
 
 23890
 
+vocab
+dir
+
 elementTypes_localised.xsd
 file
 
@@ -201,9 +204,6 @@ doris
 
 
 27636
-
-vocab
-dir
 
 vocabTypes_localised.xsd
 file

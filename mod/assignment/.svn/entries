@@ -1,7 +1,7 @@
 10
 
 dir
-22
+38
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/mod/assignment
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -26,10 +26,10 @@ doris
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-type
+lang
 dir
 
-lang
+type
 dir
 
 assignment.js
@@ -103,40 +103,6 @@ doris
 
 1186
 
-delete.php
-file
-
-
-
-
-2016-04-13T09:00:04.547146Z
-ead70a85817b4aae0cfd9ecc39d86510
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1519
-
 mod_form.php
 file
 
@@ -171,14 +137,14 @@ doris
 
 6328
 
-lib.php
+delete.php
 file
 
 
 
 
-2016-04-13T09:00:04.548146Z
-ab9f308787512cb76c4c69752ddaf3ef
+2016-04-13T09:00:04.547146Z
+ead70a85817b4aae0cfd9ecc39d86510
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -203,7 +169,7 @@ doris
 
 
 
-167545
+1519
 
 renderer.php
 file
@@ -239,6 +205,40 @@ doris
 
 5756
 
+lib.php
+file
+
+
+
+
+2016-04-13T09:00:04.548146Z
+ab9f308787512cb76c4c69752ddaf3ef
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+167545
+
 index.php
 file
 
@@ -273,9 +273,6 @@ doris
 
 3999
 
-pix
-dir
-
 view.php
 file
 
@@ -309,6 +306,9 @@ doris
 
 
 1970
+
+pix
+dir
 
 tests
 dir

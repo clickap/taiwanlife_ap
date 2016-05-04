@@ -1,7 +1,7 @@
 10
 
 dir
-22
+38
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/course/tests/behat
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -298,14 +298,14 @@ doris
 
 3737
 
-rename_roles.feature
+section_visibility.feature
 file
 
 
 
 
-2016-04-13T08:58:51.667146Z
-c32edca6406e37d7785f75c41aa63a86
+2016-04-13T08:58:51.666146Z
+7d1c6e444988854fd5ed884d8ceb250f
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -330,7 +330,7 @@ doris
 
 
 
-1838
+2926
 
 activities_group_icons.feature
 file
@@ -366,14 +366,14 @@ doris
 
 2313
 
-section_visibility.feature
+rename_roles.feature
 file
 
 
 
 
-2016-04-13T08:58:51.666146Z
-7d1c6e444988854fd5ed884d8ceb250f
+2016-04-13T08:58:51.667146Z
+c32edca6406e37d7785f75c41aa63a86
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -398,7 +398,7 @@ doris
 
 
 
-2926
+1838
 
 add_activities.feature
 file

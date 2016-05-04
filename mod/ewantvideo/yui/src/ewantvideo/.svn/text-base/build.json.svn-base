@@ -1,0 +1,11 @@
+{
+  "name": "moodle-mod_ewantvideo-videofile",
+  "builds": {
+    "moodle-mod_ewantvideo-videofile": {
+      "jsfiles": [
+        "videojs.disableProgress.js",
+        "ewantvideo.js"
+      ]
+    }
+  }
+}

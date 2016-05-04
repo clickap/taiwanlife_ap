@@ -1,0 +1,13 @@
+{
+  "name": "moodle-mod_videofile-videofile",
+  "builds": {
+    "moodle-mod_videofile-videofile": {
+      "prependfiles": [
+        "youtube.js"
+      ],
+      "jsfiles": [
+        "videofile.js"
+      ]
+    }
+  }
+}

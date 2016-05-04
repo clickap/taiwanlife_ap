@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="mod/videofile/db" VERSION="20130717" COMMENT="XMLDB file for Moodle mod/videofile"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="ewantvideo" COMMENT="Default comment for videofile, please edit me">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true" NEXT="course"/>
+        <FIELD NAME="course" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="Course videofile activity belongs to" PREVIOUS="id" NEXT="name"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="name field for moodle instances" PREVIOUS="course" NEXT="intro"/>
+        <FIELD NAME="intro" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="General introduction of the videofile activity" PREVIOUS="name" NEXT="introformat"/>
+        <FIELD NAME="introformat" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Format of the intro field (MOODLE, HTML, MARKDOWN...)" PREVIOUS="intro" NEXT="width"/>
+        <FIELD NAME="width" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="800" SEQUENCE="false" COMMENT="Width of the video in pixels" PREVIOUS="introformat" NEXT="height"/>
+        <FIELD NAME="height" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="500" SEQUENCE="false" COMMENT="Height of the video in pixels" PREVIOUS="width" NEXT="responsive"/>
+        <FIELD NAME="responsive" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Nonzero if video should adapt to window size with width and height used as a proportions" PREVIOUS="height" NEXT="trackview"/>
+        <FIELD NAME="trackview" TYPE="int" LENGTH="4" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Nonzero if video should adapt to window size with width and height used as a proportions" PREVIOUS="responsive" NEXT="duration"/>
+        <FIELD NAME="duration" TYPE="number" LENGTH="10" DECIMALS="3" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Nonzero it user watch video time " PREVIOUS="trackview" NEXT="youtubeurl"/>
+        <FIELD NAME="videotype" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="video type(url or not)" PREVIOUS="duration" NEXT="twtype"/>
+        <FIELD NAME="twtype" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="videotype" NEXT="cntype"/>
+        <FIELD NAME="cntype" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="taiwanurl" NEXT="twurl"/>
+        <FIELD NAME="twurl" TYPE="text" NOTNULL="false" SEQUENCE="false" PREVIOUS="cntype" NEXT="cnurl"/>
+        <FIELD NAME="cnurl" TYPE="text" NOTNULL="false" SEQUENCE="false" PREVIOUS="twurl" NEXT="timecreated"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="responsive" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="timecreated"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="course" UNIQUE="false" FIELDS="course"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="ewantvideo_log" COMMENT="videofile user view log">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true" NEXT="course"/>
+        <FIELD NAME="video" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="userid"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="video" NEXT="viewtime"/>
+        <FIELD NAME="viewtime" TYPE="number" LENGTH="10" DECIMALS="3" NOTNULL="true" DEFAULT="0" SEQUENCE="false" COMMENT="Nonzero it user watch video time " PREVIOUS="userid" NEXT="timecreated"/>
+        <!--FIELD NAME="timer" TYPE="int" LENGTH="10" NOTNULL="false" DEFAULT="0" SEQUENCE="false" /-->
+        <FIELD NAME="sesskey" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" />
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="viewtime" NEXT="timemodified"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="ewantvideo" UNIQUE="false" FIELDS="video"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

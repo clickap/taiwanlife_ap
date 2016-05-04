@@ -1,0 +1,10 @@
+{
+  "name": "moodle-mod_videofile-videofile",
+  "builds": {
+    "moodle-mod_videofile-videofile": {
+      "jsfiles": [
+        "videofile.js"
+      ]
+    }
+  }
+}

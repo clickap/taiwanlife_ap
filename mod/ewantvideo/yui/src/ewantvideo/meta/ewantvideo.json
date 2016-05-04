@@ -1,0 +1,9 @@
+{
+  "moodle-mod_ewantvideo-videofil": {
+    "requires": [
+        "base",
+        "node",
+        "event"
+    ]
+  }
+}
