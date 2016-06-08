@@ -1,7 +1,7 @@
 10
 
 dir
-38
+42
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/auth
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -44,10 +44,10 @@ dir
 imap
 dir
 
-email
+radius
 dir
 
-radius
+email
 dir
 
 fc
@@ -56,10 +56,10 @@ dir
 webservice
 dir
 
-none
+ewant1
 dir
 
-ewant1
+none
 dir
 
 tests

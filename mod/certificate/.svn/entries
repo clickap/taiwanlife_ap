@@ -1,7 +1,7 @@
 10
 
 dir
-38
+42
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/mod/certificate
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -60,10 +60,10 @@ has-props
 
 1880
 
-lang
+type
 dir
 
-type
+lang
 dir
 
 db
@@ -273,9 +273,6 @@ has-props
 
 2459
 
-pix
-dir
-
 view.php
 file
 
@@ -309,6 +306,9 @@ doris
 
 
 6550
+
+pix
+dir
 
 report.php
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-38
+42
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/mod/scorm/pix
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -94,40 +94,6 @@ has-props
 
 46
 
-asset.gif
-file
-
-
-
-
-2016-04-13T09:00:27.985146Z
-50dd23d8359d6ab28dfb92b341177e7c
-2016-03-22T01:34:54.760838Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-178
-
 passed.gif
 file
 
@@ -161,6 +127,40 @@ has-props
 
 
 190
+
+asset.gif
+file
+
+
+
+
+2016-04-13T09:00:27.985146Z
+50dd23d8359d6ab28dfb92b341177e7c
+2016-03-22T01:34:54.760838Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+178
 
 suspend.gif
 file
@@ -196,40 +196,6 @@ has-props
 
 362
 
-assetc.gif
-file
-
-
-
-
-2016-04-13T09:00:27.986146Z
-d7013c18bb59c0363b20c748e32a8cfc
-2016-03-22T01:34:54.760838Z
-2
-doris
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-243
-
 icon.svg
 file
 
@@ -263,6 +229,40 @@ doris
 
 
 4993
+
+assetc.gif
+file
+
+
+
+
+2016-04-13T09:00:27.986146Z
+d7013c18bb59c0363b20c748e32a8cfc
+2016-03-22T01:34:54.760838Z
+2
+doris
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+243
 
 plus.gif
 file

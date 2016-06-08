@@ -1,7 +1,7 @@
 10
 
 dir
-38
+42
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/admin/tool/mooccourse
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -403,6 +403,40 @@ doris
 
 4553
 
+renderer.php
+file
+
+
+
+
+2016-04-13T09:00:52.019146Z
+324aa073f38f58569f408d40c202621f
+2016-03-23T03:19:38.586908Z
+3
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40061
+
 enrollib.php
 file
 
@@ -505,40 +539,6 @@ doris
 
 3878
 
-renderer.php
-file
-
-
-
-
-2016-04-13T09:00:52.019146Z
-324aa073f38f58569f408d40c202621f
-2016-03-23T03:19:38.586908Z
-3
-mary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-40061
-
 course_manage.php
 file
 
@@ -573,40 +573,6 @@ doris
 
 11637
 
-editsection.php
-file
-
-
-
-
-2016-04-13T09:00:52.027146Z
-bb64f71de632171b2f9477f51f78a60f
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3456
-
 view.php
 file
 
@@ -640,6 +606,40 @@ mary
 
 
 7938
+
+editsection.php
+file
+
+
+
+
+2016-04-13T09:00:52.027146Z
+bb64f71de632171b2f9477f51f78a60f
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3456
 
 coursecatlib.php
 file
@@ -709,40 +709,6 @@ doris
 
 2562
 
-version.php
-file
-
-
-
-
-2016-04-13T09:00:52.028146Z
-84f00b2f7ddb360eee3f7eb06c0f829e
-2016-03-23T03:19:38.586908Z
-3
-mary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1584
-
 edit.php
 file
 
@@ -776,6 +742,40 @@ doris
 
 
 6156
+
+version.php
+file
+
+
+
+
+2016-04-13T09:00:52.028146Z
+84f00b2f7ddb360eee3f7eb06c0f829e
+2016-03-23T03:19:38.586908Z
+3
+mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1584
 
 resources_assignquiz.php
 file
@@ -882,40 +882,6 @@ doris
 
 5389
 
-infoedit.php
-file
-
-
-
-
-2016-04-13T09:00:52.024146Z
-d5eac7b6578cca70e8c62dbec5de03c5
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4706
-
 editinfo.php
 file
 
@@ -949,6 +915,40 @@ doris
 
 
 5427
+
+infoedit.php
+file
+
+
+
+
+2016-04-13T09:00:52.024146Z
+d5eac7b6578cca70e8c62dbec5de03c5
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706
 
 editallsection.php
 file

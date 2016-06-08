@@ -1,7 +1,7 @@
 10
 
 dir
-38
+42
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/admin/tool/xmldb/actions
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -105,49 +105,49 @@ dir
 new_table
 dir
 
-new_key
+unload_xml_file
 dir
 
-unload_xml_file
+new_key
 dir
 
 edit_xml_file
 dir
 
-move_updown_field
+delete_field
 dir
 
-delete_field
+move_updown_field
 dir
 
 edit_field_save
 dir
 
-check_oracle_semantics
-dir
-
 new_table_from_mysql
 dir
 
-move_updown_table
-dir
-
-delete_table
+check_oracle_semantics
 dir
 
 view_structure_sql
 dir
 
-move_updown_key
+delete_table
 dir
 
-edit_table_save
+move_updown_table
+dir
+
+view_structure_xml
 dir
 
 delete_key
 dir
 
-view_structure_xml
+edit_table_save
+dir
+
+move_updown_key
 dir
 
 generate_all_documentation

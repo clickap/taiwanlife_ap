@@ -1,7 +1,7 @@
 10
 
 dir
-38
+42
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/lib/htmlpurifier/HTMLPurifier/ConfigSchema/schema
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -94,40 +94,6 @@ doris
 
 662
 
-URI.HostBlacklist.txt
-file
-
-
-
-
-2016-04-13T08:59:29.682146Z
-1c3c1d44844d5a053480f31b93102434
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-310
-
 URI.MungeResources.txt
 file
 
@@ -161,6 +127,40 @@ doris
 
 
 611
+
+URI.HostBlacklist.txt
+file
+
+
+
+
+2016-04-13T08:59:29.682146Z
+1c3c1d44844d5a053480f31b93102434
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+310
 
 Output.FixInnerHTML.txt
 file
@@ -196,40 +196,6 @@ doris
 
 543
 
-URI.DefaultScheme.txt
-file
-
-
-
-
-2016-04-13T08:59:29.684146Z
-3e8b627ac6dd450053e991531169b401
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-245
-
 Filter.ExtractStyleBlocks.TidyImpl.txt
 file
 
@@ -263,6 +229,40 @@ doris
 
 
 576
+
+URI.DefaultScheme.txt
+file
+
+
+
+
+2016-04-13T08:59:29.684146Z
+3e8b627ac6dd450053e991531169b401
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+245
 
 Test.ForceNoIconv.txt
 file
@@ -298,40 +298,6 @@ doris
 
 197
 
-Core.EnableIDNA.txt
-file
-
-
-
-
-2016-04-13T08:59:29.684146Z
-ae58e31190d9e05e3fb9d2f4b60501a3
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-303
-
 Core.CollectErrors.txt
 file
 
@@ -365,6 +331,40 @@ doris
 
 
 433
+
+Core.EnableIDNA.txt
+file
+
+
+
+
+2016-04-13T08:59:29.684146Z
+ae58e31190d9e05e3fb9d2f4b60501a3
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+303
 
 HTML.Doctype.txt
 file
@@ -400,14 +400,14 @@ doris
 
 473
 
-AutoFormat.RemoveEmpty.RemoveNbsp.txt
+HTML.AllowedCommentsRegexp.txt
 file
 
 
 
 
-2016-04-13T08:59:29.663146Z
-a8a28c98305dd6a9abb5464acd5c7367
+2016-04-13T08:59:29.672146Z
+8de0dbae06c51bf354472389adbdcd90
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -432,41 +432,7 @@ doris
 
 
 
-449
-
-Core.EscapeNonASCIICharacters.txt
-file
-
-
-
-
-2016-04-13T08:59:29.663146Z
-c79d40b21101ebe0f842c84b7f308e97
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-567
+711
 
 CSS.MaxImgLength.txt
 file
@@ -502,14 +468,14 @@ doris
 
 623
 
-HTML.AllowedCommentsRegexp.txt
+Core.EscapeNonASCIICharacters.txt
 file
 
 
 
 
-2016-04-13T08:59:29.672146Z
-8de0dbae06c51bf354472389adbdcd90
+2016-04-13T08:59:29.663146Z
+c79d40b21101ebe0f842c84b7f308e97
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -534,7 +500,41 @@ doris
 
 
 
-711
+567
+
+AutoFormat.RemoveEmpty.RemoveNbsp.txt
+file
+
+
+
+
+2016-04-13T08:59:29.663146Z
+a8a28c98305dd6a9abb5464acd5c7367
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+449
 
 Cache.DefinitionImpl.txt
 file
@@ -1080,14 +1080,14 @@ doris
 
 196
 
-URI.OverrideAllowedSchemes.txt
+Core.ColorKeywords.txt
 file
 
 
 
 
-2016-04-13T08:59:29.676146Z
-5f3ddeed8119e52e8a83d9a2a292302b
+2016-04-13T08:59:29.675146Z
+6ef07d3ae6c3a546ed42e7a379f6270d
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -1112,7 +1112,7 @@ doris
 
 
 
-326
+700
 
 URI.AllowedSchemes.txt
 file
@@ -1148,48 +1148,14 @@ doris
 
 468
 
-Core.ColorKeywords.txt
-file
-
-
-
-
-2016-04-13T08:59:29.675146Z
-6ef07d3ae6c3a546ed42e7a379f6270d
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-700
-
-Attr.IDPrefixLocal.txt
+URI.OverrideAllowedSchemes.txt
 file
 
 
 
 
 2016-04-13T08:59:29.676146Z
-1b26b5763bb96c96c98abc3236ee6b19
+5f3ddeed8119e52e8a83d9a2a292302b
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -1214,7 +1180,41 @@ doris
 
 
 
-660
+326
+
+HTML.BlockWrapper.txt
+file
+
+
+
+
+2016-04-13T08:59:29.666146Z
+f7d9ac0023cccb32f6792cbfc82be402
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+571
 
 Core.AllowHostnameUnderscore.txt
 file
@@ -1250,14 +1250,14 @@ doris
 
 575
 
-HTML.BlockWrapper.txt
+Attr.IDPrefixLocal.txt
 file
 
 
 
 
-2016-04-13T08:59:29.666146Z
-f7d9ac0023cccb32f6792cbfc82be402
+2016-04-13T08:59:29.676146Z
+1b26b5763bb96c96c98abc3236ee6b19
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -1282,7 +1282,7 @@ doris
 
 
 
-571
+660
 
 Output.FlashCompat.txt
 file
@@ -1386,40 +1386,6 @@ doris
 
 236
 
-Filter.ExtractStyleBlocks.Escaping.txt
-file
-
-
-
-
-2016-04-13T08:59:29.678146Z
-6e099862fb32d89340d934cdc392ba82
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-485
-
 HTML.SafeIframe.txt
 file
 
@@ -1453,6 +1419,40 @@ doris
 
 
 398
+
+Filter.ExtractStyleBlocks.Escaping.txt
+file
+
+
+
+
+2016-04-13T08:59:29.678146Z
+6e099862fb32d89340d934cdc392ba82
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+485
 
 Core.RemoveProcessingInstructions.txt
 file
@@ -1488,40 +1488,6 @@ doris
 
 398
 
-Core.EscapeInvalidChildren.txt
-file
-
-
-
-
-2016-04-13T08:59:29.678146Z
-3335a2def92d70d9874c2add986bc365
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-503
-
 Cache.SerializerPermissions.txt
 file
 
@@ -1556,14 +1522,14 @@ doris
 
 254
 
-Attr.DefaultInvalidImageAlt.txt
+Core.EscapeInvalidChildren.txt
 file
 
 
 
 
-2016-04-13T08:59:29.668146Z
-a5d0f2c37dc21f4ca4c0aea1143bc906
+2016-04-13T08:59:29.678146Z
+3335a2def92d70d9874c2add986bc365
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -1588,7 +1554,7 @@ doris
 
 
 
-301
+503
 
 HTML.SafeObject.txt
 file
@@ -1623,6 +1589,40 @@ doris
 
 
 441
+
+Attr.DefaultInvalidImageAlt.txt
+file
+
+
+
+
+2016-04-13T08:59:29.668146Z
+a5d0f2c37dc21f4ca4c0aea1143bc906
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+301
 
 Attr.IDBlacklistRegexp.txt
 file
@@ -1692,40 +1692,6 @@ doris
 
 390
 
-URI.Host.txt
-file
-
-
-
-
-2016-04-13T08:59:29.679146Z
-e9867d9bf1a9e50f832f0d95ed04106c
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-818
-
 URI.SafeIframeRegexp.txt
 file
 
@@ -1759,6 +1725,40 @@ doris
 
 
 897
+
+URI.Host.txt
+file
+
+
+
+
+2016-04-13T08:59:29.679146Z
+e9867d9bf1a9e50f832f0d95ed04106c
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+818
 
 Core.Encoding.txt
 file
@@ -1794,40 +1794,6 @@ doris
 
 767
 
-HTML.SafeEmbed.txt
-file
-
-
-
-
-2016-04-13T08:59:29.680146Z
-21d35d02463b602185695b77851618b4
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-483
-
 Attr.AllowedClasses.txt
 file
 
@@ -1861,6 +1827,40 @@ doris
 
 
 222
+
+HTML.SafeEmbed.txt
+file
+
+
+
+
+2016-04-13T08:59:29.680146Z
+21d35d02463b602185695b77851618b4
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+483
 
 CSS.Trusted.txt
 file
@@ -1896,40 +1896,6 @@ doris
 
 251
 
-HTML.AllowedModules.txt
-file
-
-
-
-
-2016-04-13T08:59:29.669146Z
-8bfa42cf1474478dc3069884a58e9441
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-726
-
 Attr.IDPrefix.txt
 file
 
@@ -1963,6 +1929,40 @@ doris
 
 
 475
+
+HTML.AllowedModules.txt
+file
+
+
+
+
+2016-04-13T08:59:29.669146Z
+8bfa42cf1474478dc3069884a58e9441
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+726
 
 HTML.AllowedElements.txt
 file
@@ -2032,40 +2032,6 @@ doris
 
 334
 
-AutoFormat.PurifierLinkify.txt
-file
-
-
-
-
-2016-04-13T08:59:29.681146Z
-28380c89a107c47d614155a10a2cbfdf
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-308
-
 AutoFormat.RemoveEmpty.RemoveNbsp.Exceptions.txt
 file
 
@@ -2100,14 +2066,14 @@ doris
 
 364
 
-AutoFormat.RemoveEmpty.txt
+AutoFormat.PurifierLinkify.txt
 file
 
 
 
 
 2016-04-13T08:59:29.681146Z
-3d2523b07cbea92b6928a2c32a3bbbc0
+28380c89a107c47d614155a10a2cbfdf
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -2132,7 +2098,7 @@ doris
 
 
 
-1774
+308
 
 Core.NormalizeNewlines.txt
 file
@@ -2167,6 +2133,40 @@ doris
 
 
 279
+
+AutoFormat.RemoveEmpty.txt
+file
+
+
+
+
+2016-04-13T08:59:29.681146Z
+3d2523b07cbea92b6928a2c32a3bbbc0
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1774
 
 HTML.AllowedComments.txt
 file
