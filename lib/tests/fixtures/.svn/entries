@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/lib/tests/fixtures
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -100,40 +100,6 @@ doris
 
 195
 
-tabfile.csv
-file
-
-
-
-
-2016-04-13T08:59:12.096146Z
-37de20cb20835c8225e6eb354ee35487
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-344
-
 upload_users_cohorts.csv
 file
 
@@ -167,6 +133,40 @@ doris
 
 
 276
+
+tabfile.csv
+file
+
+
+
+
+2016-04-13T08:59:12.096146Z
+37de20cb20835c8225e6eb354ee35487
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+344
 
 statslib-test00.xml
 file
@@ -202,40 +202,6 @@ doris
 
 1042
 
-statslib-test10.xml
-file
-
-
-
-
-2016-04-13T08:59:12.097146Z
-970d756ebcf074a76e5d13933ac24f39
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3067
-
 statslib-test01.xml
 file
 
@@ -269,6 +235,40 @@ doris
 
 
 3369
+
+statslib-test10.xml
+file
+
+
+
+
+2016-04-13T08:59:12.097146Z
+970d756ebcf074a76e5d13933ac24f39
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3067
 
 statslib-test02.xml
 file

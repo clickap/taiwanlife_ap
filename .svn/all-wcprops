@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 36
-/svn/TaiwanLIFEap2/!svn/ver/41/trunk
+/svn/TaiwanLIFEap2/!svn/ver/49/trunk
 END
 CACC1D00742895C10F3BD7848EF448BE.txt
 K 25
@@ -87,23 +87,17 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/githash.php
 END
-category_course_list.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/category_course_list.php
-END
 help.php
 K 25
 svn:wc:ra_dav:version-url
 V 44
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/help.php
 END
-pluginfile.php
+category_course_list.php
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pluginfile.php
+V 60
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/category_course_list.php
 END
 index_x.php
 K 25
@@ -111,17 +105,17 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/index_x.php
 END
+pluginfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/pluginfile.php
+END
 behat.yml.dist
 K 25
 svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/behat.yml.dist
-END
-draftfile.php
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/draftfile.php
 END
 COPYING.txt
 K 25
@@ -129,23 +123,29 @@ svn:wc:ra_dav:version-url
 V 47
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/COPYING.txt
 END
+draftfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/draftfile.php
+END
 .shifter.json
 K 25
 svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/.shifter.json
 END
-config-dist.php
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/config-dist.php
-END
 install.php
 K 25
 svn:wc:ra_dav:version-url
 V 47
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/install.php
+END
+config-dist.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/config-dist.php
 END
 index.php
 K 25
@@ -159,17 +159,17 @@ svn:wc:ra_dav:version-url
 V 50
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/reportnews.php
 END
-mdeploytest.php
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mdeploytest.php
-END
 composer.json
 K 25
 svn:wc:ra_dav:version-url
 V 49
 /svn/TaiwanLIFEap2/!svn/ver/2/trunk/composer.json
+END
+mdeploytest.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TaiwanLIFEap2/!svn/ver/2/trunk/mdeploytest.php
 END
 aboutus.php
 K 25

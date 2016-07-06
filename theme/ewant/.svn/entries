@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/theme/ewant
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -25,6 +25,9 @@ doris
 
 
 11953e39-5639-46ae-961e-90a9029f87ac
+
+jquery
+dir
 
 renderers.php
 file
@@ -59,9 +62,6 @@ doris
 
 
 1409
-
-jquery
-dir
 
 lang
 dir
@@ -100,10 +100,10 @@ has-props
 
 14228
 
-renderers
+fonts
 dir
 
-fonts
+renderers
 dir
 
 config.php
@@ -174,10 +174,10 @@ has-props
 
 9084
 
-style
+pix
 dir
 
-pix
+style
 dir
 
 javascript
@@ -185,40 +185,6 @@ dir
 
 pix_core
 dir
-
-version.php
-file
-
-
-
-
-2016-04-13T09:00:55.583146Z
-6d9b06e973d2e678cfaa8c894b531ee2
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1413
 
 README.txt
 file
@@ -253,6 +219,40 @@ doris
 
 
 5765
+
+version.php
+file
+
+
+
+
+2016-04-13T09:00:55.583146Z
+6d9b06e973d2e678cfaa8c894b531ee2
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1413
 
 layout
 dir

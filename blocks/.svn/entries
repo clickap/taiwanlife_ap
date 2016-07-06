@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/blocks
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -99,10 +99,10 @@ dir
 modsurvey
 dir
 
-social_activities
+tags
 dir
 
-tags
+social_activities
 dir
 
 settings
@@ -114,10 +114,10 @@ dir
 glossary_random
 dir
 
-section_links
+html
 dir
 
-html
+section_links
 dir
 
 rss_client
@@ -135,19 +135,19 @@ dir
 calendar_upcoming
 dir
 
-completionstatus
+news_items
 dir
 
-news_items
+completionstatus
 dir
 
 selfcompletion
 dir
 
-community
+feedback
 dir
 
-feedback
+community
 dir
 
 activity_modules

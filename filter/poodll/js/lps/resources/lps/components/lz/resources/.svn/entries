@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/filter/poodll/js/lps/resources/lps/components/lz/resources
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -41,10 +41,10 @@ dir
 radio
 dir
 
-tree
+floatinglist
 dir
 
-floatinglist
+tree
 dir
 
 menu
@@ -62,10 +62,10 @@ dir
 tabslider
 dir
 
-datepicker
+button
 dir
 
-button
+datepicker
 dir
 
 autoPng

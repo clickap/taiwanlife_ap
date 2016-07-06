@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/question/type
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -26,10 +26,10 @@ doris
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-numerical
+shortanswer
 dir
 
-shortanswer
+numerical
 dir
 
 random
@@ -146,9 +146,6 @@ doris
 
 35577
 
-truefalse
-dir
-
 questiontypebase.php
 file
 
@@ -182,6 +179,9 @@ doris
 
 
 53237
+
+truefalse
+dir
 
 match
 dir

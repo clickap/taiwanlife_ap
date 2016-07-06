@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/theme/mymobile/pix_plugins/mod
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -26,10 +26,10 @@ doris
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-label
+chat
 dir
 
-chat
+label
 dir
 
 mail
@@ -44,16 +44,16 @@ dir
 resource
 dir
 
-forum
-dir
-
 quiz
 dir
 
-book
+forum
 dir
 
 choice
+dir
+
+book
 dir
 
 lams
@@ -62,13 +62,13 @@ dir
 survey
 dir
 
-wiki
+lesson
 dir
 
 glossary
 dir
 
-lesson
+wiki
 dir
 
 assignment

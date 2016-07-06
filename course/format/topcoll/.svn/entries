@@ -1,7 +1,7 @@
 10
 
 dir
-42
+50
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/course/format/topcoll
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -66,40 +66,6 @@ dir
 db
 dir
 
-COPYING.txt
-file
-
-
-
-
-2016-04-13T08:58:47.889146Z
-3c34afdc3adf82d2448f12715a255122
-2016-03-22T01:34:54.760838Z
-2
-doris
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-35821
-
 settings.php
 file
 
@@ -133,6 +99,40 @@ doris
 
 
 4868
+
+COPYING.txt
+file
+
+
+
+
+2016-04-13T08:58:47.889146Z
+3c34afdc3adf82d2448f12715a255122
+2016-03-22T01:34:54.760838Z
+2
+doris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35821
 
 config.php
 file
@@ -168,14 +168,14 @@ doris
 
 1442
 
-renderer.php
+Readme.md
 file
 
 
 
 
 2016-04-13T08:58:47.886146Z
-038ac75b2112765525b25b6a1cc63fa3
+aa7295d47f047ed2a26bfe05e360d30c
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -200,7 +200,7 @@ doris
 
 
 
-16812
+73320
 
 lib.php
 file
@@ -236,14 +236,14 @@ doris
 
 18074
 
-Readme.md
+renderer.php
 file
 
 
 
 
 2016-04-13T08:58:47.886146Z
-aa7295d47f047ed2a26bfe05e360d30c
+038ac75b2112765525b25b6a1cc63fa3
 2016-03-22T01:34:54.760838Z
 2
 doris
@@ -268,7 +268,7 @@ doris
 
 
 
-73320
+16812
 
 togglelib.php
 file
@@ -304,6 +304,9 @@ doris
 
 4610
 
+pix
+dir
+
 module.js
 file
 
@@ -337,9 +340,6 @@ doris
 
 
 11706
-
-pix
-dir
 
 format.js
 file
