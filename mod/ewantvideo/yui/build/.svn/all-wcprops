@@ -1,5 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/yui/build
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/yui/build
+END
+videos-youtube.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/yui/build/videos-youtube.min.js
+END
+videos-bundle.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/yui/build/videos-bundle.min.js
 END

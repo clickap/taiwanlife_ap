@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/db
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/db
 END
 uninstall.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/db/uninstall.php
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/db/uninstall.php
 END
 install.xml
 K 25
@@ -19,23 +19,23 @@ access.php
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/db/access.php
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/db/access.php
 END
 log.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/db/log.php
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/db/log.php
 END
 install.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/db/install.php
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/db/install.php
 END
 upgrade.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svn/TaiwanLIFEap2/!svn/ver/35/trunk/mod/ewantvideo/db/upgrade.php
+/svn/TaiwanLIFEap2/!svn/ver/53/trunk/mod/ewantvideo/db/upgrade.php
 END

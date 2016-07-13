@@ -76,8 +76,9 @@ M.mod_ewantvideo = M.mod_ewantvideo || {};
 M.mod_ewantvideo.videofile = {
 
   initm3u8: function (videoId, prefWidth, prefHeight, $mediaurl) {
-
-    videojs('videofile-' + videoId, {width: prefWidth, height: prefHeight, techOrder: ['hlsJs', 'hls', 'flash', 'html5']}, function() {
+      
+      var myPlayer = videojs('ewantvideo-' + videoId);
+    /*videojs('videofile-' + videoId, {width: prefWidth, height: prefHeight, techOrder: ['hlsJs', 'hls', 'flash', 'html5']}, function() {
         
         player = this;
         // initilizing volume persistance
@@ -93,10 +94,22 @@ M.mod_ewantvideo.videofile = {
         //    //player.ima.requestAds(); // Play ads when loaded
         //    player.play();
         //})
-    });
+    });/**/
+      myPlayer.ready(function(){
+          player = this;
+          
+          // initilizing volume persistance
+          player.persistvolume({namespace: 'videojs-volume'});
+          player.controls(true);
+          player.src({
+              type: 'application/x-mpegURL',
+              src: $mediaurl
+          });
+          //src: 'http://playertest.longtailvideo.com/adaptive/bbbfull/bbbfull.m3u8'
+      });
   },
   initResize: function (videoId, prefWidth, prefHeight, limitDimensions) {
-    var myPlayer = videojs('videofile-' + videoId);
+    var myPlayer = videojs('ewantvideo-' + videoId);
     var playerElement = document.getElementById(myPlayer.id());
     var playerParent = playerElement.parentElement;
     var aspectRatio = prefHeight / prefWidth;
@@ -121,7 +134,7 @@ M.mod_ewantvideo.videofile = {
   },
   enableTrackView: function (videoId) {
 
-    var myPlayer = videojs('videofile-' + videoId);
+    var myPlayer = videojs('ewantvideo-' + videoId);
     myPlayer.ready(function(){
         myPlayer.disableProgress({
             autoDisable: true
@@ -181,12 +194,12 @@ M.mod_ewantvideo.videofile = {
   },
   addTracks: function (videoId, tracks) {
 
-    var myPlayer = videojs('videofile-' + videoId);
-    var textTracks = Array();
-    for (idx in tracks) {
+    var myPlayer = videojs('ewantvideo-' + videoId);
+    var textTracks = [];
+    for (var idx in tracks) {
         var track = tracks[idx];
         var tObj = {
-            kind: track['kind'], //kind: 'subtitles', 
+            kind: track['kind'], //kind: 'subtitles',
             src: track['src'],
             srclang : track['srclang'],
             label: track['label']
@@ -194,7 +207,7 @@ M.mod_ewantvideo.videofile = {
         textTracks.push(tObj);
     }
     myPlayer.ready(function(){
-        for (idx in textTracks) {
+        for (var idx in textTracks) {
             var textTrack = textTracks[idx];
             myPlayer.addRemoteTextTrack(textTrack);
         }

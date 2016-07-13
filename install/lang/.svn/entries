@@ -1,7 +1,7 @@
 10
 
 dir
-50
+54
 http://192.168.1.169:18080/svn/TaiwanLIFEap2/trunk/install/lang
 http://192.168.1.169:18080/svn/TaiwanLIFEap2
 
@@ -26,46 +26,46 @@ doris
 
 11953e39-5639-46ae-961e-90a9029f87ac
 
-ms
+uk
 dir
 
-uk
+ms
 dir
 
 my
 dir
 
-be
+ur
 dir
 
 fa
 dir
 
-ur
-dir
-
-bg
-dir
-
-oc_es
+be
 dir
 
 sr_cr_bo
 dir
 
-ja
+oc_es
 dir
 
-fi
+bg
+dir
+
+ja
 dir
 
 uz
 dir
 
-fj
+fi
 dir
 
 bn
+dir
+
+fj
 dir
 
 ne
@@ -125,13 +125,13 @@ dir
 kmr
 dir
 
-ta_lk
+lt_uni
 dir
 
 gd
 dir
 
-lt_uni
+ta_lk
 dir
 
 ka
@@ -146,16 +146,16 @@ dir
 gl
 dir
 
-kk
-dir
-
 cs
 dir
 
-mi_tn
+kk
 dir
 
 kl
+dir
+
+mi_tn
 dir
 
 km
@@ -164,19 +164,19 @@ dir
 kn
 dir
 
-en_us
-dir
-
 ko
 dir
 
-si
+en_us
+dir
+
+gu
 dir
 
 cy
 dir
 
-gu
+si
 dir
 
 en_kids
@@ -194,25 +194,25 @@ dir
 so
 dir
 
-sq
-dir
-
 ky
 dir
 
-sr
+sq
 dir
 
 da
 dir
 
+sr
+dir
+
 wo
 dir
 
-de
+sv
 dir
 
-sv
+de
 dir
 
 ha
